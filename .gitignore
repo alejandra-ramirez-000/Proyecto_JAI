@@ -1,0 +1,19 @@
+# Entorno
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Artefactos intermedios regenerables por el pipeline
+data/interim/*
+!data/interim/.gitkeep
+
+# Modelos serializados
+models/final/*
+!models/final/.gitkeep
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

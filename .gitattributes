@@ -1,0 +1,7 @@
+# Datos y resultados byte a byte: sus SHA-256 están registrados y verificados por tests.
+data/raw/** -text
+data/processed/** -text
+reports/auditoria/** -text
+reports/runs/** -text
+reports/tables/** -text
+config/raw_sha256.txt -text

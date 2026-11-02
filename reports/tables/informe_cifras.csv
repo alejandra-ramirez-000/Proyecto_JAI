@@ -1,0 +1,136 @@
+id,descripcion,valor,fuente
+panel_filas,Filas del panel departamento–ejercicio,45,data/processed/panel_departamento_ejercicio.csv
+panel_filas_rezago,Filas del panel con rezago,40,data/processed/panel_departamento_ejercicio.csv
+intensidad_min,Mínimo de intensidad_ug_ha,0.68,data/processed/panel_departamento_ejercicio.csv
+intensidad_max,Máximo de intensidad_ug_ha,1.229,data/processed/panel_departamento_ejercicio.csv
+mortalidad_min,Mínimo de tasa_mortalidad_1000,31.004,data/processed/panel_departamento_ejercicio.csv
+mortalidad_max,Máximo de tasa_mortalidad_1000,112.346,data/processed/panel_departamento_ejercicio.csv
+mortalidad_mediana_salto,Mediana de mortalidad por mil en Salto,50.1,data/processed/panel_departamento_ejercicio.csv
+mortalidad_mediana_canelones,Mediana de mortalidad por mil en Canelones,81.9,data/processed/panel_departamento_ejercicio.csv
+cobertura_min_ejercicio,"Cobertura climática mínima, ejercicio completo",0.9945,data/processed/panel_departamento_ejercicio.csv
+cobertura_min_jul_oct,"Cobertura climática mínima, julio–octubre",0.9919,data/processed/panel_departamento_ejercicio.csv
+precip_media_2023,"Precipitación media de los cinco departamentos, ejercicio 2023 (mm)",795.0,data/processed/panel_departamento_ejercicio.csv
+precip_media_2023_es_minima,2023 es el ejercicio de menor precipitación media,True,data/processed/panel_departamento_ejercicio.csv
+dias_sin_ci,"Días sin Chill Index calculable (cinco estaciones, todo el archivo)",18,reports/tables/eda_cobertura_estacion_ejercicio.csv
+auditoria_chequeos_ok,Chequeos de la sección 9 que coinciden,22,reports/auditoria/verificacion_seccion9.csv
+auditoria_chequeos_total,Chequeos de la sección 9,22,reports/auditoria/verificacion_seccion9.csv
+filas_ovinas_alcance,Filas ovinas originales en los cinco departamentos,40418,reports/auditoria/verificacion_seccion9.csv
+superficie_negativa_filas,Filas con SuperficieGanadera negativa (todas de 2016),4,reports/auditoria/valores_imposibles.csv
+superficie_enmascarada_filas,Filas con SuperficieGanadera enmascarada (********),2,reports/auditoria/esquema_DatosGenerales.csv
+r_mort_lag_global,"r mortalidad vs. mortalidad del año anterior, global",0.77,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, mortalidad_lag1, r_global]"
+r_mort_lag_intra,"r mortalidad vs. mortalidad del año anterior, intra-departamento",0.43,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, mortalidad_lag1, r_intra_departamento]"
+r_int_lag_global,"r intensidad vs. intensidad del año anterior, global",0.99,"reports/tables/eda_correlaciones.csv [intensidad_ug_ha, intensidad_lag1, r_global]"
+r_int_lag_intra,"r intensidad vs. intensidad del año anterior, intra-departamento",0.62,"reports/tables/eda_correlaciones.csv [intensidad_ug_ha, intensidad_lag1, r_intra_departamento]"
+r_mort_ci1000_global,"r mortalidad vs. dias_ci_ge_1000_ejercicio, global",0.46,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, dias_ci_ge_1000_ejercicio, r_global]"
+r_mort_ci1000_intra,"r mortalidad vs. dias_ci_ge_1000_ejercicio, intra-departamento",0.38,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, dias_ci_ge_1000_ejercicio, r_intra_departamento]"
+r_mort_ci1000_intra_anio,"r mortalidad vs. dias_ci_ge_1000_ejercicio, intra-departamento y año",0.11,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, dias_ci_ge_1000_ejercicio, r_intra_departamento_y_anio]"
+r_mort_ci1200_global,"r mortalidad vs. dias_ci_ge_1200_ejercicio, global",0.35,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, dias_ci_ge_1200_ejercicio, r_global]"
+r_mort_ci1200_intra,"r mortalidad vs. dias_ci_ge_1200_ejercicio, intra-departamento",0.41,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, dias_ci_ge_1200_ejercicio, r_intra_departamento]"
+r_mort_ci1200_intra_anio,"r mortalidad vs. dias_ci_ge_1200_ejercicio, intra-departamento y año",0.13,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, dias_ci_ge_1200_ejercicio, r_intra_departamento_y_anio]"
+r_mort_precip_global,"r mortalidad vs. precip_total_mm_ejercicio, global",0.05,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, precip_total_mm_ejercicio, r_global]"
+r_mort_precip_intra,"r mortalidad vs. precip_total_mm_ejercicio, intra-departamento",0.54,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, precip_total_mm_ejercicio, r_intra_departamento]"
+r_mort_precip_intra_anio,"r mortalidad vs. precip_total_mm_ejercicio, intra-departamento y año",0.35,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, precip_total_mm_ejercicio, r_intra_departamento_y_anio]"
+r_mort_temp_global,"r mortalidad vs. temp_media_c_ejercicio, global",-0.63,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, temp_media_c_ejercicio, r_global]"
+r_mort_temp_intra,"r mortalidad vs. temp_media_c_ejercicio, intra-departamento",0.11,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, temp_media_c_ejercicio, r_intra_departamento]"
+r_mort_temp_intra_anio,"r mortalidad vs. temp_media_c_ejercicio, intra-departamento y año",-0.11,"reports/tables/eda_correlaciones.csv [tasa_mortalidad_1000, temp_media_c_ejercicio, r_intra_departamento_y_anio]"
+R1_completo_MAE,MAE de R1_promedio_departamental (completo),0.02626154204364537,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, R1_promedio_departamental, MAE]"
+R1_completo_MAE_ic95_inf,MAE_ic95_inf de R1_promedio_departamental (completo),0.01968879400915977,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, R1_promedio_departamental, MAE_ic95_inf]"
+R1_completo_MAE_ic95_sup,MAE_ic95_sup de R1_promedio_departamental (completo),0.03410039199000585,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, R1_promedio_departamental, MAE_ic95_sup]"
+R1_rezago_MAE,MAE de R1_promedio_departamental (con_rezago),0.021912859730313115,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, R1_promedio_departamental, MAE]"
+R1_rezago_MAE_ic95_inf,MAE_ic95_inf de R1_promedio_departamental (con_rezago),0.01714223911561646,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, R1_promedio_departamental, MAE_ic95_inf]"
+R1_rezago_MAE_ic95_sup,MAE_ic95_sup de R1_promedio_departamental (con_rezago),0.025686266993246724,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, R1_promedio_departamental, MAE_ic95_sup]"
+R2_MAE,MAE de R2_persistencia (con_rezago),0.019493989578528506,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, R2_persistencia, MAE]"
+R2_MAE_ic95_inf,MAE_ic95_inf de R2_persistencia (con_rezago),0.013835644014465775,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, R2_persistencia, MAE_ic95_inf]"
+R2_MAE_ic95_sup,MAE_ic95_sup de R2_persistencia (con_rezago),0.025260919498282502,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, R2_persistencia, MAE_ic95_sup]"
+ridge_A_completo_MAE,MAE de ridge_A_ejercicio (completo),0.026863408892410068,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, ridge_A_ejercicio, MAE]"
+ridge_A_completo_MAE_ic95_inf,MAE_ic95_inf de ridge_A_ejercicio (completo),0.021115980215433545,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, ridge_A_ejercicio, MAE_ic95_inf]"
+ridge_A_completo_MAE_ic95_sup,MAE_ic95_sup de ridge_A_ejercicio (completo),0.032661012226505186,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, ridge_A_ejercicio, MAE_ic95_sup]"
+ridge_B_completo_MAE,MAE de ridge_B_ejercicio (completo),0.02863175875092295,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, ridge_B_ejercicio, MAE]"
+ridge_B_completo_MAE_ic95_inf,MAE_ic95_inf de ridge_B_ejercicio (completo),0.022864262247571727,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, ridge_B_ejercicio, MAE_ic95_inf]"
+ridge_B_completo_MAE_ic95_sup,MAE_ic95_sup de ridge_B_ejercicio (completo),0.03463892245738115,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [completo, ridge_B_ejercicio, MAE_ic95_sup]"
+ridge_A_rezago_MAE,MAE de ridge_A_ejercicio (con_rezago),0.024627664841915073,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_A_ejercicio, MAE]"
+ridge_A_rezago_MAE_ic95_inf,MAE_ic95_inf de ridge_A_ejercicio (con_rezago),0.0191916176507619,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_A_ejercicio, MAE_ic95_inf]"
+ridge_A_rezago_MAE_ic95_sup,MAE_ic95_sup de ridge_A_ejercicio (con_rezago),0.030209372104619284,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_A_ejercicio, MAE_ic95_sup]"
+ridge_B_rezago_MAE,MAE de ridge_B_ejercicio (con_rezago),0.023871290385164494,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_B_ejercicio, MAE]"
+ridge_B_rezago_MAE_ic95_inf,MAE_ic95_inf de ridge_B_ejercicio (con_rezago),0.020413785472456234,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_B_ejercicio, MAE_ic95_inf]"
+ridge_B_rezago_MAE_ic95_sup,MAE_ic95_sup de ridge_B_ejercicio (con_rezago),0.02681060434406268,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_B_ejercicio, MAE_ic95_sup]"
+ridge_H_MAE,MAE de ridge_H_sin_clima (con_rezago),0.01892259736452114,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_H_sin_clima, MAE]"
+ridge_H_MAE_ic95_inf,MAE_ic95_inf de ridge_H_sin_clima (con_rezago),0.015004762669749592,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_H_sin_clima, MAE_ic95_inf]"
+ridge_H_MAE_ic95_sup,MAE_ic95_sup de ridge_H_sin_clima (con_rezago),0.023018936547307346,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_H_sin_clima, MAE_ic95_sup]"
+ridge_CA_MAE,MAE de ridge_C-A_ejercicio (con_rezago),0.021038984536509327,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_C-A_ejercicio, MAE]"
+ridge_CA_MAE_ic95_inf,MAE_ic95_inf de ridge_C-A_ejercicio (con_rezago),0.015985349012729203,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_C-A_ejercicio, MAE_ic95_inf]"
+ridge_CA_MAE_ic95_sup,MAE_ic95_sup de ridge_C-A_ejercicio (con_rezago),0.025967581442884056,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_C-A_ejercicio, MAE_ic95_sup]"
+ridge_CB_MAE,MAE de ridge_C-B_ejercicio (con_rezago),0.020987704980211,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_C-B_ejercicio, MAE]"
+ridge_CB_MAE_ic95_inf,MAE_ic95_inf de ridge_C-B_ejercicio (con_rezago),0.015883501026179688,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_C-B_ejercicio, MAE_ic95_inf]"
+ridge_CB_MAE_ic95_sup,MAE_ic95_sup de ridge_C-B_ejercicio (con_rezago),0.026737333678718004,"reports/runs/20261030-103735_modelos/regresion_metricas.csv [con_rezago, ridge_C-B_ejercicio, MAE_ic95_sup]"
+ridge_H_skill_mejor_baseline,Skill de MAE de ridge_H_sin_clima frente al mejor baseline,0.029311199316363834,"reports/runs/20261030-103735_modelos/criterios_regresion.csv [con_rezago, ridge_H_sin_clima, skill_vs_mejor_baseline]"
+ridge_H_skill_control,Skill de MAE de ridge_H_sin_clima frente al control sin clima,0.0,"reports/runs/20261030-103735_modelos/criterios_regresion.csv [con_rezago, ridge_H_sin_clima, skill_vs_control_sin_clima]"
+ridge_CA_skill_mejor_baseline,Skill de MAE de ridge_C-A_ejercicio frente al mejor baseline,-0.07925493915737714,"reports/runs/20261030-103735_modelos/criterios_regresion.csv [con_rezago, ridge_C-A_ejercicio, skill_vs_mejor_baseline]"
+ridge_CA_skill_control,Skill de MAE de ridge_C-A_ejercicio frente al control sin clima,-0.11184443294007318,"reports/runs/20261030-103735_modelos/criterios_regresion.csv [con_rezago, ridge_C-A_ejercicio, skill_vs_control_sin_clima]"
+ridge_CB_skill_mejor_baseline,Skill de MAE de ridge_C-B_ejercicio frente al mejor baseline,-0.07662440752136912,"reports/runs/20261030-103735_modelos/criterios_regresion.csv [con_rezago, ridge_C-B_ejercicio, skill_vs_mejor_baseline]"
+ridge_CB_skill_control,Skill de MAE de ridge_C-B_ejercicio frente al control sin clima,-0.10913446901120594,"reports/runs/20261030-103735_modelos/criterios_regresion.csv [con_rezago, ridge_C-B_ejercicio, skill_vs_control_sin_clima]"
+ridge_H_skill_min_sin_anio,Skill mínimo del control H al quitar un ejercicio,-0.04098168332746277,"reports/runs/20261030-103735_modelos/criterios_regresion.csv [con_rezago, ridge_H_sin_clima, skill_minimo_sin_un_anio]"
+C2_balanced_accuracy,balanced_accuracy de C2_persistencia_riesgo (con_rezago),0.731974921630094,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, C2_persistencia_riesgo, balanced_accuracy]"
+C2_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de C2_persistencia_riesgo (con_rezago),0.4956709956709957,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, C2_persistencia_riesgo, balanced_accuracy_ic95_inf]"
+C2_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de C2_persistencia_riesgo (con_rezago),0.9411764705882353,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, C2_persistencia_riesgo, balanced_accuracy_ic95_sup]"
+C2_roc_auc,roc_auc de C2_persistencia_riesgo (con_rezago),0.731974921630094,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, C2_persistencia_riesgo, roc_auc]"
+C2_roc_auc_promedio_folds,roc_auc_promedio_folds de C2_persistencia_riesgo (con_rezago),0.6458333333333334,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, C2_persistencia_riesgo, roc_auc_promedio_folds]"
+C2_prevalencia,prevalencia de C2_persistencia_riesgo (con_rezago),0.275,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, C2_persistencia_riesgo, prevalencia]"
+C1_completo_balanced_accuracy,balanced_accuracy de C1_clase_mayoritaria (completo),0.5,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, C1_clase_mayoritaria, balanced_accuracy]"
+C1_completo_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de C1_clase_mayoritaria (completo),0.5,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, C1_clase_mayoritaria, balanced_accuracy_ic95_inf]"
+C1_completo_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de C1_clase_mayoritaria (completo),0.5,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, C1_clase_mayoritaria, balanced_accuracy_ic95_sup]"
+C1_completo_roc_auc,roc_auc de C1_clase_mayoritaria (completo),0.5,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, C1_clase_mayoritaria, roc_auc]"
+C1_completo_roc_auc_promedio_folds,roc_auc_promedio_folds de C1_clase_mayoritaria (completo),0.5,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, C1_clase_mayoritaria, roc_auc_promedio_folds]"
+C1_completo_prevalencia,prevalencia de C1_clase_mayoritaria (completo),0.3333333333333333,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, C1_clase_mayoritaria, prevalencia]"
+log_H_balanced_accuracy,balanced_accuracy de logistica_H_sin_clima (con_rezago),0.6739811912225706,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_H_sin_clima, balanced_accuracy]"
+log_H_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de logistica_H_sin_clima (con_rezago),0.43242424242424243,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_H_sin_clima, balanced_accuracy_ic95_inf]"
+log_H_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de logistica_H_sin_clima (con_rezago),0.8392857142857143,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_H_sin_clima, balanced_accuracy_ic95_sup]"
+log_H_roc_auc,roc_auc de logistica_H_sin_clima (con_rezago),0.5799373040752351,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_H_sin_clima, roc_auc]"
+log_H_roc_auc_promedio_folds,roc_auc_promedio_folds de logistica_H_sin_clima (con_rezago),0.6041666666666666,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_H_sin_clima, roc_auc_promedio_folds]"
+log_H_prevalencia,prevalencia de logistica_H_sin_clima (con_rezago),0.275,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_H_sin_clima, prevalencia]"
+log_A_completo_balanced_accuracy,balanced_accuracy de logistica_A_ejercicio (completo),0.5833333333333333,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_A_ejercicio, balanced_accuracy]"
+log_A_completo_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de logistica_A_ejercicio (completo),0.47720362407862404,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_A_ejercicio, balanced_accuracy_ic95_inf]"
+log_A_completo_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de logistica_A_ejercicio (completo),0.7048497221469232,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_A_ejercicio, balanced_accuracy_ic95_sup]"
+log_A_completo_roc_auc,roc_auc de logistica_A_ejercicio (completo),0.5044444444444445,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_A_ejercicio, roc_auc]"
+log_A_completo_roc_auc_promedio_folds,roc_auc_promedio_folds de logistica_A_ejercicio (completo),0.6166666666666667,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_A_ejercicio, roc_auc_promedio_folds]"
+log_A_completo_prevalencia,prevalencia de logistica_A_ejercicio (completo),0.3333333333333333,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_A_ejercicio, prevalencia]"
+log_A_rezago_balanced_accuracy,balanced_accuracy de logistica_A_ejercicio (con_rezago),0.48589341692789967,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_A_ejercicio, balanced_accuracy]"
+log_A_rezago_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de logistica_A_ejercicio (con_rezago),0.3194444444444444,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_A_ejercicio, balanced_accuracy_ic95_inf]"
+log_A_rezago_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de logistica_A_ejercicio (con_rezago),0.6861471861471862,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_A_ejercicio, balanced_accuracy_ic95_sup]"
+log_A_rezago_roc_auc,roc_auc de logistica_A_ejercicio (con_rezago),0.45141065830721,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_A_ejercicio, roc_auc]"
+log_A_rezago_roc_auc_promedio_folds,roc_auc_promedio_folds de logistica_A_ejercicio (con_rezago),0.4166666666666667,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_A_ejercicio, roc_auc_promedio_folds]"
+log_A_rezago_prevalencia,prevalencia de logistica_A_ejercicio (con_rezago),0.275,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_A_ejercicio, prevalencia]"
+log_B_completo_balanced_accuracy,balanced_accuracy de logistica_B_ejercicio (completo),0.31666666666666665,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_B_ejercicio, balanced_accuracy]"
+log_B_completo_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de logistica_B_ejercicio (completo),0.18087557603686638,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_B_ejercicio, balanced_accuracy_ic95_inf]"
+log_B_completo_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de logistica_B_ejercicio (completo),0.5462962962962963,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_B_ejercicio, balanced_accuracy_ic95_sup]"
+log_B_completo_roc_auc,roc_auc de logistica_B_ejercicio (completo),0.30666666666666664,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_B_ejercicio, roc_auc]"
+log_B_completo_roc_auc_promedio_folds,roc_auc_promedio_folds de logistica_B_ejercicio (completo),0.4333333333333334,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_B_ejercicio, roc_auc_promedio_folds]"
+log_B_completo_prevalencia,prevalencia de logistica_B_ejercicio (completo),0.3333333333333333,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [completo, logistica_B_ejercicio, prevalencia]"
+log_B_rezago_balanced_accuracy,balanced_accuracy de logistica_B_ejercicio (con_rezago),0.31974921630094044,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_B_ejercicio, balanced_accuracy]"
+log_B_rezago_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de logistica_B_ejercicio (con_rezago),0.20814393939393938,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_B_ejercicio, balanced_accuracy_ic95_inf]"
+log_B_rezago_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de logistica_B_ejercicio (con_rezago),0.5343137254901961,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_B_ejercicio, balanced_accuracy_ic95_sup]"
+log_B_rezago_roc_auc,roc_auc de logistica_B_ejercicio (con_rezago),0.1943573667711599,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_B_ejercicio, roc_auc]"
+log_B_rezago_roc_auc_promedio_folds,roc_auc_promedio_folds de logistica_B_ejercicio (con_rezago),0.2916666666666667,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_B_ejercicio, roc_auc_promedio_folds]"
+log_B_rezago_prevalencia,prevalencia de logistica_B_ejercicio (con_rezago),0.275,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_B_ejercicio, prevalencia]"
+log_CA_balanced_accuracy,balanced_accuracy de logistica_C-A_ejercicio (con_rezago),0.5031347962382445,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-A_ejercicio, balanced_accuracy]"
+log_CA_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de logistica_C-A_ejercicio (con_rezago),0.3872023809523809,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-A_ejercicio, balanced_accuracy_ic95_inf]"
+log_CA_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de logistica_C-A_ejercicio (con_rezago),0.6341991341991342,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-A_ejercicio, balanced_accuracy_ic95_sup]"
+log_CA_roc_auc,roc_auc de logistica_C-A_ejercicio (con_rezago),0.42633228840125387,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-A_ejercicio, roc_auc]"
+log_CA_roc_auc_promedio_folds,roc_auc_promedio_folds de logistica_C-A_ejercicio (con_rezago),0.5,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-A_ejercicio, roc_auc_promedio_folds]"
+log_CA_prevalencia,prevalencia de logistica_C-A_ejercicio (con_rezago),0.275,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-A_ejercicio, prevalencia]"
+log_CB_balanced_accuracy,balanced_accuracy de logistica_C-B_ejercicio (con_rezago),0.3714733542319749,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-B_ejercicio, balanced_accuracy]"
+log_CB_balanced_accuracy_ic95_inf,balanced_accuracy_ic95_inf de logistica_C-B_ejercicio (con_rezago),0.31547619047619047,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-B_ejercicio, balanced_accuracy_ic95_inf]"
+log_CB_balanced_accuracy_ic95_sup,balanced_accuracy_ic95_sup de logistica_C-B_ejercicio (con_rezago),0.4444444444444444,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-B_ejercicio, balanced_accuracy_ic95_sup]"
+log_CB_roc_auc,roc_auc de logistica_C-B_ejercicio (con_rezago),0.3009404388714733,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-B_ejercicio, roc_auc]"
+log_CB_roc_auc_promedio_folds,roc_auc_promedio_folds de logistica_C-B_ejercicio (con_rezago),0.33333333333333337,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-B_ejercicio, roc_auc_promedio_folds]"
+log_CB_prevalencia,prevalencia de logistica_C-B_ejercicio (con_rezago),0.275,"reports/runs/20261030-103735_modelos/clasificacion_metricas.csv [con_rezago, logistica_C-B_ejercicio, prevalencia]"
+log_H_v10_balanced_accuracy,BA del control H con el criterio v1.0,0.3448275862068966,"reports/runs/20261030-092748_modelos/clasificacion_metricas.csv [con_rezago, logistica_H_sin_clima, balanced_accuracy]"
+log_H_fijo_balanced_accuracy,BA del control H con C fijo (exploratoria),0.7021943573667712,"reports/runs/20261030-102307_exploratoria_hiperparametros_fijos/clasificacion_metricas.csv [con_rezago, logistica_H_sin_clima_fijo, balanced_accuracy]"
+log_A_completo_dif_min_sin_anio,Diferencia mínima de BA de logística A (completo) al quitar un año,0.053333333333333344,"reports/runs/20261030-103735_modelos/criterios_clasificacion.csv [completo, logistica_A_ejercicio, diferencia_minima_sin_un_anio]"
+brier_min_baseline_completo,Brier mínimo de los baselines (completo),0.229,reports/runs/20261030-103735_modelos/clasificacion_metricas.csv
+brier_min_modelos_completo,Brier mínimo de los modelos no baseline (completo),0.239,reports/runs/20261030-103735_modelos/clasificacion_metricas.csv
+brier_min_baseline_con_rezago,Brier mínimo de los baselines (con_rezago),0.199,reports/runs/20261030-103735_modelos/clasificacion_metricas.csv
+brier_min_modelos_con_rezago,Brier mínimo de los modelos no baseline (con_rezago),0.25,reports/runs/20261030-103735_modelos/clasificacion_metricas.csv
+especificaciones_evaluadas,Especificaciones no baseline evaluadas (regresión + clasificación),66,reports/runs/20261030-103735_modelos/clasificacion_metricas.csv
+regresion_principales_con_valor,Modelos principales con valor predictivo (regresion),0,reports/runs/20261030-103735_modelos/criterios_regresion.csv
+clasificacion_principales_con_valor,Modelos principales con valor predictivo (clasificacion),0,reports/runs/20261030-103735_modelos/criterios_clasificacion.csv

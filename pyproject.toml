@@ -1,0 +1,9 @@
+[project]
+name = "proyecto-jai"
+version = "0.1.0"
+description = "Capacidad predictiva del Chill Index sobre intensidad ganadera y mortalidad ovina en Uruguay"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

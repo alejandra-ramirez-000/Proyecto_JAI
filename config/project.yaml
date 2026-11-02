@@ -1,0 +1,93 @@
+# Configuración central del proyecto.
+# Refleja las decisiones cerradas de ESPECIFICACION_COMPLETA_PROYECTO.md (sección 35).
+# Cualquier cambio debe registrarse en el historial de la especificación.
+
+project:
+  random_seed: 42
+  start_year: 2017        # primer ejercicio ganadero completo con clima INIA
+  end_year: 2025
+  snig_years: [2016, 2025]
+
+paths:
+  raw_inia: data/raw/INIA.csv
+  raw_animales: data/raw/SNIG/DatosAnimales.csv
+  raw_generales: data/raw/SNIG/DatosGenerales.csv
+  catalogo_departamentos: data/raw/SNIG/Catalogos/Departamentos.csv
+  catalogo_especies: data/raw/SNIG/Catalogos/Especies.csv
+  interim_dir: data/interim
+  processed_dir: data/processed
+  figures_dir: reports/figures
+  tables_dir: reports/tables
+  models_dir: models/final
+  raw_dir: data/raw
+  raw_hash_manifest: config/raw_sha256.txt
+  audit_dir: reports/auditoria
+  runs_dir: reports/runs   # cada corrida de modelos guarda sus resultados en una carpeta con fecha
+
+departments:
+  2:
+    name: Canelones
+    station: Las Brujas
+  4:
+    name: Colonia
+    station: La Estanzuela
+  15:
+    name: Salto
+    station: Salto Grande
+  18:
+    name: Tacuarembó
+    station: Tacuarembó La Magnolia
+  19:
+    name: Treinta y Tres
+    station: Treinta y Tres Paso de la Laguna
+
+# Estaciones presentes en INIA.csv que no se usan.
+# El nombre está escrito tal como aparece en data/raw/EstacionAgr.csv (con la errata original).
+excluded_stations:
+  - Tacuaremnó Glencore
+
+species:
+  sheep_code: 2
+
+climate:
+  exercise_start_month: 7
+  sensitive_months: [7, 8, 9, 10]
+  minimum_coverage: 0.95
+  wind_conversion_divisor: 86.4
+  chill_thresholds: [900, 1000, 1100, 1200]
+  columns:
+    temperature: TempAireMedia
+    precipitation: PrecipAcum
+    wind_run: RecorridoViento
+
+targets:
+  mortality_per: 1000
+  high_mortality_quantile: 0.75
+
+# Hallazgos de la auditoría preliminar (sección 9) que el pipeline vuelve a verificar.
+expected_raw:
+  animales_rows: 677035
+  generales_rows: 315536
+  ovinos_rows_scope: 40418
+  department_years_scope: 50
+  inia_first_date: "2016-01-01"
+  inia_last_date: "2026-03-17"
+
+# Rangos físicamente plausibles para detectar valores imposibles en INIA.
+plausible_ranges:
+  TempAireMedia: [-15, 45]
+  PrecipAcum: [0, 500]
+  RecorridoViento: [0, 2000]
+
+expected_panel:
+  rows: 45
+  departments: 5
+  exercises: 9
+  rows_with_lag: 40
+  exercises_with_lag: 8
+
+validation:
+  method: leave_one_year_out
+  bootstrap_samples: 2000      # bootstrap por bloques de ejercicio (sección 18.4)
+  weak_improvement_mae: 0.05   # mejora < 5 % en MAE frente al mejor baseline se considera débil (sección 20)
+  n_jobs: -1                   # procesos para correr especificaciones en paralelo (los resultados no cambian)

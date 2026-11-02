@@ -1,0 +1,121 @@
+DepartamentoCodigo,Departamento,objetivo,variable,n,r
+2,Canelones,tasa_mortalidad_1000,temp_media_c,9,0.5446507844693221
+2,Canelones,tasa_mortalidad_1000,precip_total_mm,9,0.5350170598095708
+2,Canelones,tasa_mortalidad_1000,viento_medio_ms,9,0.21354255190128638
+2,Canelones,tasa_mortalidad_1000,ci_medio,9,0.13582199882760101
+2,Canelones,tasa_mortalidad_1000,ci_max,9,-0.10681001702381569
+2,Canelones,tasa_mortalidad_1000,ci_p95,9,0.07510667056236735
+2,Canelones,tasa_mortalidad_1000,dias_ci_ge_900,9,0.040550011487942676
+2,Canelones,tasa_mortalidad_1000,dias_ci_ge_1000,9,0.04617116742276781
+2,Canelones,tasa_mortalidad_1000,dias_ci_ge_1100,9,0.25297175018495816
+2,Canelones,tasa_mortalidad_1000,dias_ci_ge_1200,9,0.42145231725812704
+2,Canelones,tasa_mortalidad_1000,racha_max_ci_ge_1000,9,0.1612666506271543
+2,Canelones,tasa_mortalidad_1000,racha_max_ci_ge_1200,9,-0.33356666614701475
+2,Canelones,intensidad_ug_ha,temp_media_c,9,-0.18324822310435213
+2,Canelones,intensidad_ug_ha,precip_total_mm,9,-0.5578658276839874
+2,Canelones,intensidad_ug_ha,viento_medio_ms,9,0.1937928443207346
+2,Canelones,intensidad_ug_ha,ci_medio,9,0.012461786049171543
+2,Canelones,intensidad_ug_ha,ci_max,9,-0.36563637112632663
+2,Canelones,intensidad_ug_ha,ci_p95,9,-0.44984930636061776
+2,Canelones,intensidad_ug_ha,dias_ci_ge_900,9,0.17928811422248958
+2,Canelones,intensidad_ug_ha,dias_ci_ge_1000,9,-0.0883238893011291
+2,Canelones,intensidad_ug_ha,dias_ci_ge_1100,9,-0.5350033733755436
+2,Canelones,intensidad_ug_ha,dias_ci_ge_1200,9,-0.5052929020813131
+2,Canelones,intensidad_ug_ha,racha_max_ci_ge_1000,9,-0.28023555784522625
+2,Canelones,intensidad_ug_ha,racha_max_ci_ge_1200,9,0.14297524456126645
+4,Colonia,tasa_mortalidad_1000,temp_media_c,9,-0.16010694510365947
+4,Colonia,tasa_mortalidad_1000,precip_total_mm,9,0.753719247088655
+4,Colonia,tasa_mortalidad_1000,viento_medio_ms,9,-0.42009607797715914
+4,Colonia,tasa_mortalidad_1000,ci_medio,9,0.464675699890651
+4,Colonia,tasa_mortalidad_1000,ci_max,9,0.17773393332195175
+4,Colonia,tasa_mortalidad_1000,ci_p95,9,0.26671658011827537
+4,Colonia,tasa_mortalidad_1000,dias_ci_ge_900,9,0.29478419841716924
+4,Colonia,tasa_mortalidad_1000,dias_ci_ge_1000,9,0.38815873366578957
+4,Colonia,tasa_mortalidad_1000,dias_ci_ge_1100,9,0.37399170559287087
+4,Colonia,tasa_mortalidad_1000,dias_ci_ge_1200,9,0.10743072986660511
+4,Colonia,tasa_mortalidad_1000,racha_max_ci_ge_1000,9,0.16302600321987062
+4,Colonia,tasa_mortalidad_1000,racha_max_ci_ge_1200,9,-0.4206818955136317
+4,Colonia,intensidad_ug_ha,temp_media_c,9,-0.42442856670114304
+4,Colonia,intensidad_ug_ha,precip_total_mm,9,-0.3125553125971561
+4,Colonia,intensidad_ug_ha,viento_medio_ms,9,-0.4280192162794876
+4,Colonia,intensidad_ug_ha,ci_medio,9,-0.03802052930189985
+4,Colonia,intensidad_ug_ha,ci_max,9,-0.3001691007311969
+4,Colonia,intensidad_ug_ha,ci_p95,9,-0.3933003469792132
+4,Colonia,intensidad_ug_ha,dias_ci_ge_900,9,0.42689435177124047
+4,Colonia,intensidad_ug_ha,dias_ci_ge_1000,9,0.08875344481946282
+4,Colonia,intensidad_ug_ha,dias_ci_ge_1100,9,-0.46900566510950387
+4,Colonia,intensidad_ug_ha,dias_ci_ge_1200,9,-0.6533869164438432
+4,Colonia,intensidad_ug_ha,racha_max_ci_ge_1000,9,0.3165896947991667
+4,Colonia,intensidad_ug_ha,racha_max_ci_ge_1200,9,-0.34664097239817404
+15,Salto,tasa_mortalidad_1000,temp_media_c,9,-0.17035691035279263
+15,Salto,tasa_mortalidad_1000,precip_total_mm,9,0.8009228460160235
+15,Salto,tasa_mortalidad_1000,viento_medio_ms,9,0.29719745635979516
+15,Salto,tasa_mortalidad_1000,ci_medio,9,0.7106060580516084
+15,Salto,tasa_mortalidad_1000,ci_max,9,0.01951485335267705
+15,Salto,tasa_mortalidad_1000,ci_p95,9,0.78124000896124
+15,Salto,tasa_mortalidad_1000,dias_ci_ge_900,9,0.5146244743085276
+15,Salto,tasa_mortalidad_1000,dias_ci_ge_1000,9,0.8624795105942542
+15,Salto,tasa_mortalidad_1000,dias_ci_ge_1100,9,0.605746487193463
+15,Salto,tasa_mortalidad_1000,dias_ci_ge_1200,9,0.5167332240336714
+15,Salto,tasa_mortalidad_1000,racha_max_ci_ge_1000,9,0.20304139798045454
+15,Salto,tasa_mortalidad_1000,racha_max_ci_ge_1200,9,0.7474263289635337
+15,Salto,intensidad_ug_ha,temp_media_c,9,-0.31315893089775815
+15,Salto,intensidad_ug_ha,precip_total_mm,9,0.06387364816566667
+15,Salto,intensidad_ug_ha,viento_medio_ms,9,-0.02861672649702489
+15,Salto,intensidad_ug_ha,ci_medio,9,0.27230255919650437
+15,Salto,intensidad_ug_ha,ci_max,9,0.32403067271427216
+15,Salto,intensidad_ug_ha,ci_p95,9,0.4331143128780296
+15,Salto,intensidad_ug_ha,dias_ci_ge_900,9,-0.12725883216468942
+15,Salto,intensidad_ug_ha,dias_ci_ge_1000,9,0.11291067777218691
+15,Salto,intensidad_ug_ha,dias_ci_ge_1100,9,0.29302944935427916
+15,Salto,intensidad_ug_ha,dias_ci_ge_1200,9,0.18162771582626122
+15,Salto,intensidad_ug_ha,racha_max_ci_ge_1000,9,0.7135812334135538
+15,Salto,intensidad_ug_ha,racha_max_ci_ge_1200,9,0.017824066463310775
+18,Tacuarembó,tasa_mortalidad_1000,temp_media_c,9,0.05804570812547854
+18,Tacuarembó,tasa_mortalidad_1000,precip_total_mm,9,0.5098927789613114
+18,Tacuarembó,tasa_mortalidad_1000,viento_medio_ms,9,0.5896298570397209
+18,Tacuarembó,tasa_mortalidad_1000,ci_medio,9,0.5819470329036235
+18,Tacuarembó,tasa_mortalidad_1000,ci_max,9,0.3585665433190582
+18,Tacuarembó,tasa_mortalidad_1000,ci_p95,9,0.6555560028686762
+18,Tacuarembó,tasa_mortalidad_1000,dias_ci_ge_900,9,0.42865886525660024
+18,Tacuarembó,tasa_mortalidad_1000,dias_ci_ge_1000,9,0.58903156937797
+18,Tacuarembó,tasa_mortalidad_1000,dias_ci_ge_1100,9,0.6319978198813418
+18,Tacuarembó,tasa_mortalidad_1000,dias_ci_ge_1200,9,0.7376232341039514
+18,Tacuarembó,tasa_mortalidad_1000,racha_max_ci_ge_1000,9,0.5936160873376043
+18,Tacuarembó,tasa_mortalidad_1000,racha_max_ci_ge_1200,9,0.43128778954834546
+18,Tacuarembó,intensidad_ug_ha,temp_media_c,9,-0.1499988937990888
+18,Tacuarembó,intensidad_ug_ha,precip_total_mm,9,-0.0978261615882085
+18,Tacuarembó,intensidad_ug_ha,viento_medio_ms,9,0.05755482326091538
+18,Tacuarembó,intensidad_ug_ha,ci_medio,9,-0.012068404704736867
+18,Tacuarembó,intensidad_ug_ha,ci_max,9,-0.17738492678566825
+18,Tacuarembó,intensidad_ug_ha,ci_p95,9,0.11571829144045255
+18,Tacuarembó,intensidad_ug_ha,dias_ci_ge_900,9,0.24489503084344244
+18,Tacuarembó,intensidad_ug_ha,dias_ci_ge_1000,9,-0.08729192720260166
+18,Tacuarembó,intensidad_ug_ha,dias_ci_ge_1100,9,-0.05958419108562325
+18,Tacuarembó,intensidad_ug_ha,dias_ci_ge_1200,9,0.0387938104058237
+18,Tacuarembó,intensidad_ug_ha,racha_max_ci_ge_1000,9,0.13424677516291084
+18,Tacuarembó,intensidad_ug_ha,racha_max_ci_ge_1200,9,-0.6564472563758813
+19,Treinta y Tres,tasa_mortalidad_1000,temp_media_c,9,0.06667320174698675
+19,Treinta y Tres,tasa_mortalidad_1000,precip_total_mm,9,0.1992314229555544
+19,Treinta y Tres,tasa_mortalidad_1000,viento_medio_ms,9,-0.19243358660516532
+19,Treinta y Tres,tasa_mortalidad_1000,ci_medio,9,0.10207253324890717
+19,Treinta y Tres,tasa_mortalidad_1000,ci_max,9,-0.07892199484188166
+19,Treinta y Tres,tasa_mortalidad_1000,ci_p95,9,0.27900077051334815
+19,Treinta y Tres,tasa_mortalidad_1000,dias_ci_ge_900,9,-0.1506704910060737
+19,Treinta y Tres,tasa_mortalidad_1000,dias_ci_ge_1000,9,0.29364493317513124
+19,Treinta y Tres,tasa_mortalidad_1000,dias_ci_ge_1100,9,0.2688189775302793
+19,Treinta y Tres,tasa_mortalidad_1000,dias_ci_ge_1200,9,0.14219508065078848
+19,Treinta y Tres,tasa_mortalidad_1000,racha_max_ci_ge_1000,9,0.5037329019813934
+19,Treinta y Tres,tasa_mortalidad_1000,racha_max_ci_ge_1200,9,0.3795983201000809
+19,Treinta y Tres,intensidad_ug_ha,temp_media_c,9,0.4882933804818287
+19,Treinta y Tres,intensidad_ug_ha,precip_total_mm,9,-0.4769293864528894
+19,Treinta y Tres,intensidad_ug_ha,viento_medio_ms,9,0.1251943779018794
+19,Treinta y Tres,intensidad_ug_ha,ci_medio,9,-0.5312446630599581
+19,Treinta y Tres,intensidad_ug_ha,ci_max,9,-0.056611196553751894
+19,Treinta y Tres,intensidad_ug_ha,ci_p95,9,-0.42947602920985856
+19,Treinta y Tres,intensidad_ug_ha,dias_ci_ge_900,9,-0.4166745445583375
+19,Treinta y Tres,intensidad_ug_ha,dias_ci_ge_1000,9,-0.5642499650208265
+19,Treinta y Tres,intensidad_ug_ha,dias_ci_ge_1100,9,-0.4372363855712946
+19,Treinta y Tres,intensidad_ug_ha,dias_ci_ge_1200,9,-0.3317638952683765
+19,Treinta y Tres,intensidad_ug_ha,racha_max_ci_ge_1000,9,0.1686308062532769
+19,Treinta y Tres,intensidad_ug_ha,racha_max_ci_ge_1200,9,-0.6985898861683197

@@ -1,0 +1,18 @@
+# Dependencias directas del proyecto (Python >= 3.11; probado con 3.12.7).
+# El entorno completo con dependencias transitivas está en requirements-lock.txt.
+
+pandas==3.1.0
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+joblib==1.6.0
+matplotlib==3.11.2
+seaborn==0.13.2
+pyarrow==26.0.0
+PyYAML==6.0.3
+pytest==9.2.0
+
+# Opcionales
+statsmodels==0.15.0
+ipykernel==7.4.0
+python-pptx==1.0.2   # solo para reports/banner/build_banner.py

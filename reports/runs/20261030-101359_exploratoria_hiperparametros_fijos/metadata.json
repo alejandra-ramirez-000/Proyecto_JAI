@@ -1,0 +1,521 @@
+{
+  "corrida": "exploratoria_hiperparametros_fijos",
+  "generado": "2026-10-30T10:13:59",
+  "python": "3.12.7",
+  "paquetes": {
+    "pandas": "3.1.0",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1"
+  },
+  "semilla": 42,
+  "panel_sha256": "e81c7bb3c75fe9483e5c9010404b8a67731f6833da3e1fedda0cb8310188dfe2",
+  "raw_sha256": {
+    "data/raw/Departamentos.csv": "ddaf84ea65e0524e848cda6608ad24e8b363f490c90314fdf6ee3828c85be0d8",
+    "data/raw/EstacionAgr.csv": "86f9c26f41c4338e30d609b2b85eeba5a304ef03fab1c3cacff85b2dacf9f80e",
+    "data/raw/INIA.csv": "dc73e21e879fce5830461207eafc190ac90c0efaef59a76f7ec34d299ec89385",
+    "data/raw/Metadatos INIA.txt": "b82a975521d5bb857d04e7faa9f3ac1b54354eabe56a9304df4327b97aa3e307",
+    "data/raw/SNIG/Catalogos/Departamentos.csv": "ddaf84ea65e0524e848cda6608ad24e8b363f490c90314fdf6ee3828c85be0d8",
+    "data/raw/SNIG/Catalogos/Especies.csv": "3f0d5121cfc2e3fa807792b181a0e8543d9f1f899f0fd8fa9493a4d78f53b023",
+    "data/raw/SNIG/DatosAnimales.csv": "7f3290ea36de4be3035b44843d2b880e0825c9f5ece86d471d8bc752a523c2da",
+    "data/raw/SNIG/DatosGenerales.csv": "4ca182859734fbf253becbf864c02159518b7e2178d4cdd347ad1136da31d783"
+  },
+  "folds_por_conjunto": {
+    "completo": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "con_rezago": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  "modelos": {
+    "regresion": [
+      {
+        "nombre": "R1_promedio_departamental",
+        "rol": "baseline",
+        "requiere_rezago": false,
+        "variables": null,
+        "grilla": null
+      },
+      {
+        "nombre": "R2_persistencia",
+        "rol": "baseline",
+        "requiere_rezago": true,
+        "variables": null,
+        "grilla": null
+      },
+      {
+        "nombre": "ridge_A_ejercicio_fijo",
+        "rol": "principal",
+        "requiere_rezago": false,
+        "variables": [
+          "temp_media_c_ejercicio",
+          "precip_total_mm_ejercicio",
+          "viento_medio_ms_ejercicio"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      },
+      {
+        "nombre": "ridge_C-A_ejercicio_fijo",
+        "rol": "principal",
+        "requiere_rezago": true,
+        "variables": [
+          "temp_media_c_ejercicio",
+          "precip_total_mm_ejercicio",
+          "viento_medio_ms_ejercicio",
+          "intensidad_lag1"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      },
+      {
+        "nombre": "ridge_B_ejercicio_fijo",
+        "rol": "principal",
+        "requiere_rezago": false,
+        "variables": [
+          "dias_ci_ge_1000_ejercicio",
+          "dias_ci_ge_1200_ejercicio",
+          "ci_max_ejercicio"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      },
+      {
+        "nombre": "ridge_C-B_ejercicio_fijo",
+        "rol": "principal",
+        "requiere_rezago": true,
+        "variables": [
+          "dias_ci_ge_1000_ejercicio",
+          "dias_ci_ge_1200_ejercicio",
+          "ci_max_ejercicio",
+          "intensidad_lag1"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      },
+      {
+        "nombre": "ridge_A_jul_oct_fijo",
+        "rol": "sensibilidad",
+        "requiere_rezago": false,
+        "variables": [
+          "temp_media_c_jul_oct",
+          "precip_total_mm_jul_oct",
+          "viento_medio_ms_jul_oct"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      },
+      {
+        "nombre": "ridge_C-A_jul_oct_fijo",
+        "rol": "sensibilidad",
+        "requiere_rezago": true,
+        "variables": [
+          "temp_media_c_jul_oct",
+          "precip_total_mm_jul_oct",
+          "viento_medio_ms_jul_oct",
+          "intensidad_lag1"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      },
+      {
+        "nombre": "ridge_B_jul_oct_fijo",
+        "rol": "sensibilidad",
+        "requiere_rezago": false,
+        "variables": [
+          "dias_ci_ge_1000_jul_oct",
+          "dias_ci_ge_1200_jul_oct",
+          "ci_max_jul_oct"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      },
+      {
+        "nombre": "ridge_C-B_jul_oct_fijo",
+        "rol": "sensibilidad",
+        "requiere_rezago": true,
+        "variables": [
+          "dias_ci_ge_1000_jul_oct",
+          "dias_ci_ge_1200_jul_oct",
+          "ci_max_jul_oct",
+          "intensidad_lag1"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      },
+      {
+        "nombre": "ridge_H_sin_clima_fijo",
+        "rol": "control",
+        "requiere_rezago": true,
+        "variables": [
+          "intensidad_lag1"
+        ],
+        "grilla": {
+          "alpha": [
+            1.0
+          ]
+        }
+      }
+    ],
+    "clasificacion": [
+      {
+        "nombre": "C1_clase_mayoritaria",
+        "rol": "baseline",
+        "requiere_rezago": false,
+        "variables": null,
+        "grilla": null
+      },
+      {
+        "nombre": "C2_persistencia_riesgo",
+        "rol": "baseline",
+        "requiere_rezago": true,
+        "variables": null,
+        "grilla": null
+      },
+      {
+        "nombre": "C3_historial_departamental",
+        "rol": "baseline",
+        "requiere_rezago": false,
+        "variables": null,
+        "grilla": null
+      },
+      {
+        "nombre": "logistica_A_ejercicio_fijo",
+        "rol": "principal",
+        "requiere_rezago": false,
+        "variables": [
+          "temp_media_c_ejercicio",
+          "precip_total_mm_ejercicio",
+          "viento_medio_ms_ejercicio"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      },
+      {
+        "nombre": "logistica_C-A_ejercicio_fijo",
+        "rol": "principal",
+        "requiere_rezago": true,
+        "variables": [
+          "temp_media_c_ejercicio",
+          "precip_total_mm_ejercicio",
+          "viento_medio_ms_ejercicio",
+          "mortalidad_lag1"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      },
+      {
+        "nombre": "logistica_B_ejercicio_fijo",
+        "rol": "principal",
+        "requiere_rezago": false,
+        "variables": [
+          "dias_ci_ge_1000_ejercicio",
+          "dias_ci_ge_1200_ejercicio",
+          "ci_max_ejercicio"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      },
+      {
+        "nombre": "logistica_C-B_ejercicio_fijo",
+        "rol": "principal",
+        "requiere_rezago": true,
+        "variables": [
+          "dias_ci_ge_1000_ejercicio",
+          "dias_ci_ge_1200_ejercicio",
+          "ci_max_ejercicio",
+          "mortalidad_lag1"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      },
+      {
+        "nombre": "logistica_A_jul_oct_fijo",
+        "rol": "sensibilidad",
+        "requiere_rezago": false,
+        "variables": [
+          "temp_media_c_jul_oct",
+          "precip_total_mm_jul_oct",
+          "viento_medio_ms_jul_oct"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      },
+      {
+        "nombre": "logistica_C-A_jul_oct_fijo",
+        "rol": "sensibilidad",
+        "requiere_rezago": true,
+        "variables": [
+          "temp_media_c_jul_oct",
+          "precip_total_mm_jul_oct",
+          "viento_medio_ms_jul_oct",
+          "mortalidad_lag1"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      },
+      {
+        "nombre": "logistica_B_jul_oct_fijo",
+        "rol": "sensibilidad",
+        "requiere_rezago": false,
+        "variables": [
+          "dias_ci_ge_1000_jul_oct",
+          "dias_ci_ge_1200_jul_oct",
+          "ci_max_jul_oct"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      },
+      {
+        "nombre": "logistica_C-B_jul_oct_fijo",
+        "rol": "sensibilidad",
+        "requiere_rezago": true,
+        "variables": [
+          "dias_ci_ge_1000_jul_oct",
+          "dias_ci_ge_1200_jul_oct",
+          "ci_max_jul_oct",
+          "mortalidad_lag1"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      },
+      {
+        "nombre": "logistica_H_sin_clima_fijo",
+        "rol": "control",
+        "requiere_rezago": true,
+        "variables": [
+          "mortalidad_lag1"
+        ],
+        "grilla": {
+          "C": [
+            1.0
+          ],
+          "class_weight": [
+            "balanced"
+          ]
+        }
+      }
+    ]
+  },
+  "configuracion": {
+    "project": {
+      "random_seed": 42,
+      "start_year": 2017,
+      "end_year": 2025,
+      "snig_years": [
+        2016,
+        2025
+      ]
+    },
+    "paths": {
+      "raw_inia": "data/raw/INIA.csv",
+      "raw_animales": "data/raw/SNIG/DatosAnimales.csv",
+      "raw_generales": "data/raw/SNIG/DatosGenerales.csv",
+      "catalogo_departamentos": "data/raw/SNIG/Catalogos/Departamentos.csv",
+      "catalogo_especies": "data/raw/SNIG/Catalogos/Especies.csv",
+      "interim_dir": "data/interim",
+      "processed_dir": "data/processed",
+      "figures_dir": "reports/figures",
+      "tables_dir": "reports/tables",
+      "models_dir": "models/final",
+      "raw_dir": "data/raw",
+      "raw_hash_manifest": "config/raw_sha256.txt",
+      "audit_dir": "reports/auditoria",
+      "runs_dir": "reports/runs"
+    },
+    "departments": {
+      "2": {
+        "name": "Canelones",
+        "station": "Las Brujas"
+      },
+      "4": {
+        "name": "Colonia",
+        "station": "La Estanzuela"
+      },
+      "15": {
+        "name": "Salto",
+        "station": "Salto Grande"
+      },
+      "18": {
+        "name": "Tacuarembó",
+        "station": "Tacuarembó La Magnolia"
+      },
+      "19": {
+        "name": "Treinta y Tres",
+        "station": "Treinta y Tres Paso de la Laguna"
+      }
+    },
+    "excluded_stations": [
+      "Tacuaremnó Glencore"
+    ],
+    "species": {
+      "sheep_code": 2
+    },
+    "climate": {
+      "exercise_start_month": 7,
+      "sensitive_months": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "minimum_coverage": 0.95,
+      "wind_conversion_divisor": 86.4,
+      "chill_thresholds": [
+        900,
+        1000,
+        1100,
+        1200
+      ],
+      "columns": {
+        "temperature": "TempAireMedia",
+        "precipitation": "PrecipAcum",
+        "wind_run": "RecorridoViento"
+      }
+    },
+    "targets": {
+      "mortality_per": 1000,
+      "high_mortality_quantile": 0.75
+    },
+    "expected_raw": {
+      "animales_rows": 677035,
+      "generales_rows": 315536,
+      "ovinos_rows_scope": 40418,
+      "department_years_scope": 50,
+      "inia_first_date": "2016-01-01",
+      "inia_last_date": "2026-03-17"
+    },
+    "plausible_ranges": {
+      "TempAireMedia": [
+        -15,
+        45
+      ],
+      "PrecipAcum": [
+        0,
+        500
+      ],
+      "RecorridoViento": [
+        0,
+        2000
+      ]
+    },
+    "expected_panel": {
+      "rows": 45,
+      "departments": 5,
+      "exercises": 9,
+      "rows_with_lag": 40,
+      "exercises_with_lag": 8
+    },
+    "validation": {
+      "method": "leave_one_year_out",
+      "bootstrap_samples": 2000,
+      "weak_improvement_mae": 0.05
+    }
+  },
+  "exploratoria": {
+    "corrida_de_referencia": "20261030-092748_modelos",
+    "grillas_fijas": {
+      "ridge": {
+        "alpha": [
+          1.0
+        ]
+      },
+      "logistica": {
+        "C": [
+          1.0
+        ],
+        "class_weight": [
+          "balanced"
+        ]
+      }
+    }
+  },
+  "nota": "Ronda EXPLORATORIA definida después de ver la corrida 20261030-092748_modelos. Hiperparámetros fijos (Ridge alpha=1; logística C=1, class_weight='balanced'). No reemplaza a la corrida registrada ni constituye una evaluación no sesgada."
+}

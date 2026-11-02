@@ -1,0 +1,409 @@
+modelo,conjunto,fold,hiperparametros,puntaje_interno
+logistica_A_ejercicio,completo,2017,"{""C"": 10, ""class_weight"": null}",0.5391849529780565
+logistica_A_ejercicio,completo,2018,"{""C"": 0.3, ""class_weight"": ""balanced""}",0.6098901098901099
+logistica_A_ejercicio,completo,2019,"{""C"": 10, ""class_weight"": null}",0.5846394984326019
+logistica_A_ejercicio,completo,2020,"{""C"": 0.1, ""class_weight"": ""balanced""}",0.621082621082621
+logistica_A_ejercicio,completo,2021,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.5655270655270654
+logistica_A_ejercicio,completo,2022,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.50997150997151
+logistica_A_ejercicio,completo,2023,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_ejercicio,completo,2024,"{""C"": 3, ""class_weight"": null}",0.5714285714285714
+logistica_A_ejercicio,completo,2025,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.6630094043887147
+logistica_A_ejercicio,con_rezago,2018,"{""C"": 10, ""class_weight"": null}",0.6699999999999999
+logistica_A_ejercicio,con_rezago,2019,"{""C"": 10, ""class_weight"": null}",0.6856060606060606
+logistica_A_ejercicio,con_rezago,2020,"{""C"": 10, ""class_weight"": null}",0.6000000000000001
+logistica_A_ejercicio,con_rezago,2021,"{""C"": 10, ""class_weight"": null}",0.59
+logistica_A_ejercicio,con_rezago,2022,"{""C"": 10, ""class_weight"": null}",0.6000000000000001
+logistica_A_ejercicio,con_rezago,2023,"{""C"": 10, ""class_weight"": ""balanced""}",0.5700000000000001
+logistica_A_ejercicio,con_rezago,2024,"{""C"": 1, ""class_weight"": null}",0.6401515151515151
+logistica_A_ejercicio,con_rezago,2025,"{""C"": 1, ""class_weight"": ""balanced""}",0.786231884057971
+logistica_C-A_ejercicio,con_rezago,2018,"{""C"": 0.1, ""class_weight"": ""balanced""}",0.56
+logistica_C-A_ejercicio,con_rezago,2019,"{""C"": 0.3, ""class_weight"": null}",0.5946969696969697
+logistica_C-A_ejercicio,con_rezago,2020,"{""C"": 1, ""class_weight"": null}",0.64
+logistica_C-A_ejercicio,con_rezago,2021,"{""C"": 0.1, ""class_weight"": ""balanced""}",0.54
+logistica_C-A_ejercicio,con_rezago,2022,"{""C"": 0.3, ""class_weight"": ""balanced""}",0.55
+logistica_C-A_ejercicio,con_rezago,2023,"{""C"": 0.3, ""class_weight"": ""balanced""}",0.55
+logistica_C-A_ejercicio,con_rezago,2024,"{""C"": 1, ""class_weight"": null}",0.5738636363636364
+logistica_C-A_ejercicio,con_rezago,2025,"{""C"": 1, ""class_weight"": null}",0.7264492753623188
+logistica_B_ejercicio,completo,2017,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_ejercicio,completo,2018,"{""C"": 3, ""class_weight"": null}",0.5521978021978022
+logistica_B_ejercicio,completo,2019,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_ejercicio,completo,2020,"{""C"": 3, ""class_weight"": ""balanced""}",0.5113960113960114
+logistica_B_ejercicio,completo,2021,"{""C"": 0.3, ""class_weight"": null}",0.5
+logistica_B_ejercicio,completo,2022,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_ejercicio,completo,2023,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.584045584045584
+logistica_B_ejercicio,completo,2024,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_ejercicio,completo,2025,"{""C"": 0.3, ""class_weight"": null}",0.5282131661442007
+logistica_B_ejercicio,con_rezago,2018,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.59
+logistica_B_ejercicio,con_rezago,2019,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_ejercicio,con_rezago,2020,"{""C"": 10, ""class_weight"": null}",0.52
+logistica_B_ejercicio,con_rezago,2021,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_ejercicio,con_rezago,2022,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_ejercicio,con_rezago,2023,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_ejercicio,con_rezago,2024,"{""C"": 0.1, ""class_weight"": ""balanced""}",0.5265151515151515
+logistica_B_ejercicio,con_rezago,2025,"{""C"": 10, ""class_weight"": ""balanced""}",0.7427536231884058
+logistica_C-B_ejercicio,con_rezago,2018,"{""C"": 10, ""class_weight"": ""balanced""}",0.5800000000000001
+logistica_C-B_ejercicio,con_rezago,2019,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-B_ejercicio,con_rezago,2020,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.57
+logistica_C-B_ejercicio,con_rezago,2021,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-B_ejercicio,con_rezago,2022,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-B_ejercicio,con_rezago,2023,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-B_ejercicio,con_rezago,2024,"{""C"": 10, ""class_weight"": ""balanced""}",0.5681818181818181
+logistica_C-B_ejercicio,con_rezago,2025,"{""C"": 3, ""class_weight"": null}",0.6847826086956521
+logistica_A_jul_oct,completo,2017,"{""C"": 10, ""class_weight"": null}",0.5564263322884012
+logistica_A_jul_oct,completo,2018,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,completo,2019,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,completo,2020,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,completo,2021,"{""C"": 10, ""class_weight"": ""balanced""}",0.5455840455840456
+logistica_A_jul_oct,completo,2022,"{""C"": 0.3, ""class_weight"": null}",0.5
+logistica_A_jul_oct,completo,2023,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,completo,2024,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,completo,2025,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,con_rezago,2018,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,con_rezago,2019,"{""C"": 0.1, ""class_weight"": ""balanced""}",0.5227272727272727
+logistica_A_jul_oct,con_rezago,2020,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.55
+logistica_A_jul_oct,con_rezago,2021,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,con_rezago,2022,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,con_rezago,2023,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_A_jul_oct,con_rezago,2024,"{""C"": 10, ""class_weight"": null}",0.5776515151515151
+logistica_A_jul_oct,con_rezago,2025,"{""C"": 0.3, ""class_weight"": ""balanced""}",0.7463768115942029
+logistica_C-A_jul_oct,con_rezago,2018,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-A_jul_oct,con_rezago,2019,"{""C"": 0.3, ""class_weight"": null}",0.5246212121212122
+logistica_C-A_jul_oct,con_rezago,2020,"{""C"": 0.1, ""class_weight"": ""balanced""}",0.61
+logistica_C-A_jul_oct,con_rezago,2021,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-A_jul_oct,con_rezago,2022,"{""C"": 0.1, ""class_weight"": null}",0.5
+logistica_C-A_jul_oct,con_rezago,2023,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-A_jul_oct,con_rezago,2024,"{""C"": 0.1, ""class_weight"": ""balanced""}",0.6231060606060606
+logistica_C-A_jul_oct,con_rezago,2025,"{""C"": 0.3, ""class_weight"": ""balanced""}",0.7028985507246377
+logistica_B_jul_oct,completo,2017,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,completo,2018,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,completo,2019,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,completo,2020,"{""C"": 0.3, ""class_weight"": null}",0.5
+logistica_B_jul_oct,completo,2021,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,completo,2022,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.5470085470085471
+logistica_B_jul_oct,completo,2023,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.5470085470085471
+logistica_B_jul_oct,completo,2024,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,completo,2025,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,con_rezago,2018,"{""C"": 10, ""class_weight"": ""balanced""}",0.54
+logistica_B_jul_oct,con_rezago,2019,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,con_rezago,2020,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,con_rezago,2021,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,con_rezago,2022,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,con_rezago,2023,"{""C"": 10, ""class_weight"": ""balanced""}",0.54
+logistica_B_jul_oct,con_rezago,2024,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_B_jul_oct,con_rezago,2025,"{""C"": 3, ""class_weight"": ""balanced""}",0.7409420289855072
+logistica_C-B_jul_oct,con_rezago,2018,"{""C"": 0.1, ""class_weight"": null}",0.5
+logistica_C-B_jul_oct,con_rezago,2019,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-B_jul_oct,con_rezago,2020,"{""C"": 1, ""class_weight"": ""balanced""}",0.5700000000000001
+logistica_C-B_jul_oct,con_rezago,2021,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-B_jul_oct,con_rezago,2022,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-B_jul_oct,con_rezago,2023,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_C-B_jul_oct,con_rezago,2024,"{""C"": 10, ""class_weight"": ""balanced""}",0.5397727272727273
+logistica_C-B_jul_oct,con_rezago,2025,"{""C"": 3, ""class_weight"": ""balanced""}",0.6159420289855072
+logistica_H_sin_clima,con_rezago,2018,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_H_sin_clima,con_rezago,2019,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_H_sin_clima,con_rezago,2020,"{""C"": 1, ""class_weight"": ""balanced""}",0.72
+logistica_H_sin_clima,con_rezago,2021,"{""C"": 10, ""class_weight"": ""balanced""}",0.72
+logistica_H_sin_clima,con_rezago,2022,"{""C"": 0.01, ""class_weight"": ""balanced""}",0.5
+logistica_H_sin_clima,con_rezago,2023,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_H_sin_clima,con_rezago,2024,"{""C"": 3, ""class_weight"": ""balanced""}",0.7632575757575758
+logistica_H_sin_clima,con_rezago,2025,"{""C"": 0.01, ""class_weight"": null}",0.5
+logistica_en_A_ejercicio,completo,2017,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5203761755485893
+logistica_en_A_ejercicio,completo,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6648351648351649
+logistica_en_A_ejercicio,completo,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.5313479623824451
+logistica_en_A_ejercicio,completo,2020,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6025641025641025
+logistica_en_A_ejercicio,completo,2021,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.5470085470085471
+logistica_en_A_ejercicio,completo,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.6424501424501424
+logistica_en_A_ejercicio,completo,2023,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.5641025641025641
+logistica_en_A_ejercicio,completo,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.5535714285714286
+logistica_en_A_ejercicio,completo,2025,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.7084639498432602
+logistica_en_A_ejercicio,con_rezago,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.62
+logistica_en_A_ejercicio,con_rezago,2019,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.606060606060606
+logistica_en_A_ejercicio,con_rezago,2020,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5700000000000001
+logistica_en_A_ejercicio,con_rezago,2021,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.52
+logistica_en_A_ejercicio,con_rezago,2022,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.49
+logistica_en_A_ejercicio,con_rezago,2023,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.5700000000000001
+logistica_en_A_ejercicio,con_rezago,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.6723484848484849
+logistica_en_A_ejercicio,con_rezago,2025,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.786231884057971
+logistica_en_C-A_ejercicio,con_rezago,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.62
+logistica_en_C-A_ejercicio,con_rezago,2019,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.6268939393939394
+logistica_en_C-A_ejercicio,con_rezago,2020,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.55
+logistica_en_C-A_ejercicio,con_rezago,2021,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5800000000000001
+logistica_en_C-A_ejercicio,con_rezago,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.62
+logistica_en_C-A_ejercicio,con_rezago,2023,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.5
+logistica_en_C-A_ejercicio,con_rezago,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6231060606060606
+logistica_en_C-A_ejercicio,con_rezago,2025,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.7445652173913043
+logistica_en_B_ejercicio,completo,2017,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5078369905956113
+logistica_en_B_ejercicio,completo,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.7884615384615384
+logistica_en_B_ejercicio,completo,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.7586206896551724
+logistica_en_B_ejercicio,completo,2020,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5113960113960114
+logistica_en_B_ejercicio,completo,2021,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6068376068376069
+logistica_en_B_ejercicio,completo,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.47150997150997154
+logistica_en_B_ejercicio,completo,2023,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.621082621082621
+logistica_en_B_ejercicio,completo,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.7380952380952381
+logistica_en_B_ejercicio,completo,2025,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.5250783699059561
+logistica_en_B_ejercicio,con_rezago,2018,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.5800000000000001
+logistica_en_B_ejercicio,con_rezago,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.48863636363636365
+logistica_en_B_ejercicio,con_rezago,2020,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.48
+logistica_en_B_ejercicio,con_rezago,2021,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.48000000000000004
+logistica_en_B_ejercicio,con_rezago,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.66
+logistica_en_B_ejercicio,con_rezago,2023,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.66
+logistica_en_B_ejercicio,con_rezago,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6306818181818181
+logistica_en_B_ejercicio,con_rezago,2025,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.7663043478260869
+logistica_en_C-B_ejercicio,con_rezago,2018,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.5800000000000001
+logistica_en_C-B_ejercicio,con_rezago,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5757575757575758
+logistica_en_C-B_ejercicio,con_rezago,2020,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.56
+logistica_en_C-B_ejercicio,con_rezago,2021,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5
+logistica_en_C-B_ejercicio,con_rezago,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.39
+logistica_en_C-B_ejercicio,con_rezago,2023,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.56
+logistica_en_C-B_ejercicio,con_rezago,2024,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5890151515151515
+logistica_en_C-B_ejercicio,con_rezago,2025,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.7663043478260869
+logistica_en_A_jul_oct,completo,2017,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.4294670846394984
+logistica_en_A_jul_oct,completo,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5
+logistica_en_A_jul_oct,completo,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6567398119122256
+logistica_en_A_jul_oct,completo,2020,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.4145299145299145
+logistica_en_A_jul_oct,completo,2021,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.5641025641025641
+logistica_en_A_jul_oct,completo,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.6780626780626781
+logistica_en_A_jul_oct,completo,2023,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5284900284900285
+logistica_en_A_jul_oct,completo,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.6785714285714286
+logistica_en_A_jul_oct,completo,2025,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.6567398119122256
+logistica_en_A_jul_oct,con_rezago,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.51
+logistica_en_A_jul_oct,con_rezago,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.6420454545454546
+logistica_en_A_jul_oct,con_rezago,2020,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.55
+logistica_en_A_jul_oct,con_rezago,2021,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.54
+logistica_en_A_jul_oct,con_rezago,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.8
+logistica_en_A_jul_oct,con_rezago,2023,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.52
+logistica_en_A_jul_oct,con_rezago,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5928030303030303
+logistica_en_A_jul_oct,con_rezago,2025,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.7246376811594203
+logistica_en_C-A_jul_oct,con_rezago,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6799999999999999
+logistica_en_C-A_jul_oct,con_rezago,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5189393939393939
+logistica_en_C-A_jul_oct,con_rezago,2020,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.61
+logistica_en_C-A_jul_oct,con_rezago,2021,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.53
+logistica_en_C-A_jul_oct,con_rezago,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.62
+logistica_en_C-A_jul_oct,con_rezago,2023,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.42000000000000004
+logistica_en_C-A_jul_oct,con_rezago,2024,"{""C"": 1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6022727272727273
+logistica_en_C-A_jul_oct,con_rezago,2025,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.1}",0.7028985507246377
+logistica_en_B_jul_oct,completo,2017,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.46865203761755486
+logistica_en_B_jul_oct,completo,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6923076923076923
+logistica_en_B_jul_oct,completo,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5470219435736677
+logistica_en_B_jul_oct,completo,2020,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5427350427350428
+logistica_en_B_jul_oct,completo,2021,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.6851851851851851
+logistica_en_B_jul_oct,completo,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6780626780626781
+logistica_en_B_jul_oct,completo,2023,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.5854700854700855
+logistica_en_B_jul_oct,completo,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6785714285714286
+logistica_en_B_jul_oct,completo,2025,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.5313479623824451
+logistica_en_B_jul_oct,con_rezago,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.55
+logistica_en_B_jul_oct,con_rezago,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.509469696969697
+logistica_en_B_jul_oct,con_rezago,2020,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.7
+logistica_en_B_jul_oct,con_rezago,2021,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6599999999999999
+logistica_en_B_jul_oct,con_rezago,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.48000000000000004
+logistica_en_B_jul_oct,con_rezago,2023,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.62
+logistica_en_B_jul_oct,con_rezago,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.45265151515151514
+logistica_en_B_jul_oct,con_rezago,2025,"{""C"": 10, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.7409420289855072
+logistica_en_C-B_jul_oct,con_rezago,2018,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.49
+logistica_en_C-B_jul_oct,con_rezago,2019,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.6136363636363636
+logistica_en_C-B_jul_oct,con_rezago,2020,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.72
+logistica_en_C-B_jul_oct,con_rezago,2021,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.48000000000000004
+logistica_en_C-B_jul_oct,con_rezago,2022,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.5800000000000001
+logistica_en_C-B_jul_oct,con_rezago,2023,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.5}",0.48000000000000004
+logistica_en_C-B_jul_oct,con_rezago,2024,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.7178030303030303
+logistica_en_C-B_jul_oct,con_rezago,2025,"{""C"": 0.1, ""class_weight"": ""balanced"", ""l1_ratio"": 0.9}",0.7264492753623188
+arbol_A_ejercicio,completo,2017,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.493730407523511
+arbol_A_ejercicio,completo,2018,"{""class_weight"": ""balanced"", ""max_depth"": 1, ""min_samples_leaf"": 8}",0.6263736263736264
+arbol_A_ejercicio,completo,2019,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.7601880877742947
+arbol_A_ejercicio,completo,2020,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.6424501424501424
+arbol_A_ejercicio,completo,2021,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5854700854700855
+arbol_A_ejercicio,completo,2022,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5327635327635327
+arbol_A_ejercicio,completo,2023,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5413105413105413
+arbol_A_ejercicio,completo,2024,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5654761904761905
+arbol_A_ejercicio,completo,2025,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 6}",0.6692789968652038
+arbol_A_ejercicio,con_rezago,2018,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.62
+arbol_A_ejercicio,con_rezago,2019,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.5814393939393939
+arbol_A_ejercicio,con_rezago,2020,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.57
+arbol_A_ejercicio,con_rezago,2021,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.49
+arbol_A_ejercicio,con_rezago,2022,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.49
+arbol_A_ejercicio,con_rezago,2023,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.49
+arbol_A_ejercicio,con_rezago,2024,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 6}",0.5984848484848485
+arbol_A_ejercicio,con_rezago,2025,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.7898550724637681
+arbol_C-A_ejercicio,con_rezago,2018,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 8}",0.62
+arbol_C-A_ejercicio,con_rezago,2019,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5890151515151515
+arbol_C-A_ejercicio,con_rezago,2020,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.55
+arbol_C-A_ejercicio,con_rezago,2021,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.49
+arbol_C-A_ejercicio,con_rezago,2022,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.49
+arbol_C-A_ejercicio,con_rezago,2023,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.49
+arbol_C-A_ejercicio,con_rezago,2024,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 6}",0.5984848484848485
+arbol_C-A_ejercicio,con_rezago,2025,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.7898550724637681
+arbol_B_ejercicio,completo,2017,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.6802507836990596
+arbol_B_ejercicio,completo,2018,"{""class_weight"": ""balanced"", ""max_depth"": 1, ""min_samples_leaf"": 8}",0.6373626373626373
+arbol_B_ejercicio,completo,2019,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.5893416927899686
+arbol_B_ejercicio,completo,2020,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.6951566951566952
+arbol_B_ejercicio,completo,2021,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.6353276353276354
+arbol_B_ejercicio,completo,2022,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.7008547008547008
+arbol_B_ejercicio,completo,2023,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.7364672364672364
+arbol_B_ejercicio,completo,2024,"{""class_weight"": ""balanced"", ""max_depth"": 1, ""min_samples_leaf"": 8}",0.6309523809523809
+arbol_B_ejercicio,completo,2025,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5266457680250785
+arbol_B_ejercicio,con_rezago,2018,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.55
+arbol_B_ejercicio,con_rezago,2019,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5984848484848485
+arbol_B_ejercicio,con_rezago,2020,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.73
+arbol_B_ejercicio,con_rezago,2021,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.62
+arbol_B_ejercicio,con_rezago,2022,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.71
+arbol_B_ejercicio,con_rezago,2023,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.62
+arbol_B_ejercicio,con_rezago,2024,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.6723484848484849
+arbol_B_ejercicio,con_rezago,2025,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.7463768115942029
+arbol_C-B_ejercicio,con_rezago,2018,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.55
+arbol_C-B_ejercicio,con_rezago,2019,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.5454545454545454
+arbol_C-B_ejercicio,con_rezago,2020,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.65
+arbol_C-B_ejercicio,con_rezago,2021,"{""class_weight"": ""balanced"", ""max_depth"": 1, ""min_samples_leaf"": 8}",0.63
+arbol_C-B_ejercicio,con_rezago,2022,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.71
+arbol_C-B_ejercicio,con_rezago,2023,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.56
+arbol_C-B_ejercicio,con_rezago,2024,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5397727272727273
+arbol_C-B_ejercicio,con_rezago,2025,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 8}",0.7463768115942029
+arbol_A_jul_oct,completo,2017,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.6159874608150471
+arbol_A_jul_oct,completo,2018,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.6346153846153846
+arbol_A_jul_oct,completo,2019,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5203761755485893
+arbol_A_jul_oct,completo,2020,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5441595441595442
+arbol_A_jul_oct,completo,2021,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.6239316239316239
+arbol_A_jul_oct,completo,2022,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.6581196581196581
+arbol_A_jul_oct,completo,2023,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5683760683760684
+arbol_A_jul_oct,completo,2024,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5357142857142857
+arbol_A_jul_oct,completo,2025,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.7257053291536051
+arbol_A_jul_oct,con_rezago,2018,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.59
+arbol_A_jul_oct,con_rezago,2019,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.5700757575757576
+arbol_A_jul_oct,con_rezago,2020,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.66
+arbol_A_jul_oct,con_rezago,2021,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.63
+arbol_A_jul_oct,con_rezago,2022,"{""class_weight"": ""balanced"", ""max_depth"": 1, ""min_samples_leaf"": 6}",0.7
+arbol_A_jul_oct,con_rezago,2023,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.65
+arbol_A_jul_oct,con_rezago,2024,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 6}",0.46212121212121215
+arbol_A_jul_oct,con_rezago,2025,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 6}",0.7681159420289855
+arbol_C-A_jul_oct,con_rezago,2018,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.46
+arbol_C-A_jul_oct,con_rezago,2019,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.5700757575757576
+arbol_C-A_jul_oct,con_rezago,2020,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.61
+arbol_C-A_jul_oct,con_rezago,2021,"{""class_weight"": ""balanced"", ""max_depth"": 1, ""min_samples_leaf"": 4}",0.61
+arbol_C-A_jul_oct,con_rezago,2022,"{""class_weight"": ""balanced"", ""max_depth"": 1, ""min_samples_leaf"": 6}",0.7
+arbol_C-A_jul_oct,con_rezago,2023,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.62
+arbol_C-A_jul_oct,con_rezago,2024,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 6}",0.46212121212121215
+arbol_C-A_jul_oct,con_rezago,2025,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 6}",0.7681159420289855
+arbol_B_jul_oct,completo,2017,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5376175548589341
+arbol_B_jul_oct,completo,2018,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.5357142857142857
+arbol_B_jul_oct,completo,2019,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.5721003134796239
+arbol_B_jul_oct,completo,2020,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 8}",0.5014245014245015
+arbol_B_jul_oct,completo,2021,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 8}",0.5398860398860399
+arbol_B_jul_oct,completo,2022,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5484330484330484
+arbol_B_jul_oct,completo,2023,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.6025641025641025
+arbol_B_jul_oct,completo,2024,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5119047619047619
+arbol_B_jul_oct,completo,2025,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5313479623824451
+arbol_B_jul_oct,con_rezago,2018,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.49
+arbol_B_jul_oct,con_rezago,2019,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.4791666666666667
+arbol_B_jul_oct,con_rezago,2020,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.58
+arbol_B_jul_oct,con_rezago,2021,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.54
+arbol_B_jul_oct,con_rezago,2022,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.59
+arbol_B_jul_oct,con_rezago,2023,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 6}",0.69
+arbol_B_jul_oct,con_rezago,2024,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 8}",0.543560606060606
+arbol_B_jul_oct,con_rezago,2025,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.6576086956521738
+arbol_C-B_jul_oct,con_rezago,2018,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 4}",0.56
+arbol_C-B_jul_oct,con_rezago,2019,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 4}",0.5359848484848485
+arbol_C-B_jul_oct,con_rezago,2020,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.55
+arbol_C-B_jul_oct,con_rezago,2021,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 4}",0.54
+arbol_C-B_jul_oct,con_rezago,2022,"{""class_weight"": ""balanced"", ""max_depth"": 1, ""min_samples_leaf"": 6}",0.5800000000000001
+arbol_C-B_jul_oct,con_rezago,2023,"{""class_weight"": ""balanced"", ""max_depth"": 2, ""min_samples_leaf"": 6}",0.62
+arbol_C-B_jul_oct,con_rezago,2024,"{""class_weight"": null, ""max_depth"": 2, ""min_samples_leaf"": 6}",0.5606060606060606
+arbol_C-B_jul_oct,con_rezago,2025,"{""class_weight"": null, ""max_depth"": 1, ""min_samples_leaf"": 8}",0.6576086956521738
+bosque_A_ejercicio,completo,2017,{},
+bosque_A_ejercicio,completo,2018,{},
+bosque_A_ejercicio,completo,2019,{},
+bosque_A_ejercicio,completo,2020,{},
+bosque_A_ejercicio,completo,2021,{},
+bosque_A_ejercicio,completo,2022,{},
+bosque_A_ejercicio,completo,2023,{},
+bosque_A_ejercicio,completo,2024,{},
+bosque_A_ejercicio,completo,2025,{},
+bosque_A_ejercicio,con_rezago,2018,{},
+bosque_A_ejercicio,con_rezago,2019,{},
+bosque_A_ejercicio,con_rezago,2020,{},
+bosque_A_ejercicio,con_rezago,2021,{},
+bosque_A_ejercicio,con_rezago,2022,{},
+bosque_A_ejercicio,con_rezago,2023,{},
+bosque_A_ejercicio,con_rezago,2024,{},
+bosque_A_ejercicio,con_rezago,2025,{},
+bosque_C-A_ejercicio,con_rezago,2018,{},
+bosque_C-A_ejercicio,con_rezago,2019,{},
+bosque_C-A_ejercicio,con_rezago,2020,{},
+bosque_C-A_ejercicio,con_rezago,2021,{},
+bosque_C-A_ejercicio,con_rezago,2022,{},
+bosque_C-A_ejercicio,con_rezago,2023,{},
+bosque_C-A_ejercicio,con_rezago,2024,{},
+bosque_C-A_ejercicio,con_rezago,2025,{},
+bosque_B_ejercicio,completo,2017,{},
+bosque_B_ejercicio,completo,2018,{},
+bosque_B_ejercicio,completo,2019,{},
+bosque_B_ejercicio,completo,2020,{},
+bosque_B_ejercicio,completo,2021,{},
+bosque_B_ejercicio,completo,2022,{},
+bosque_B_ejercicio,completo,2023,{},
+bosque_B_ejercicio,completo,2024,{},
+bosque_B_ejercicio,completo,2025,{},
+bosque_B_ejercicio,con_rezago,2018,{},
+bosque_B_ejercicio,con_rezago,2019,{},
+bosque_B_ejercicio,con_rezago,2020,{},
+bosque_B_ejercicio,con_rezago,2021,{},
+bosque_B_ejercicio,con_rezago,2022,{},
+bosque_B_ejercicio,con_rezago,2023,{},
+bosque_B_ejercicio,con_rezago,2024,{},
+bosque_B_ejercicio,con_rezago,2025,{},
+bosque_C-B_ejercicio,con_rezago,2018,{},
+bosque_C-B_ejercicio,con_rezago,2019,{},
+bosque_C-B_ejercicio,con_rezago,2020,{},
+bosque_C-B_ejercicio,con_rezago,2021,{},
+bosque_C-B_ejercicio,con_rezago,2022,{},
+bosque_C-B_ejercicio,con_rezago,2023,{},
+bosque_C-B_ejercicio,con_rezago,2024,{},
+bosque_C-B_ejercicio,con_rezago,2025,{},
+bosque_A_jul_oct,completo,2017,{},
+bosque_A_jul_oct,completo,2018,{},
+bosque_A_jul_oct,completo,2019,{},
+bosque_A_jul_oct,completo,2020,{},
+bosque_A_jul_oct,completo,2021,{},
+bosque_A_jul_oct,completo,2022,{},
+bosque_A_jul_oct,completo,2023,{},
+bosque_A_jul_oct,completo,2024,{},
+bosque_A_jul_oct,completo,2025,{},
+bosque_A_jul_oct,con_rezago,2018,{},
+bosque_A_jul_oct,con_rezago,2019,{},
+bosque_A_jul_oct,con_rezago,2020,{},
+bosque_A_jul_oct,con_rezago,2021,{},
+bosque_A_jul_oct,con_rezago,2022,{},
+bosque_A_jul_oct,con_rezago,2023,{},
+bosque_A_jul_oct,con_rezago,2024,{},
+bosque_A_jul_oct,con_rezago,2025,{},
+bosque_C-A_jul_oct,con_rezago,2018,{},
+bosque_C-A_jul_oct,con_rezago,2019,{},
+bosque_C-A_jul_oct,con_rezago,2020,{},
+bosque_C-A_jul_oct,con_rezago,2021,{},
+bosque_C-A_jul_oct,con_rezago,2022,{},
+bosque_C-A_jul_oct,con_rezago,2023,{},
+bosque_C-A_jul_oct,con_rezago,2024,{},
+bosque_C-A_jul_oct,con_rezago,2025,{},
+bosque_B_jul_oct,completo,2017,{},
+bosque_B_jul_oct,completo,2018,{},
+bosque_B_jul_oct,completo,2019,{},
+bosque_B_jul_oct,completo,2020,{},
+bosque_B_jul_oct,completo,2021,{},
+bosque_B_jul_oct,completo,2022,{},
+bosque_B_jul_oct,completo,2023,{},
+bosque_B_jul_oct,completo,2024,{},
+bosque_B_jul_oct,completo,2025,{},
+bosque_B_jul_oct,con_rezago,2018,{},
+bosque_B_jul_oct,con_rezago,2019,{},
+bosque_B_jul_oct,con_rezago,2020,{},
+bosque_B_jul_oct,con_rezago,2021,{},
+bosque_B_jul_oct,con_rezago,2022,{},
+bosque_B_jul_oct,con_rezago,2023,{},
+bosque_B_jul_oct,con_rezago,2024,{},
+bosque_B_jul_oct,con_rezago,2025,{},
+bosque_C-B_jul_oct,con_rezago,2018,{},
+bosque_C-B_jul_oct,con_rezago,2019,{},
+bosque_C-B_jul_oct,con_rezago,2020,{},
+bosque_C-B_jul_oct,con_rezago,2021,{},
+bosque_C-B_jul_oct,con_rezago,2022,{},
+bosque_C-B_jul_oct,con_rezago,2023,{},
+bosque_C-B_jul_oct,con_rezago,2024,{},
+bosque_C-B_jul_oct,con_rezago,2025,{},

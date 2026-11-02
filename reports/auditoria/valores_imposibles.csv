@@ -1,0 +1,14 @@
+archivo,columna,regla,violaciones
+DatosAnimales,AnimalesPorEspecieConsumoPD_AD,>= 0,1
+DatosAnimales,AnimalesPorEspecieNacimientosPD_AD,>= 0,0
+DatosAnimales,AnimalesPorEspecieMortandadPD_AD,>= 0,0
+DatosAnimales,CantidadTenedoresPorEspecie,>= 0,0
+DatosAnimales,AnimalesPorEspeciePD_AD,>= 0,0
+DatosAnimales,AnimalesPorEspeciePD_PF,>= 0,0
+DatosGenerales,Superficie,>= 0,0
+DatosGenerales,CantidadTenedores,>= 0,0
+DatosGenerales,UnidadesGanaderas,>= 0,0
+DatosGenerales,SuperficieGanadera,>= 0,4
+INIA,TempAireMedia,entre -15 y 45,0
+INIA,PrecipAcum,entre 0 y 500,0
+INIA,RecorridoViento,entre 0 y 2000,0

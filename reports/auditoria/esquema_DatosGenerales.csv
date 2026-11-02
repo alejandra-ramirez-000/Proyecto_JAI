@@ -1,0 +1,17 @@
+columna,dtype,nulos,nulos_pct,valores_unicos
+ID,str,0,0.0,315536
+Anio,int64,0,0.0,10
+DepartamentoCodigo,int64,0,0.0,20
+SeccionalPolicialCodigo,str,0,0.0,31
+AreaSupervision,str,0,0.0,104
+AreaEnumeracion,str,0,0.0,635
+ActividadCodigo,str,0,0.0,11
+GiroCodigo,str,0,0.0,39
+NaturalezaJuridicaCodigo,str,0,0.0,18
+EstratoCodigo,str,0,0.0,10
+Superficie,int64,0,0.0,6297
+UnidadesGanaderas,float64,0,0.0,92185
+SuperficieGanadera,float64,2,0.0,18541
+CantidadTenedores,int64,0,0.0,333
+EspecializacionMGAPCodigo,str,168179,53.3,4
+TipoProduccionMGAPCodigo,str,168179,53.3,9

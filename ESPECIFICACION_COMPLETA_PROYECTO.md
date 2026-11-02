@@ -969,6 +969,11 @@ Si el entrenamiento interno queda demasiado pequeño, se preferirá:
 
 No se debe elegir el hiperparámetro que maximiza el resultado sobre las predicciones externas y luego presentar esa misma métrica como no sesgada.
 
+Criterio de selección interna (versión 1.1; ver historial), calculado sobre las predicciones internas concatenadas:
+
+- regresión: menor MAE;
+- clasificación: menor log-loss balanceada, con desempate por balanced accuracy y, ante empate exacto, la opción más regularizada.
+
 ### 18.3. Cálculo de métricas de clasificación
 
 Cada año de prueba contiene solo cinco casos y puede no tener ambas clases. Por eso:
@@ -1659,4 +1664,8 @@ Estas extensiones solo deben considerarse después de completar la versión bás
 | Versión | Fecha | Cambio |
 |---|---|---|
 | 1.0 | 2026-10-28 | Primera especificación completa basada en la auditoría de SNIG e INIA |
+| 1.1 | 2026-10-30 | **Control sin clima (H).** Se agrega un conjunto de variables con solo el rezago del objetivo y el departamento, para medir si el clima aporta por encima de la historia propia (pregunta principal). Se definió antes de correr los modelos. |
+| 1.1 | 2026-10-30 | **Criterio de selección interna en clasificación.** Antes: balanced accuracy sobre las predicciones internas concatenadas, con desempate por regularización. Ahora: log-loss balanceada (las dos clases pesan igual), con desempate por balanced accuracy. Motivo: en la corrida `20261030-092748_modelos` la balanced accuracy empató en 0,5 en muchos folds y el desempate eligió modelos casi constantes (C = 0,01), lo que dejó al control H en BA 0,34 cuando con C fijo rinde 0,70. **El cambio se decidió después de ver esa corrida**; la corrida original se conserva para comparación. La regresión no cambia (MAE). |
+| 1.1 | 2026-10-30 | **Semilla en la logística Elastic Net** (`random_state=42`, solver `saga`). Sin ella, esa familia secundaria no era reproducible entre ejecuciones. Corrida de referencia: `20261030-103735_modelos`. |
+| 1.1 | 2026-10-30 | **Ronda exploratoria registrada con hiperparámetros fijos** (`src/models/run_exploratory.py`) y **AUC promedio de los folds con ambas clases** como diagnóstico complementario del AUC concatenado (sección 18.3), que sigue siendo la métrica principal. |
 

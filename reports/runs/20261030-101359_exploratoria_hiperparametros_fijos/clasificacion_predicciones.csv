@@ -1,0 +1,751 @@
+DepartamentoCodigo,Departamento,AnioEjercicio,umbral_mortalidad_elevada,fold,y_true,y_proba,y_pred,prevalencia_entrenamiento,modelo,conjunto,rol,familia,conjunto_variables,ventana
+2,Canelones,2017,90.73018244781157,2017,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2017,77.21011418401855,2017,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2017,51.97857165875078,2017,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2017,65.32229193645645,2017,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2017,69.22035590968723,2017,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2018,87.57952405855632,2018,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2018,77.21011418401855,2018,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2018,54.7165554466054,2018,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2018,67.90705554113586,2018,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2018,68.98717488444635,2018,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2019,87.57952405855632,2019,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2019,73.79840572034213,2019,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2019,54.7165554466054,2019,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2019,65.66535057835122,2019,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2019,69.59613365760626,2019,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2020,96.7034572951266,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2020,77.21011418401855,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2020,54.7165554466054,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2020,67.90705554113586,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2020,69.59613365760626,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2021,96.7034572951266,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2021,77.21011418401855,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2021,54.7165554466054,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2021,67.90705554113586,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2021,69.59613365760626,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2022,96.7034572951266,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2022,77.21011418401855,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2022,54.7165554466054,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2022,67.90705554113586,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2022,69.59613365760626,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2023,96.7034572951266,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2023,77.21011418401855,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2023,54.7165554466054,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2023,67.90705554113586,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2023,69.59613365760626,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2024,96.7034572951266,2024,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2024,73.13015146824718,2024,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2024,51.64167304325298,2024,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2024,67.90705554113586,2024,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2024,69.59613365760626,2024,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2025,96.7034572951266,2025,0,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+4,Colonia,2025,73.13015146824718,2025,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+15,Salto,2025,51.64167304325298,2025,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+18,Tacuarembó,2025,65.32229193645645,2025,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+19,Treinta y Tres,2025,68.98717488444635,2025,1,0.25,0,0.25,C1_clase_mayoritaria,completo,baseline,,,
+2,Canelones,2018,83.76845801615758,2018,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+4,Colonia,2018,77.8783684361135,2018,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+15,Salto,2018,53.22813153686679,2018,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+2,Canelones,2019,83.76845801615758,2019,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+4,Colonia,2019,75.60389612699589,2019,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+15,Salto,2019,53.22813153686679,2019,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+2,Canelones,2020,95.87193245283851,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+4,Colonia,2020,77.8783684361135,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+15,Salto,2020,52.90466154680476,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+2,Canelones,2021,95.87193245283851,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+4,Colonia,2021,77.8783684361135,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+15,Salto,2021,53.22813153686679,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+2,Canelones,2022,95.87193245283851,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+4,Colonia,2022,77.8783684361135,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+15,Salto,2022,53.22813153686679,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+2,Canelones,2023,94.05195802621145,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+4,Colonia,2023,77.8783684361135,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+15,Salto,2023,53.22813153686679,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+2,Canelones,2024,95.87193245283851,2024,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+4,Colonia,2024,74.26738762280598,2024,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+15,Salto,2024,50.40554179057274,2024,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+2,Canelones,2025,95.87193245283851,2025,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+4,Colonia,2025,74.26738762280598,2025,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+15,Salto,2025,50.40554179057274,2025,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,baseline,,,
+2,Canelones,2018,83.76845801615758,2018,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+4,Colonia,2018,77.8783684361135,2018,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+15,Salto,2018,53.22813153686679,2018,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+18,Tacuarembó,2018,66.06952692405133,2018,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+19,Treinta y Tres,2018,68.37437778013636,2018,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+2,Canelones,2019,83.76845801615758,2019,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+4,Colonia,2019,75.60389612699589,2019,1,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+15,Salto,2019,53.22813153686679,2019,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+19,Treinta y Tres,2019,69.57879618423445,2019,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+2,Canelones,2020,95.87193245283851,2020,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+4,Colonia,2020,77.8783684361135,2020,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+15,Salto,2020,52.90466154680476,2020,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+18,Tacuarembó,2020,66.06952692405133,2020,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+2,Canelones,2021,95.87193245283851,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+4,Colonia,2021,77.8783684361135,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+15,Salto,2021,53.22813153686679,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+2,Canelones,2022,95.87193245283851,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+4,Colonia,2022,77.8783684361135,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+15,Salto,2022,53.22813153686679,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+2,Canelones,2023,94.05195802621145,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+4,Colonia,2023,77.8783684361135,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+15,Salto,2023,53.22813153686679,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+2,Canelones,2024,95.87193245283851,2024,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+4,Colonia,2024,74.26738762280598,2024,1,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+15,Salto,2024,50.40554179057274,2024,1,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+2,Canelones,2025,95.87193245283851,2025,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+4,Colonia,2025,74.26738762280598,2025,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+15,Salto,2025,50.40554179057274,2025,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+18,Tacuarembó,2025,64.1254687232095,2025,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+19,Treinta y Tres,2025,68.37437778013636,2025,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,baseline,,,
+2,Canelones,2017,90.73018244781157,2017,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2017,77.21011418401855,2017,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2017,51.97857165875078,2017,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2017,65.32229193645645,2017,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2017,69.22035590968723,2017,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2018,87.57952405855632,2018,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2018,77.21011418401855,2018,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2018,54.7165554466054,2018,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2018,67.90705554113586,2018,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2018,68.98717488444635,2018,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2019,87.57952405855632,2019,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2019,73.79840572034213,2019,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2019,54.7165554466054,2019,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2019,65.66535057835122,2019,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2019,69.59613365760626,2019,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2020,96.7034572951266,2020,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2020,77.21011418401855,2020,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2020,54.7165554466054,2020,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2020,67.90705554113586,2020,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2020,69.59613365760626,2020,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2021,96.7034572951266,2021,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2021,77.21011418401855,2021,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2021,54.7165554466054,2021,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2021,67.90705554113586,2021,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2021,69.59613365760626,2021,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2022,96.7034572951266,2022,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2022,77.21011418401855,2022,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2022,54.7165554466054,2022,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2022,67.90705554113586,2022,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2022,69.59613365760626,2022,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2023,96.7034572951266,2023,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2023,77.21011418401855,2023,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2023,54.7165554466054,2023,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2023,67.90705554113586,2023,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2023,69.59613365760626,2023,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2024,96.7034572951266,2024,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2024,73.13015146824718,2024,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2024,51.64167304325298,2024,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2024,67.90705554113586,2024,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2024,69.59613365760626,2024,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2025,96.7034572951266,2025,0,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+4,Colonia,2025,73.13015146824718,2025,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+15,Salto,2025,51.64167304325298,2025,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+18,Tacuarembó,2025,65.32229193645645,2025,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+19,Treinta y Tres,2025,68.98717488444635,2025,1,0.25,0,0.25,C3_historial_departamental,completo,baseline,,,
+2,Canelones,2018,83.76845801615758,2018,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+4,Colonia,2018,77.8783684361135,2018,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+15,Salto,2018,53.22813153686679,2018,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+2,Canelones,2019,83.76845801615758,2019,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+4,Colonia,2019,75.60389612699589,2019,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+15,Salto,2019,53.22813153686679,2019,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+2,Canelones,2020,95.87193245283851,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+4,Colonia,2020,77.8783684361135,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+15,Salto,2020,52.90466154680476,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+2,Canelones,2021,95.87193245283851,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+4,Colonia,2021,77.8783684361135,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+15,Salto,2021,53.22813153686679,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+2,Canelones,2022,95.87193245283851,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+4,Colonia,2022,77.8783684361135,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+15,Salto,2022,53.22813153686679,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+2,Canelones,2023,94.05195802621145,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+4,Colonia,2023,77.8783684361135,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+15,Salto,2023,53.22813153686679,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+2,Canelones,2024,95.87193245283851,2024,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+4,Colonia,2024,74.26738762280598,2024,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+15,Salto,2024,50.40554179057274,2024,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+2,Canelones,2025,95.87193245283851,2025,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+4,Colonia,2025,74.26738762280598,2025,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+15,Salto,2025,50.40554179057274,2025,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,baseline,,,
+2,Canelones,2017,90.73018244781157,2017,1,0.5548663098643434,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2017,77.21011418401855,2017,0,0.4730816515260009,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2017,51.97857165875078,2017,1,0.5135057700173226,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2017,65.32229193645645,2017,1,0.5837358868380036,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2017,69.22035590968723,2017,1,0.43870546461972837,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2018,87.57952405855632,2018,1,0.4151535277425072,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2018,77.21011418401855,2018,0,0.45706074350493264,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2018,54.7165554466054,2018,0,0.40481200373125137,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2018,67.90705554113586,2018,0,0.36539572339683557,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2018,68.98717488444635,2018,1,0.3522124911764134,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2019,87.57952405855632,2019,1,0.6095072379554065,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2019,73.79840572034213,2019,1,0.4525131188463574,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2019,54.7165554466054,2019,0,0.568619182079992,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2019,65.66535057835122,2019,1,0.6318094205005815,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2019,69.59613365760626,2019,0,0.5337957771567178,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2020,96.7034572951266,2020,0,0.5082530245830386,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2020,77.21011418401855,2020,0,0.4228689563293633,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2020,54.7165554466054,2020,0,0.5179767252310745,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2020,67.90705554113586,2020,0,0.612602153979521,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2020,69.59613365760626,2020,0,0.5802364131991992,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2021,96.7034572951266,2021,0,0.5254352917551326,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2021,77.21011418401855,2021,0,0.48044265590766055,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2021,54.7165554466054,2021,0,0.4058309723042573,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2021,67.90705554113586,2021,0,0.41952805132477267,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2021,69.59613365760626,2021,0,0.5887544385044335,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2022,96.7034572951266,2022,0,0.5064770991448116,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2022,77.21011418401855,2022,0,0.48090205328729235,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2022,54.7165554466054,2022,0,0.387789320545967,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2022,67.90705554113586,2022,0,0.49279015417456096,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2022,69.59613365760626,2022,0,0.5368167182402989,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2023,96.7034572951266,2023,0,0.38880507117328306,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2023,77.21011418401855,2023,0,0.39842870838853195,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2023,54.7165554466054,2023,0,0.43152698985288496,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2023,67.90705554113586,2023,0,0.4448217858664621,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2023,69.59613365760626,2023,0,0.42471718314320106,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2024,96.7034572951266,2024,0,0.5951663292895578,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2024,73.13015146824718,2024,1,0.6300589007383219,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2024,51.64167304325298,2024,1,0.733410802274203,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2024,67.90705554113586,2024,0,0.9186296833828834,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2024,69.59613365760626,2024,0,0.8682434741383662,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2025,96.7034572951266,2025,0,0.34219527525908155,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+4,Colonia,2025,73.13015146824718,2025,1,0.5334686160875827,1,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+15,Salto,2025,51.64167304325298,2025,1,0.3558327955717975,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+18,Tacuarembó,2025,65.32229193645645,2025,1,0.3359594927731056,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+19,Treinta y Tres,2025,68.98717488444635,2025,1,0.4312429304015506,0,0.25,logistica_A_ejercicio_fijo,completo,principal,logistica,A,ejercicio
+2,Canelones,2018,83.76845801615758,2018,1,0.5079414362099783,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+4,Colonia,2018,77.8783684361135,2018,0,0.5136079728466324,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+15,Salto,2018,53.22813153686679,2018,0,0.5115749712098107,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.42923573755088973,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.36458511380236325,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+2,Canelones,2019,83.76845801615758,2019,1,0.6105142525101477,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+4,Colonia,2019,75.60389612699589,2019,1,0.46355170053200423,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+15,Salto,2019,53.22813153686679,2019,0,0.6223457889361439,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.6017633135982289,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.5403425673605181,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+2,Canelones,2020,95.87193245283851,2020,0,0.49963212442214444,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+4,Colonia,2020,77.8783684361135,2020,0,0.38668730510209576,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+15,Salto,2020,52.90466154680476,2020,0,0.5510419468836194,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.648055517420765,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.5470328501163924,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+2,Canelones,2021,95.87193245283851,2021,0,0.5096583567594326,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+4,Colonia,2021,77.8783684361135,2021,0,0.44538039572509325,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+15,Salto,2021,53.22813153686679,2021,0,0.416693627255266,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.4314619271104139,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.5501394650333462,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+2,Canelones,2022,95.87193245283851,2022,0,0.6007015439591357,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+4,Colonia,2022,77.8783684361135,2022,0,0.4481850320512191,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+15,Salto,2022,53.22813153686679,2022,0,0.39929593719338974,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.5277351075781085,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.5272536889906997,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+2,Canelones,2023,94.05195802621145,2023,0,0.416296054525099,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+4,Colonia,2023,77.8783684361135,2023,0,0.39011145779427014,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+15,Salto,2023,53.22813153686679,2023,0,0.48946224791685083,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.4827314000929889,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.410009837485308,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+2,Canelones,2024,95.87193245283851,2024,0,0.6033568048278328,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+4,Colonia,2024,74.26738762280598,2024,1,0.6342003473442488,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+15,Salto,2024,50.40554179057274,2024,1,0.7848702823606949,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.9581426938506198,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.9017344622786639,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+2,Canelones,2025,95.87193245283851,2025,0,0.19733969619182995,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+4,Colonia,2025,74.26738762280598,2025,1,0.5977812236465753,1,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+15,Salto,2025,50.40554179057274,2025,1,0.31141581752465314,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.2584009324562302,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.3251723171265227,0,0.2857142857142857,logistica_A_ejercicio_fijo,con_rezago,principal,logistica,A,ejercicio
+2,Canelones,2018,83.76845801615758,2018,1,0.5869519341027757,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+4,Colonia,2018,77.8783684361135,2018,0,0.5064484669470787,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+15,Salto,2018,53.22813153686679,2018,0,0.5739585774812911,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.49627936525186694,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.4099634183168366,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+2,Canelones,2019,83.76845801615758,2019,1,0.7397858320693995,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+4,Colonia,2019,75.60389612699589,2019,1,0.47170047306204527,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+15,Salto,2019,53.22813153686679,2019,0,0.6483780641785757,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.6246918759505379,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.5688311276465057,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+2,Canelones,2020,95.87193245283851,2020,0,0.8693187945730074,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+4,Colonia,2020,77.8783684361135,2020,0,0.4766853249972796,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+15,Salto,2020,52.90466154680476,2020,0,0.46353528175109,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.7568643190085612,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.503710239468351,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+2,Canelones,2021,95.87193245283851,2021,0,0.45961407581836056,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+4,Colonia,2021,77.8783684361135,2021,0,0.41182388925537555,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+15,Salto,2021,53.22813153686679,2021,0,0.4073938670791541,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.4561330676708705,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.5108702146294198,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+2,Canelones,2022,95.87193245283851,2022,0,0.4807617752080375,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+4,Colonia,2022,77.8783684361135,2022,0,0.3513453449875354,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+15,Salto,2022,53.22813153686679,2022,0,0.2726178868485945,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.34622731860875317,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.43098578560401796,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+2,Canelones,2023,94.05195802621145,2023,0,0.27186233943253924,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+4,Colonia,2023,77.8783684361135,2023,0,0.333148954418055,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+15,Salto,2023,53.22813153686679,2023,0,0.3233291835993974,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.28664307420795093,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.32980407662420014,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+2,Canelones,2024,95.87193245283851,2024,0,0.5873310695321993,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+4,Colonia,2024,74.26738762280598,2024,1,0.43930580563407,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+15,Salto,2024,50.40554179057274,2024,1,0.5144351050360026,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.8471758099771728,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.7295258958619238,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+2,Canelones,2025,95.87193245283851,2025,0,0.17292445773860826,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+4,Colonia,2025,74.26738762280598,2025,1,0.6218587175882662,1,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+15,Salto,2025,50.40554179057274,2025,1,0.3460981622441791,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.25991899864884105,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.3246335506036042,0,0.2857142857142857,logistica_C-A_ejercicio_fijo,con_rezago,principal,logistica,C-A,ejercicio
+2,Canelones,2017,90.73018244781157,2017,1,0.4158400407394982,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2017,77.21011418401855,2017,0,0.47345007224944247,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2017,51.97857165875078,2017,1,0.461135695913671,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2017,65.32229193645645,2017,1,0.597255284487717,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2017,69.22035590968723,2017,1,0.4896184213720576,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2018,87.57952405855632,2018,1,0.5014128546659474,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2018,77.21011418401855,2018,0,0.5392182917551486,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2018,54.7165554466054,2018,0,0.49930147081150655,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2018,67.90705554113586,2018,0,0.5456094278696657,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2018,68.98717488444635,2018,1,0.4117815145951146,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2019,87.57952405855632,2019,1,0.5107959066614274,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2019,73.79840572034213,2019,1,0.49171003509443434,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2019,54.7165554466054,2019,0,0.4760119862942088,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2019,65.66535057835122,2019,1,0.550164243333287,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2019,69.59613365760626,2019,0,0.521013207659934,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2020,96.7034572951266,2020,0,0.48862166786805006,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2020,77.21011418401855,2020,0,0.7828579107276895,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2020,54.7165554466054,2020,0,0.3575648965991116,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2020,67.90705554113586,2020,0,0.6279020248031599,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2020,69.59613365760626,2020,0,0.6428245491218835,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2021,96.7034572951266,2021,0,0.5404058029289718,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2021,77.21011418401855,2021,0,0.581956682280918,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2021,54.7165554466054,2021,0,0.33519967803065104,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2021,67.90705554113586,2021,0,0.3693439567629278,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2021,69.59613365760626,2021,0,0.5614557887789368,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2022,96.7034572951266,2022,0,0.3822338664427265,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2022,77.21011418401855,2022,0,0.4502044862404797,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2022,54.7165554466054,2022,0,0.6108306321565502,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2022,67.90705554113586,2022,0,0.5886885550003119,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2022,69.59613365760626,2022,0,0.6540745396408243,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2023,96.7034572951266,2023,0,0.7334536262404828,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2023,77.21011418401855,2023,0,0.572460015585743,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2023,54.7165554466054,2023,0,0.5208378271624355,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2023,67.90705554113586,2023,0,0.5513699920038455,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2023,69.59613365760626,2023,0,0.36272378015384343,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2024,96.7034572951266,2024,0,0.6045353465665152,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2024,73.13015146824718,2024,1,0.5836552839486703,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2024,51.64167304325298,2024,1,0.5687467421435215,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2024,67.90705554113586,2024,0,0.663043921490523,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2024,69.59613365760626,2024,0,0.6955348655882456,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2025,96.7034572951266,2025,0,0.3564583320094198,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+4,Colonia,2025,73.13015146824718,2025,1,0.32900928789397665,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+15,Salto,2025,51.64167304325298,2025,1,0.5606954292655134,1,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+18,Tacuarembó,2025,65.32229193645645,2025,1,0.38436158480605126,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+19,Treinta y Tres,2025,68.98717488444635,2025,1,0.43567148153633267,0,0.25,logistica_B_ejercicio_fijo,completo,principal,logistica,B,ejercicio
+2,Canelones,2018,83.76845801615758,2018,1,0.5733035099961015,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+4,Colonia,2018,77.8783684361135,2018,0,0.5023403572346903,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+15,Salto,2018,53.22813153686679,2018,0,0.5702916231803236,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.7540718091667602,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.37237956058723704,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+2,Canelones,2019,83.76845801615758,2019,1,0.40764318211779305,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+4,Colonia,2019,75.60389612699589,2019,1,0.4408635796379961,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+15,Salto,2019,53.22813153686679,2019,0,0.5014421150639558,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.5708101017994976,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.4865586091303268,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+2,Canelones,2020,95.87193245283851,2020,0,0.5141085357906672,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+4,Colonia,2020,77.8783684361135,2020,0,0.721875714354955,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+15,Salto,2020,52.90466154680476,2020,0,0.4085658672669675,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.6412085983972958,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.6232966859905643,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+2,Canelones,2021,95.87193245283851,2021,0,0.526018546565293,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+4,Colonia,2021,77.8783684361135,2021,0,0.5501443669125385,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+15,Salto,2021,53.22813153686679,2021,0,0.3931566283823606,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.4142675662065112,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.5430774592636023,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+2,Canelones,2022,95.87193245283851,2022,0,0.4002028708072296,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+4,Colonia,2022,77.8783684361135,2022,0,0.4391807951529256,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+15,Salto,2022,53.22813153686679,2022,0,0.6219038887957191,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.5861671663899878,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.6367440382357767,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+2,Canelones,2023,94.05195802621145,2023,0,0.7645676730806761,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+4,Colonia,2023,77.8783684361135,2023,0,0.6422315170118822,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+15,Salto,2023,53.22813153686679,2023,0,0.5949331140333363,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.6093632765244001,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.41337468280071243,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+2,Canelones,2024,95.87193245283851,2024,0,0.5616392538418837,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+4,Colonia,2024,74.26738762280598,2024,1,0.6273131871455512,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+15,Salto,2024,50.40554179057274,2024,1,0.5973076768998121,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.703980036032855,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.8262495980202701,1,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+2,Canelones,2025,95.87193245283851,2025,0,0.32071190049144194,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+4,Colonia,2025,74.26738762280598,2025,1,0.29901317381969633,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+15,Salto,2025,50.40554179057274,2025,1,0.21158856399369994,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.4858027564226005,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.35204467337225454,0,0.2857142857142857,logistica_B_ejercicio_fijo,con_rezago,principal,logistica,B,ejercicio
+2,Canelones,2018,83.76845801615758,2018,1,0.6374146356543671,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+4,Colonia,2018,77.8783684361135,2018,0,0.47553135275974917,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+15,Salto,2018,53.22813153686679,2018,0,0.5836966376790251,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.7918489228960487,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.4049405454332014,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+2,Canelones,2019,83.76845801615758,2019,1,0.4576477775223776,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+4,Colonia,2019,75.60389612699589,2019,1,0.4509556783524726,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+15,Salto,2019,53.22813153686679,2019,0,0.49498907397920544,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.5731529854229792,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.4978659310447617,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+2,Canelones,2020,95.87193245283851,2020,0,0.8371738361705883,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+4,Colonia,2020,77.8783684361135,2020,0,0.7952139955584754,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+15,Salto,2020,52.90466154680476,2020,0,0.310138102266451,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.7089207063960299,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.5946394807232873,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+2,Canelones,2021,95.87193245283851,2021,0,0.5066855385297674,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+4,Colonia,2021,77.8783684361135,2021,0,0.5493057477448959,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+15,Salto,2021,53.22813153686679,2021,0,0.37393409423487833,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.4651650583324936,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.5290106929907454,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+2,Canelones,2022,95.87193245283851,2022,0,0.3685482170666815,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+4,Colonia,2022,77.8783684361135,2022,0,0.40485583807537834,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+15,Salto,2022,53.22813153686679,2022,0,0.5086788035997366,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.46936006467761443,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.5927403917063807,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+2,Canelones,2023,94.05195802621145,2023,0,0.7049446892633553,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+4,Colonia,2023,77.8783684361135,2023,0,0.6309320009857253,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+15,Salto,2023,53.22813153686679,2023,0,0.43804641775636544,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.450137738648314,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.3770581895500335,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+2,Canelones,2024,95.87193245283851,2024,0,0.5446222981651049,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+4,Colonia,2024,74.26738762280598,2024,1,0.44105848465034203,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+15,Salto,2024,50.40554179057274,2024,1,0.29332269056527754,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.3736234965981273,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.5522429465491671,1,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+2,Canelones,2025,95.87193245283851,2025,0,0.3328185966350241,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+4,Colonia,2025,74.26738762280598,2025,1,0.272123918961825,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+15,Salto,2025,50.40554179057274,2025,1,0.1863554393982548,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.4712964047075283,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.34500397440031566,0,0.2857142857142857,logistica_C-B_ejercicio_fijo,con_rezago,principal,logistica,C-B,ejercicio
+2,Canelones,2017,90.73018244781157,2017,1,0.3370947950539102,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2017,77.21011418401855,2017,0,0.47907677607414756,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2017,51.97857165875078,2017,1,0.4885067411950978,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2017,65.32229193645645,2017,1,0.4079251586051979,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2017,69.22035590968723,2017,1,0.4641121778795107,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2018,87.57952405855632,2018,1,0.4687759278875491,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2018,77.21011418401855,2018,0,0.520215189836665,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2018,54.7165554466054,2018,0,0.532626228180267,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2018,67.90705554113586,2018,0,0.49161125431937136,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2018,68.98717488444635,2018,1,0.5326124475478538,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2019,87.57952405855632,2019,1,0.46654992024353026,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2019,73.79840572034213,2019,1,0.46278747174846174,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2019,54.7165554466054,2019,0,0.5645081593343437,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2019,65.66535057835122,2019,1,0.490250165949012,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2019,69.59613365760626,2019,0,0.47741551768637314,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2020,96.7034572951266,2020,0,0.43821839435058557,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2020,77.21011418401855,2020,0,0.45372160761270663,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2020,54.7165554466054,2020,0,0.519340935777248,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2020,67.90705554113586,2020,0,0.4699247093289613,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2020,69.59613365760626,2020,0,0.46666065997539763,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2021,96.7034572951266,2021,0,0.542379517604955,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2021,77.21011418401855,2021,0,0.5312007275151462,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2021,54.7165554466054,2021,0,0.677885316584054,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2021,67.90705554113586,2021,0,0.6856534285693374,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2021,69.59613365760626,2021,0,0.5711288284728547,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2022,96.7034572951266,2022,0,0.5266355297074267,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2022,77.21011418401855,2022,0,0.5150631543637844,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2022,54.7165554466054,2022,0,0.7494628373354895,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2022,67.90705554113586,2022,0,0.556407681976326,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2022,69.59613365760626,2022,0,0.5008578713746074,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2023,96.7034572951266,2023,0,0.5013672269677206,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2023,77.21011418401855,2023,0,0.5157803944127902,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2023,54.7165554466054,2023,0,0.4738421973779875,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2023,67.90705554113586,2023,0,0.41465750976948607,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2023,69.59613365760626,2023,0,0.46495263300242434,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2024,96.7034572951266,2024,0,0.49986757146392513,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2024,73.13015146824718,2024,1,0.5168873956895331,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2024,51.64167304325298,2024,1,0.5769983776444985,1,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2024,67.90705554113586,2024,0,0.47252849985530865,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2024,69.59613365760626,2024,0,0.4393170531141142,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2025,96.7034572951266,2025,0,0.4283764109871277,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+4,Colonia,2025,73.13015146824718,2025,1,0.44330632016445976,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+15,Salto,2025,51.64167304325298,2025,1,0.43491486678569574,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2025,65.32229193645645,2025,1,0.4319087043632143,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2025,68.98717488444635,2025,1,0.4617908750467114,0,0.25,logistica_A_jul_oct_fijo,completo,sensibilidad,logistica,A,jul_oct
+2,Canelones,2018,83.76845801615758,2018,1,0.5265017916678109,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+4,Colonia,2018,77.8783684361135,2018,0,0.47737779372474587,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+15,Salto,2018,53.22813153686679,2018,0,0.5836683030694763,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.5278267036920526,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.5478307019082352,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+2,Canelones,2019,83.76845801615758,2019,1,0.40026740123413923,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+4,Colonia,2019,75.60389612699589,2019,1,0.4199045364327349,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+15,Salto,2019,53.22813153686679,2019,0,0.5383400293050107,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.47218663600280547,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.4356105312043544,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+2,Canelones,2020,95.87193245283851,2020,0,0.5410602596285327,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+4,Colonia,2020,77.8783684361135,2020,0,0.4858669568155726,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+15,Salto,2020,52.90466154680476,2020,0,0.6028406410030249,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.6584660358593075,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.6529291576291594,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+2,Canelones,2021,95.87193245283851,2021,0,0.47707173830589505,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+4,Colonia,2021,77.8783684361135,2021,0,0.48412894155148944,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+15,Salto,2021,53.22813153686679,2021,0,0.5888408597246645,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.595594664949808,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.5215128206669378,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+2,Canelones,2022,95.87193245283851,2022,0,0.45847313975427123,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+4,Colonia,2022,77.8783684361135,2022,0,0.4905815959418819,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+15,Salto,2022,53.22813153686679,2022,0,0.6724851835468197,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.5109476473227271,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.5022930999772544,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+2,Canelones,2023,94.05195802621145,2023,0,0.4307899530166296,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+4,Colonia,2023,77.8783684361135,2023,0,0.45553735405272117,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+15,Salto,2023,53.22813153686679,2023,0,0.5010696897943614,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.44848888248867835,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.435381704984405,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+2,Canelones,2024,95.87193245283851,2024,0,0.4632620011991968,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+4,Colonia,2024,74.26738762280598,2024,1,0.4899029644683901,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+15,Salto,2024,50.40554179057274,2024,1,0.5408928842707565,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.589442771691301,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.5065336888062736,1,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+2,Canelones,2025,95.87193245283851,2025,0,0.26144100652359503,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+4,Colonia,2025,74.26738762280598,2025,1,0.3446925082612546,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+15,Salto,2025,50.40554179057274,2025,1,0.4196034416921104,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.3932928185982291,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.3300155473575554,0,0.2857142857142857,logistica_A_jul_oct_fijo,con_rezago,sensibilidad,logistica,A,jul_oct
+2,Canelones,2018,83.76845801615758,2018,1,0.6526532382537689,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+4,Colonia,2018,77.8783684361135,2018,0,0.46295774102527687,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+15,Salto,2018,53.22813153686679,2018,0,0.664757333558609,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.6244606263936974,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.6308310206468595,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+2,Canelones,2019,83.76845801615758,2019,1,0.5372839493397489,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+4,Colonia,2019,75.60389612699589,2019,1,0.4319324898355947,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+15,Salto,2019,53.22813153686679,2019,0,0.536200458966937,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.46989041043386115,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.45053121824382797,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+2,Canelones,2020,95.87193245283851,2020,0,0.8255057037686294,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+4,Colonia,2020,77.8783684361135,2020,0,0.5287567808182123,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+15,Salto,2020,52.90466154680476,2020,0,0.4798155777870714,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.6802261230284575,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.5392098937248129,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+2,Canelones,2021,95.87193245283851,2021,0,0.42666675355442346,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+4,Colonia,2021,77.8783684361135,2021,0,0.46920233659876037,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+15,Salto,2021,53.22813153686679,2021,0,0.6297719076603053,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.7206082487697166,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.5119256457994456,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+2,Canelones,2022,95.87193245283851,2022,0,0.4347563283293345,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+4,Colonia,2022,77.8783684361135,2022,0,0.44124689566088676,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+15,Salto,2022,53.22813153686679,2022,0,0.5594426332096609,1,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.37398408801903793,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.43221746128433935,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+2,Canelones,2023,94.05195802621145,2023,0,0.2920003775543879,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+4,Colonia,2023,77.8783684361135,2023,0,0.39500393443983023,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+15,Salto,2023,53.22813153686679,2023,0,0.27791508813775767,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.21671704072672535,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.3471398026556238,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+2,Canelones,2024,95.87193245283851,2024,0,0.46249102345678456,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+4,Colonia,2024,74.26738762280598,2024,1,0.280119029266431,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+15,Salto,2024,50.40554179057274,2024,1,0.280902473361907,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.3326967564295836,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.26213281924150245,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+2,Canelones,2025,95.87193245283851,2025,0,0.26994957533456715,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+4,Colonia,2025,74.26738762280598,2025,1,0.3307212048218458,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+15,Salto,2025,50.40554179057274,2025,1,0.39943873261940943,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.38394983472640487,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.3238966259090548,0,0.2857142857142857,logistica_C-A_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-A,jul_oct
+2,Canelones,2017,90.73018244781157,2017,1,0.48869470342363525,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2017,77.21011418401855,2017,0,0.574092639507208,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2017,51.97857165875078,2017,1,0.5267005540503343,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2017,65.32229193645645,2017,1,0.4877802908371883,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2017,69.22035590968723,2017,1,0.45432064235535313,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2018,87.57952405855632,2018,1,0.4958932930050439,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2018,77.21011418401855,2018,0,0.5039482486671905,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2018,54.7165554466054,2018,0,0.49725000977446077,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2018,67.90705554113586,2018,0,0.49233005966890164,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2018,68.98717488444635,2018,1,0.49443602716527674,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2019,87.57952405855632,2019,1,0.45082979794898576,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2019,73.79840572034213,2019,1,0.4519309537369671,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2019,54.7165554466054,2019,0,0.4932266273839084,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2019,65.66535057835122,2019,1,0.4807491361874147,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2019,69.59613365760626,2019,0,0.4814408987950543,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2020,96.7034572951266,2020,0,0.4721861733766199,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2020,77.21011418401855,2020,0,0.6859731167271043,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2020,54.7165554466054,2020,0,0.41826302602019194,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2020,67.90705554113586,2020,0,0.4980988823106471,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2020,69.59613365760626,2020,0,0.5548165623948803,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2021,96.7034572951266,2021,0,0.630763171460965,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2021,77.21011418401855,2021,0,0.5716567697427427,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2021,54.7165554466054,2021,0,0.6144285218422764,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2021,67.90705554113586,2021,0,0.6267280931691888,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2021,69.59613365760626,2021,0,0.5372606846991755,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2022,96.7034572951266,2022,0,0.6496505045047857,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2022,77.21011418401855,2022,0,0.47334432757834094,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2022,54.7165554466054,2022,0,0.7610359683496305,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2022,67.90705554113586,2022,0,0.6834485371377051,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2022,69.59613365760626,2022,0,0.5783581219345815,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2023,96.7034572951266,2023,0,0.8602822859773461,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2023,77.21011418401855,2023,0,0.730842418142847,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2023,54.7165554466054,2023,0,0.5804318383158651,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2023,67.90705554113586,2023,0,0.5223694882040141,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2023,69.59613365760626,2023,0,0.49249696811315086,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2024,96.7034572951266,2024,0,0.5227543275732914,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2024,73.13015146824718,2024,1,0.48228601631344775,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2024,51.64167304325298,2024,1,0.40500313853995235,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2024,67.90705554113586,2024,0,0.38044493795354484,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2024,69.59613365760626,2024,0,0.3262002449470636,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2025,96.7034572951266,2025,0,0.45550191916789157,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+4,Colonia,2025,73.13015146824718,2025,1,0.4076529027916296,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+15,Salto,2025,51.64167304325298,2025,1,0.5295456291994822,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2025,65.32229193645645,2025,1,0.51001854653427,1,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2025,68.98717488444635,2025,1,0.43525171949744434,0,0.25,logistica_B_jul_oct_fijo,completo,sensibilidad,logistica,B,jul_oct
+2,Canelones,2018,83.76845801615758,2018,1,0.55101001789888,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+4,Colonia,2018,77.8783684361135,2018,0,0.48831360297488424,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+15,Salto,2018,53.22813153686679,2018,0,0.5641790616799487,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.7369759720586867,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.5107257930147586,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+2,Canelones,2019,83.76845801615758,2019,1,0.38883423168050363,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+4,Colonia,2019,75.60389612699589,2019,1,0.4225543795996216,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+15,Salto,2019,53.22813153686679,2019,0,0.5012434963991595,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.4488826415441431,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.44199203790024666,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+2,Canelones,2020,95.87193245283851,2020,0,0.5835415051678198,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+4,Colonia,2020,77.8783684361135,2020,0,0.640246805465128,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+15,Salto,2020,52.90466154680476,2020,0,0.4637126213764922,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.575046873388529,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.6118002444443535,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+2,Canelones,2021,95.87193245283851,2021,0,0.5150079410193991,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+4,Colonia,2021,77.8783684361135,2021,0,0.5546736318188432,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+15,Salto,2021,53.22813153686679,2021,0,0.4509519037040537,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.5010593171693779,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.465219467292989,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+2,Canelones,2022,95.87193245283851,2022,0,0.5157727613322328,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+4,Colonia,2022,77.8783684361135,2022,0,0.4618066952672615,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+15,Salto,2022,53.22813153686679,2022,0,0.7051920792773886,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.5572979060684639,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.5894461621429303,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+2,Canelones,2023,94.05195802621145,2023,0,0.8182381768897835,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+4,Colonia,2023,77.8783684361135,2023,0,0.7011343469088599,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+15,Salto,2023,53.22813153686679,2023,0,0.6176678667969449,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.6205631639316856,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.43781243846283857,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+2,Canelones,2024,95.87193245283851,2024,0,0.4791892526084781,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+4,Colonia,2024,74.26738762280598,2024,1,0.5142227055562858,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+15,Salto,2024,50.40554179057274,2024,1,0.5578232001323689,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.5956450954756377,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.6272830904318877,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+2,Canelones,2025,95.87193245283851,2025,0,0.5100602406966895,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+4,Colonia,2025,74.26738762280598,2025,1,0.5322093892168913,1,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+15,Salto,2025,50.40554179057274,2025,1,0.15481421441311083,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.19822889467783714,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.2844756903478632,0,0.2857142857142857,logistica_B_jul_oct_fijo,con_rezago,sensibilidad,logistica,B,jul_oct
+2,Canelones,2018,83.76845801615758,2018,1,0.641978617441779,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+4,Colonia,2018,77.8783684361135,2018,0,0.44376904796153877,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+15,Salto,2018,53.22813153686679,2018,0,0.5767630306658661,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.7868971616987539,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.5676052567681221,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+2,Canelones,2019,83.76845801615758,2019,1,0.5119665855405451,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+4,Colonia,2019,75.60389612699589,2019,1,0.4370465486024094,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+15,Salto,2019,53.22813153686679,2019,0,0.4874084662858967,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.4567630228532436,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.4672806208276461,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+2,Canelones,2020,95.87193245283851,2020,0,0.8796180130332212,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+4,Colonia,2020,77.8783684361135,2020,0,0.5538793586014894,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+15,Salto,2020,52.90466154680476,2020,0,0.38463326725177877,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.6380557713269879,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.4640598212236878,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+2,Canelones,2021,95.87193245283851,2021,0,0.41857133445500666,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+4,Colonia,2021,77.8783684361135,2021,0,0.4646211145510039,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+15,Salto,2021,53.22813153686679,2021,0,0.47381769304380145,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.619183853059151,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.4276508386278826,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+2,Canelones,2022,95.87193245283851,2022,0,0.4802113085772483,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+4,Colonia,2022,77.8783684361135,2022,0,0.45220175233968674,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+15,Salto,2022,53.22813153686679,2022,0,0.5927739786420346,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.3935428365851911,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.5312925925754023,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+2,Canelones,2023,94.05195802621145,2023,0,0.7868129934734535,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+4,Colonia,2023,77.8783684361135,2023,0,0.7239504786482626,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+15,Salto,2023,53.22813153686679,2023,0,0.42798198974577795,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.4202907414302287,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.4018070622942454,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+2,Canelones,2024,95.87193245283851,2024,0,0.5281375072359332,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+4,Colonia,2024,74.26738762280598,2024,1,0.34772811438566453,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+15,Salto,2024,50.40554179057274,2024,1,0.2749997158505516,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.30122770585755343,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.3806213268799307,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+2,Canelones,2025,95.87193245283851,2025,0,0.5118048927561087,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+4,Colonia,2025,74.26738762280598,2025,1,0.5298023131681766,1,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+15,Salto,2025,50.40554179057274,2025,1,0.15324070683712893,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.19720880090084705,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.2843858849706135,0,0.2857142857142857,logistica_C-B_jul_oct_fijo,con_rezago,sensibilidad,logistica,C-B,jul_oct
+2,Canelones,2018,83.76845801615758,2018,1,0.5489055406257449,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+4,Colonia,2018,77.8783684361135,2018,0,0.4868856717902879,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+15,Salto,2018,53.22813153686679,2018,0,0.5051091053110284,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.5291422970385771,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.5185713098560939,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+2,Canelones,2019,83.76845801615758,2019,1,0.56133186777723,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+4,Colonia,2019,75.60389612699589,2019,1,0.5107044227825683,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+15,Salto,2019,53.22813153686679,2019,0,0.494276238238614,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.5030947164022951,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.511234901666315,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+2,Canelones,2020,95.87193245283851,2020,0,0.8329900399638884,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+4,Colonia,2020,77.8783684361135,2020,0,0.6147345953602729,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+15,Salto,2020,52.90466154680476,2020,0,0.3931772856559969,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.5856873177264881,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.5033573759012581,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+2,Canelones,2021,95.87193245283851,2021,0,0.5005421746304473,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+4,Colonia,2021,77.8783684361135,2021,0,0.5225020702054284,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+15,Salto,2021,53.22813153686679,2021,0,0.47272189204159243,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.5250754858255082,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.519178199161403,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+2,Canelones,2022,95.87193245283851,2022,0,0.45117710436474584,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+4,Colonia,2022,77.8783684361135,2022,0,0.47272344348026424,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+15,Salto,2022,53.22813153686679,2022,0,0.361966259329333,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.3785582796738447,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.4528252091448429,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+2,Canelones,2023,94.05195802621145,2023,0,0.3958456501197313,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+4,Colonia,2023,77.8783684361135,2023,0,0.4671993378799705,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+15,Salto,2023,53.22813153686679,2023,0,0.3445642185321236,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.3465717252808077,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.45965165790405127,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+2,Canelones,2024,95.87193245283851,2024,0,0.5453251034817577,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+4,Colonia,2024,74.26738762280598,2024,1,0.36701412087284063,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+15,Salto,2024,50.40554179057274,2024,1,0.2421194145876238,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.2975185385353564,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.337823151795148,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+2,Canelones,2025,95.87193245283851,2025,0,0.49793924103534926,0,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+4,Colonia,2025,74.26738762280598,2025,1,0.5039030946269932,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+15,Salto,2025,50.40554179057274,2025,1,0.5045380845280304,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.5018366943912868,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.5015493665351496,1,0.2857142857142857,logistica_H_sin_clima_fijo,con_rezago,control,logistica,H,sin_clima

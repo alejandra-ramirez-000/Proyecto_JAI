@@ -1,0 +1,211 @@
+DepartamentoCodigo,Departamento,AnioEjercicio,umbral_mortalidad_elevada,fold,y_true,y_proba,y_pred,prevalencia_entrenamiento,modelo,conjunto,es_baseline
+2,Canelones,2017,90.73018244781157,2017,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2017,77.21011418401855,2017,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2017,51.97857165875078,2017,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2017,65.32229193645645,2017,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2017,69.22035590968723,2017,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2018,87.57952405855632,2018,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2018,77.21011418401855,2018,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2018,54.7165554466054,2018,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2018,67.90705554113586,2018,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2018,68.98717488444635,2018,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2019,87.57952405855632,2019,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2019,73.79840572034213,2019,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2019,54.7165554466054,2019,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2019,65.66535057835122,2019,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2019,69.59613365760626,2019,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2020,96.7034572951266,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2020,77.21011418401855,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2020,54.7165554466054,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2020,67.90705554113586,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2020,69.59613365760626,2020,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2021,96.7034572951266,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2021,77.21011418401855,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2021,54.7165554466054,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2021,67.90705554113586,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2021,69.59613365760626,2021,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2022,96.7034572951266,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2022,77.21011418401855,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2022,54.7165554466054,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2022,67.90705554113586,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2022,69.59613365760626,2022,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2023,96.7034572951266,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2023,77.21011418401855,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2023,54.7165554466054,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2023,67.90705554113586,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2023,69.59613365760626,2023,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2024,96.7034572951266,2024,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2024,73.13015146824718,2024,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2024,51.64167304325298,2024,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2024,67.90705554113586,2024,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2024,69.59613365760626,2024,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2025,96.7034572951266,2025,0,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+4,Colonia,2025,73.13015146824718,2025,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+15,Salto,2025,51.64167304325298,2025,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+18,Tacuarembó,2025,65.32229193645645,2025,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+19,Treinta y Tres,2025,68.98717488444635,2025,1,0.25,0,0.25,C1_clase_mayoritaria,completo,True
+2,Canelones,2018,83.76845801615758,2018,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+4,Colonia,2018,77.8783684361135,2018,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+15,Salto,2018,53.22813153686679,2018,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+2,Canelones,2019,83.76845801615758,2019,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+4,Colonia,2019,75.60389612699589,2019,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+15,Salto,2019,53.22813153686679,2019,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+2,Canelones,2020,95.87193245283851,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+4,Colonia,2020,77.8783684361135,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+15,Salto,2020,52.90466154680476,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+2,Canelones,2021,95.87193245283851,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+4,Colonia,2021,77.8783684361135,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+15,Salto,2021,53.22813153686679,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+2,Canelones,2022,95.87193245283851,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+4,Colonia,2022,77.8783684361135,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+15,Salto,2022,53.22813153686679,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+2,Canelones,2023,94.05195802621145,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+4,Colonia,2023,77.8783684361135,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+15,Salto,2023,53.22813153686679,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+2,Canelones,2024,95.87193245283851,2024,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+4,Colonia,2024,74.26738762280598,2024,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+15,Salto,2024,50.40554179057274,2024,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+2,Canelones,2025,95.87193245283851,2025,0,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+4,Colonia,2025,74.26738762280598,2025,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+15,Salto,2025,50.40554179057274,2025,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.2857142857142857,0,0.2857142857142857,C1_clase_mayoritaria,con_rezago,True
+2,Canelones,2018,83.76845801615758,2018,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+4,Colonia,2018,77.8783684361135,2018,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+15,Salto,2018,53.22813153686679,2018,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+18,Tacuarembó,2018,66.06952692405133,2018,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+19,Treinta y Tres,2018,68.37437778013636,2018,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+2,Canelones,2019,83.76845801615758,2019,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+4,Colonia,2019,75.60389612699589,2019,1,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+15,Salto,2019,53.22813153686679,2019,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+19,Treinta y Tres,2019,69.57879618423445,2019,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+2,Canelones,2020,95.87193245283851,2020,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+4,Colonia,2020,77.8783684361135,2020,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+15,Salto,2020,52.90466154680476,2020,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+18,Tacuarembó,2020,66.06952692405133,2020,0,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+2,Canelones,2021,95.87193245283851,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+4,Colonia,2021,77.8783684361135,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+15,Salto,2021,53.22813153686679,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+2,Canelones,2022,95.87193245283851,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+4,Colonia,2022,77.8783684361135,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+15,Salto,2022,53.22813153686679,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+2,Canelones,2023,94.05195802621145,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+4,Colonia,2023,77.8783684361135,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+15,Salto,2023,53.22813153686679,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+2,Canelones,2024,95.87193245283851,2024,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+4,Colonia,2024,74.26738762280598,2024,1,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+15,Salto,2024,50.40554179057274,2024,1,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+2,Canelones,2025,95.87193245283851,2025,0,0.0,0,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+4,Colonia,2025,74.26738762280598,2025,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+15,Salto,2025,50.40554179057274,2025,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+18,Tacuarembó,2025,64.1254687232095,2025,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+19,Treinta y Tres,2025,68.37437778013636,2025,1,1.0,1,0.2857142857142857,C2_persistencia_riesgo,con_rezago,True
+2,Canelones,2017,90.73018244781157,2017,1,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2017,77.21011418401855,2017,0,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2017,51.97857165875078,2017,1,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2017,65.32229193645645,2017,1,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2017,69.22035590968723,2017,1,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2018,87.57952405855632,2018,1,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2018,77.21011418401855,2018,0,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2018,54.7165554466054,2018,0,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2018,67.90705554113586,2018,0,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2018,68.98717488444635,2018,1,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2019,87.57952405855632,2019,1,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2019,73.79840572034213,2019,1,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2019,54.7165554466054,2019,0,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2019,65.66535057835122,2019,1,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2019,69.59613365760626,2019,0,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2020,96.7034572951266,2020,0,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2020,77.21011418401855,2020,0,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2020,54.7165554466054,2020,0,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2020,67.90705554113586,2020,0,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2020,69.59613365760626,2020,0,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2021,96.7034572951266,2021,0,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2021,77.21011418401855,2021,0,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2021,54.7165554466054,2021,0,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2021,67.90705554113586,2021,0,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2021,69.59613365760626,2021,0,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2022,96.7034572951266,2022,0,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2022,77.21011418401855,2022,0,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2022,54.7165554466054,2022,0,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2022,67.90705554113586,2022,0,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2022,69.59613365760626,2022,0,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2023,96.7034572951266,2023,0,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2023,77.21011418401855,2023,0,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2023,54.7165554466054,2023,0,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2023,67.90705554113586,2023,0,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2023,69.59613365760626,2023,0,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2024,96.7034572951266,2024,0,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2024,73.13015146824718,2024,1,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2024,51.64167304325298,2024,1,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2024,67.90705554113586,2024,0,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2024,69.59613365760626,2024,0,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2025,96.7034572951266,2025,0,0.25,0,0.25,C3_historial_departamental,completo,True
+4,Colonia,2025,73.13015146824718,2025,1,0.25,0,0.25,C3_historial_departamental,completo,True
+15,Salto,2025,51.64167304325298,2025,1,0.25,0,0.25,C3_historial_departamental,completo,True
+18,Tacuarembó,2025,65.32229193645645,2025,1,0.25,0,0.25,C3_historial_departamental,completo,True
+19,Treinta y Tres,2025,68.98717488444635,2025,1,0.25,0,0.25,C3_historial_departamental,completo,True
+2,Canelones,2018,83.76845801615758,2018,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+4,Colonia,2018,77.8783684361135,2018,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+15,Salto,2018,53.22813153686679,2018,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+18,Tacuarembó,2018,66.06952692405133,2018,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+19,Treinta y Tres,2018,68.37437778013636,2018,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+2,Canelones,2019,83.76845801615758,2019,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+4,Colonia,2019,75.60389612699589,2019,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+15,Salto,2019,53.22813153686679,2019,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+18,Tacuarembó,2019,64.1254687232095,2019,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+19,Treinta y Tres,2019,69.57879618423445,2019,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+2,Canelones,2020,95.87193245283851,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+4,Colonia,2020,77.8783684361135,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+15,Salto,2020,52.90466154680476,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+18,Tacuarembó,2020,66.06952692405133,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+19,Treinta y Tres,2020,69.57879618423445,2020,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+2,Canelones,2021,95.87193245283851,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+4,Colonia,2021,77.8783684361135,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+15,Salto,2021,53.22813153686679,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+18,Tacuarembó,2021,66.06952692405133,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+19,Treinta y Tres,2021,69.57879618423445,2021,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+2,Canelones,2022,95.87193245283851,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+4,Colonia,2022,77.8783684361135,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+15,Salto,2022,53.22813153686679,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+18,Tacuarembó,2022,66.06952692405133,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+19,Treinta y Tres,2022,69.57879618423445,2022,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+2,Canelones,2023,94.05195802621145,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+4,Colonia,2023,77.8783684361135,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+15,Salto,2023,53.22813153686679,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+18,Tacuarembó,2023,66.06952692405133,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+19,Treinta y Tres,2023,69.57879618423445,2023,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+2,Canelones,2024,95.87193245283851,2024,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+4,Colonia,2024,74.26738762280598,2024,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+15,Salto,2024,50.40554179057274,2024,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+18,Tacuarembó,2024,65.61993869839925,2024,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+19,Treinta y Tres,2024,69.0912583292308,2024,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+2,Canelones,2025,95.87193245283851,2025,0,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+4,Colonia,2025,74.26738762280598,2025,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+15,Salto,2025,50.40554179057274,2025,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+18,Tacuarembó,2025,64.1254687232095,2025,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True
+19,Treinta y Tres,2025,68.37437778013636,2025,1,0.2857142857142857,0,0.2857142857142857,C3_historial_departamental,con_rezago,True

@@ -1,0 +1,23 @@
+chequeo,esperado,observado,ok
+Filas DatosAnimales,677035,677035,True
+Filas DatosGenerales,315536,315536,True
+Años DatosAnimales,2016–2025,2016–2025,True
+Años DatosGenerales,2016–2025,2016–2025,True
+Filas ovinas en los 5 departamentos,40418,40418,True
+Combinaciones departamento–año (ovinos),50,50,True
+Combinaciones departamento–año (generales),50,50,True
+Departamento–ejercicio 2017–2025 con cobertura climática mínima,45,45,True
+Duplicados clave dimensional completa (DatosAnimales),0,0,True
+Duplicados clave dimensional completa (DatosGenerales),0,0,True
+Mortalidad ovina nula,0,0,True
+Mortalidad ovina negativa,0,0,True
+Ovinos modelables 2017–2025 completos y no negativos,sin errores,sin errores,True
+DatosGenerales modelable 2017–2025 completo y no negativo,sin errores,sin errores,True
+Columnas MGAP 100 % nulas en 2016–2021,True,True,True
+Columnas MGAP completas desde 2022,True,True,True
+Cobertura mínima de las estaciones seleccionadas en 2017–2025,>= 0.95,0.9945,True
+Ejercicios con cobertura suficiente en estaciones excluidas,< 9,0,True
+Duplicados estación–fecha en INIA,0,0,True
+Primera fecha INIA,2016-01-01,2016-01-01,True
+Última fecha INIA,2026-03-17,2026-03-17,True
+Archivos raw sin modificaciones (SHA-256),True,True,True

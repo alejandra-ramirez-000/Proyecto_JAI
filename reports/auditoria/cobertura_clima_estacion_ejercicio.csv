@@ -1,0 +1,67 @@
+EstacionAgr,AnioEjercicio,dias_con_registro,dias_validos,dias_esperados,cobertura,cumple_minimo
+La Estanzuela,2016,182,182,366,0.4973,False
+La Estanzuela,2017,365,365,365,1.0,True
+La Estanzuela,2018,365,365,365,1.0,True
+La Estanzuela,2019,365,364,365,0.9973,True
+La Estanzuela,2020,366,366,366,1.0,True
+La Estanzuela,2021,365,365,365,1.0,True
+La Estanzuela,2022,365,365,365,1.0,True
+La Estanzuela,2023,365,365,365,1.0,True
+La Estanzuela,2024,366,365,366,0.9973,True
+La Estanzuela,2025,365,365,365,1.0,True
+La Estanzuela,2026,260,260,365,0.7123,False
+Las Brujas,2016,182,182,366,0.4973,False
+Las Brujas,2017,365,365,365,1.0,True
+Las Brujas,2018,365,365,365,1.0,True
+Las Brujas,2019,365,365,365,1.0,True
+Las Brujas,2020,366,366,366,1.0,True
+Las Brujas,2021,365,365,365,1.0,True
+Las Brujas,2022,365,363,365,0.9945,True
+Las Brujas,2023,365,365,365,1.0,True
+Las Brujas,2024,366,366,366,1.0,True
+Las Brujas,2025,365,365,365,1.0,True
+Las Brujas,2026,259,259,365,0.7096,False
+Salto Grande,2016,182,182,366,0.4973,False
+Salto Grande,2017,365,365,365,1.0,True
+Salto Grande,2018,365,365,365,1.0,True
+Salto Grande,2019,365,365,365,1.0,True
+Salto Grande,2020,366,366,366,1.0,True
+Salto Grande,2021,365,365,365,1.0,True
+Salto Grande,2022,365,365,365,1.0,True
+Salto Grande,2023,365,365,365,1.0,True
+Salto Grande,2024,366,366,366,1.0,True
+Salto Grande,2025,365,365,365,1.0,True
+Salto Grande,2026,260,259,365,0.7096,False
+Tacuarembó La Magnolia,2016,182,182,366,0.4973,False
+Tacuarembó La Magnolia,2017,365,365,365,1.0,True
+Tacuarembó La Magnolia,2018,365,365,365,1.0,True
+Tacuarembó La Magnolia,2019,365,365,365,1.0,True
+Tacuarembó La Magnolia,2020,366,366,366,1.0,True
+Tacuarembó La Magnolia,2021,365,365,365,1.0,True
+Tacuarembó La Magnolia,2022,365,364,365,0.9973,True
+Tacuarembó La Magnolia,2023,365,365,365,1.0,True
+Tacuarembó La Magnolia,2024,366,366,366,1.0,True
+Tacuarembó La Magnolia,2025,365,365,365,1.0,True
+Tacuarembó La Magnolia,2026,260,259,365,0.7096,False
+Tacuaremnó Glencore,2016,0,0,366,0.0,False
+Tacuaremnó Glencore,2017,240,238,365,0.6521,False
+Tacuaremnó Glencore,2018,362,332,365,0.9096,False
+Tacuaremnó Glencore,2019,112,0,365,0.0,False
+Tacuaremnó Glencore,2020,0,0,366,0.0,False
+Tacuaremnó Glencore,2021,347,0,365,0.0,False
+Tacuaremnó Glencore,2022,364,336,365,0.9205,False
+Tacuaremnó Glencore,2023,365,345,365,0.9452,False
+Tacuaremnó Glencore,2024,366,324,366,0.8852,False
+Tacuaremnó Glencore,2025,365,230,365,0.6301,False
+Tacuaremnó Glencore,2026,244,55,365,0.1507,False
+Treinta y Tres Paso de la Laguna,2016,182,181,366,0.4945,False
+Treinta y Tres Paso de la Laguna,2017,365,364,365,0.9973,True
+Treinta y Tres Paso de la Laguna,2018,365,365,365,1.0,True
+Treinta y Tres Paso de la Laguna,2019,365,364,365,0.9973,True
+Treinta y Tres Paso de la Laguna,2020,366,364,366,0.9945,True
+Treinta y Tres Paso de la Laguna,2021,365,365,365,1.0,True
+Treinta y Tres Paso de la Laguna,2022,365,365,365,1.0,True
+Treinta y Tres Paso de la Laguna,2023,365,365,365,1.0,True
+Treinta y Tres Paso de la Laguna,2024,366,366,366,1.0,True
+Treinta y Tres Paso de la Laguna,2025,365,365,365,1.0,True
+Treinta y Tres Paso de la Laguna,2026,253,247,365,0.6767,False

@@ -1,0 +1,126 @@
+DepartamentoCodigo,Departamento,AnioEjercicio,fold,y_true,y_pred,modelo,conjunto,es_baseline
+2,Canelones,2017,2017,1.0879586108197528,1.151682073761876,R1_promedio_departamental,completo,True
+4,Colonia,2017,2017,1.0223468546716954,1.077062373754554,R1_promedio_departamental,completo,True
+15,Salto,2017,2017,0.7697684851002138,0.7091844891329615,R1_promedio_departamental,completo,True
+18,Tacuarembó,2017,2017,0.7557956357659154,0.7274238839673588,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2017,2017,0.7658781525042876,0.7172738797294718,R1_promedio_departamental,completo,True
+2,Canelones,2018,2018,1.0935251771646342,1.1509862529687658,R1_promedio_departamental,completo,True
+4,Colonia,2018,2018,1.0546628542109475,1.0730228738121474,R1_promedio_departamental,completo,True
+15,Salto,2018,2018,0.7183329590755384,0.7156139298860459,R1_promedio_departamental,completo,True
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7308267053418838,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7212665846182666,R1_promedio_departamental,completo,True
+2,Canelones,2019,2019,1.0901486346786926,1.1514083207795085,R1_promedio_departamental,completo,True
+4,Colonia,2019,2019,1.0429318376704715,1.074489250879707,R1_promedio_departamental,completo,True
+15,Salto,2019,2019,0.702946677429244,0.7175372150918327,R1_promedio_departamental,completo,True
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7336735107109046,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7235307676883329,R1_promedio_departamental,completo,True
+2,Canelones,2020,2020,1.1300690072839898,1.1464182742038462,R1_promedio_departamental,completo,True
+4,Colonia,2020,2020,1.0801942673305966,1.0698314471721915,R1_promedio_departamental,completo,True
+15,Salto,2020,2020,0.7277006928060551,0.7144429631697313,R1_promedio_departamental,completo,True
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7268372324328212,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7238484413741306,R1_promedio_departamental,completo,True
+2,Canelones,2021,2021,1.1280436839584898,1.1466714396195339,R1_promedio_departamental,completo,True
+4,Colonia,2021,2021,1.0892427338827255,1.0687003888531752,R1_promedio_departamental,completo,True
+15,Salto,2021,2021,0.7224019562636321,0.7151053052375341,R1_promedio_departamental,completo,True
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7275102560822051,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.723838333592929,R1_promedio_departamental,completo,True
+2,Canelones,2022,2022,1.1493570586514892,1.144007267782909,R1_promedio_departamental,completo,True
+4,Colonia,2022,2022,1.090715052670121,1.068516349004751,R1_promedio_departamental,completo,True
+15,Salto,2022,2022,0.6935787656682096,0.718708204061962,R1_promedio_departamental,completo,True
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7317365073321701,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.723105234168876,R1_promedio_departamental,completo,True
+2,Canelones,2023,2023,1.2104996788242965,1.136364440261308,R1_promedio_departamental,completo,True
+4,Colonia,2023,2023,1.0839920536778134,1.0693567238787893,R1_promedio_departamental,completo,True
+15,Salto,2023,2023,0.7014881073318919,0.7177195363540017,R1_promedio_departamental,completo,True
+18,Tacuarembó,2023,2023,0.7232591792655054,0.73149094102991,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7188875634690935,R1_promedio_departamental,completo,True
+2,Canelones,2024,2024,1.2286430036132505,1.1340965246626888,R1_promedio_departamental,completo,True
+4,Colonia,2024,2024,1.0861074527364782,1.0690922989964562,R1_promedio_departamental,completo,True
+15,Salto,2024,2024,0.6952520170606759,0.7184990476379037,R1_promedio_departamental,completo,True
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7326288447972193,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7243625197466762,R1_promedio_departamental,completo,True
+2,Canelones,2025,2025,1.183170345920165,1.1397806068743244,R1_promedio_departamental,completo,True
+4,Colonia,2025,2025,1.0886527378572783,1.068774138356356,R1_promedio_departamental,completo,True
+15,Salto,2025,2025,0.7117747374284445,0.7164337075919326,R1_promedio_departamental,completo,True
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7330588258103128,R1_promedio_departamental,completo,True
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7279558659522853,R1_promedio_departamental,completo,True
+2,Canelones,2018,2018,1.0935251771646342,1.1599902018471961,R1_promedio_departamental,con_rezago,True
+4,Colonia,2018,2018,1.0546628542109475,1.0802623051179263,R1_promedio_departamental,con_rezago,True
+15,Salto,2018,2018,0.7183329590755384,0.7078775648554504,R1_promedio_departamental,con_rezago,True
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7272597152813078,R1_promedio_departamental,con_rezago,True
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7148935034916922,R1_promedio_departamental,con_rezago,True
+2,Canelones,2019,2019,1.0901486346786926,1.1604725650594736,R1_promedio_departamental,con_rezago,True
+4,Colonia,2019,2019,1.0429318376704715,1.0819381646237087,R1_promedio_departamental,con_rezago,True
+15,Salto,2019,2019,0.702946677429244,0.7100756050906354,R1_promedio_departamental,con_rezago,True
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7305132071316173,R1_promedio_departamental,con_rezago,True
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7174811412860536,R1_promedio_departamental,con_rezago,True
+2,Canelones,2020,2020,1.1300690072839898,1.154769654687288,R1_promedio_departamental,con_rezago,True
+4,Colonia,2020,2020,1.0801942673305966,1.076614960386548,R1_promedio_departamental,con_rezago,True
+15,Salto,2020,2020,0.7277006928060551,0.7065393171796623,R1_promedio_departamental,con_rezago,True
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7227003176709506,R1_promedio_departamental,con_rezago,True
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7178441969269654,R1_promedio_departamental,con_rezago,True
+2,Canelones,2021,2021,1.1280436839584898,1.1550589865909313,R1_promedio_departamental,con_rezago,True
+4,Colonia,2021,2021,1.0892427338827255,1.0753223223076724,R1_promedio_departamental,con_rezago,True
+15,Salto,2021,2021,0.7224019562636321,0.7072962795428657,R1_promedio_departamental,con_rezago,True
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7234694875559607,R1_promedio_departamental,con_rezago,True
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7178326451770207,R1_promedio_departamental,con_rezago,True
+2,Canelones,2022,2022,1.1493570586514892,1.1520142187776456,R1_promedio_departamental,con_rezago,True
+4,Colonia,2022,2022,1.090715052670121,1.0751119910523301,R1_promedio_departamental,con_rezago,True
+15,Salto,2022,2022,0.6935787656682096,0.7114138781993545,R1_promedio_departamental,con_rezago,True
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7282994889844921,R1_promedio_departamental,con_rezago,True
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7169948172638171,R1_promedio_departamental,con_rezago,True
+2,Canelones,2023,2023,1.2104996788242965,1.1432795587529587,R1_promedio_departamental,con_rezago,True
+4,Colonia,2023,2023,1.0839920536778134,1.0760724194798026,R1_promedio_departamental,con_rezago,True
+15,Salto,2023,2023,0.7014881073318919,0.7102839722474,R1_promedio_departamental,con_rezago,True
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7280188417819092,R1_promedio_departamental,con_rezago,True
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7121746221783515,R1_promedio_departamental,con_rezago,True
+2,Canelones,2024,2024,1.2286430036132505,1.1406876552116796,R1_promedio_departamental,con_rezago,True
+4,Colonia,2024,2024,1.0861074527364782,1.075770219614279,R1_promedio_departamental,con_rezago,True
+15,Salto,2024,2024,0.6952520170606759,0.7111748422861451,R1_promedio_departamental,con_rezago,True
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7293193032302627,R1_promedio_departamental,con_rezago,True
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7184317150670173,R1_promedio_departamental,con_rezago,True
+2,Canelones,2025,2025,1.183170345920165,1.1471837491678347,R1_promedio_departamental,con_rezago,True
+4,Colonia,2025,2025,1.0886527378572783,1.0754066074541648,R1_promedio_departamental,con_rezago,True
+15,Salto,2025,2025,0.7117747374284445,0.7088144536621782,R1_promedio_departamental,con_rezago,True
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7298107101023695,R1_promedio_departamental,con_rezago,True
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7225383964448564,R1_promedio_departamental,con_rezago,True
+2,Canelones,2018,2018,1.0935251771646342,1.0879586108197528,R2_persistencia,con_rezago,True
+4,Colonia,2018,2018,1.0546628542109475,1.0223468546716954,R2_persistencia,con_rezago,True
+15,Salto,2018,2018,0.7183329590755384,0.7697684851002138,R2_persistencia,con_rezago,True
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7557956357659154,R2_persistencia,con_rezago,True
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7658781525042876,R2_persistencia,con_rezago,True
+2,Canelones,2019,2019,1.0901486346786926,1.0935251771646342,R2_persistencia,con_rezago,True
+4,Colonia,2019,2019,1.0429318376704715,1.0546628542109475,R2_persistencia,con_rezago,True
+15,Salto,2019,2019,0.702946677429244,0.7183329590755384,R2_persistencia,con_rezago,True
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7285730647697157,R2_persistencia,con_rezago,True
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7339365133939285,R2_persistencia,con_rezago,True
+2,Canelones,2020,2020,1.1300690072839898,1.0901486346786926,R2_persistencia,con_rezago,True
+4,Colonia,2020,2020,1.0801942673305966,1.0429318376704715,R2_persistencia,con_rezago,True
+15,Salto,2020,2020,0.7277006928060551,0.702946677429244,R2_persistencia,con_rezago,True
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7057986218175486,R2_persistencia,con_rezago,True
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7158230488333991,R2_persistencia,con_rezago,True
+2,Canelones,2021,2021,1.1280436839584898,1.1300690072839898,R2_persistencia,con_rezago,True
+4,Colonia,2021,2021,1.0892427338827255,1.0801942673305966,R2_persistencia,con_rezago,True
+15,Salto,2021,2021,0.7224019562636321,0.7277006928060551,R2_persistencia,con_rezago,True
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7604888480422161,R2_persistencia,con_rezago,True
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7132816593470166,R2_persistencia,con_rezago,True
+2,Canelones,2022,2022,1.1493570586514892,1.1280436839584898,R2_persistencia,con_rezago,True
+4,Colonia,2022,2022,1.090715052670121,1.0892427338827255,R2_persistencia,con_rezago,True
+15,Salto,2022,2022,0.6935787656682096,0.7224019562636321,R2_persistencia,con_rezago,True
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7551046588471447,R2_persistencia,con_rezago,True
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7133625215966296,R2_persistencia,con_rezago,True
+2,Canelones,2023,2023,1.2104996788242965,1.1493570586514892,R2_persistencia,con_rezago,True
+4,Colonia,2023,2023,1.0839920536778134,1.090715052670121,R2_persistencia,con_rezago,True
+15,Salto,2023,2023,0.7014881073318919,0.6935787656682096,R2_persistencia,con_rezago,True
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7212946488474249,R2_persistencia,con_rezago,True
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7192273169890547,R2_persistencia,con_rezago,True
+2,Canelones,2024,2024,1.2286430036132505,1.2104996788242965,R2_persistencia,con_rezago,True
+4,Colonia,2024,2024,1.0861074527364782,1.0839920536778134,R2_persistencia,con_rezago,True
+15,Salto,2024,2024,0.6952520170606759,0.7014881073318919,R2_persistencia,con_rezago,True
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7232591792655054,R2_persistencia,con_rezago,True
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7529686825873138,R2_persistencia,con_rezago,True
+2,Canelones,2025,2025,1.183170345920165,1.2286430036132505,R2_persistencia,con_rezago,True
+4,Colonia,2025,2025,1.0886527378572783,1.0861074527364782,R2_persistencia,con_rezago,True
+15,Salto,2025,2025,0.7117747374284445,0.6952520170606759,R2_persistencia,con_rezago,True
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7141559491270311,R2_persistencia,con_rezago,True
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7091690323666524,R2_persistencia,con_rezago,True

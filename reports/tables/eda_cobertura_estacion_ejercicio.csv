@@ -1,0 +1,56 @@
+EstacionAgr,AnioEjercicio,dias_con_registro,dias_validos,cobertura_registros
+La Estanzuela,2016,182,182,1.0
+La Estanzuela,2017,365,365,1.0
+La Estanzuela,2018,365,365,1.0
+La Estanzuela,2019,365,364,0.9972602739726028
+La Estanzuela,2020,366,366,1.0
+La Estanzuela,2021,365,365,1.0
+La Estanzuela,2022,365,365,1.0
+La Estanzuela,2023,365,365,1.0
+La Estanzuela,2024,366,365,0.9972677595628415
+La Estanzuela,2025,365,365,1.0
+La Estanzuela,2026,260,260,1.0
+Las Brujas,2016,182,182,1.0
+Las Brujas,2017,365,365,1.0
+Las Brujas,2018,365,365,1.0
+Las Brujas,2019,365,365,1.0
+Las Brujas,2020,366,366,1.0
+Las Brujas,2021,365,365,1.0
+Las Brujas,2022,365,363,0.9945205479452055
+Las Brujas,2023,365,365,1.0
+Las Brujas,2024,366,366,1.0
+Las Brujas,2025,365,365,1.0
+Las Brujas,2026,259,259,1.0
+Salto Grande,2016,182,182,1.0
+Salto Grande,2017,365,365,1.0
+Salto Grande,2018,365,365,1.0
+Salto Grande,2019,365,365,1.0
+Salto Grande,2020,366,366,1.0
+Salto Grande,2021,365,365,1.0
+Salto Grande,2022,365,365,1.0
+Salto Grande,2023,365,365,1.0
+Salto Grande,2024,366,366,1.0
+Salto Grande,2025,365,365,1.0
+Salto Grande,2026,260,259,0.9961538461538462
+Tacuarembó La Magnolia,2016,182,182,1.0
+Tacuarembó La Magnolia,2017,365,365,1.0
+Tacuarembó La Magnolia,2018,365,365,1.0
+Tacuarembó La Magnolia,2019,365,365,1.0
+Tacuarembó La Magnolia,2020,366,366,1.0
+Tacuarembó La Magnolia,2021,365,365,1.0
+Tacuarembó La Magnolia,2022,365,364,0.9972602739726028
+Tacuarembó La Magnolia,2023,365,365,1.0
+Tacuarembó La Magnolia,2024,366,366,1.0
+Tacuarembó La Magnolia,2025,365,365,1.0
+Tacuarembó La Magnolia,2026,260,259,0.9961538461538462
+Treinta y Tres Paso de la Laguna,2016,182,181,0.9945054945054945
+Treinta y Tres Paso de la Laguna,2017,365,364,0.9972602739726028
+Treinta y Tres Paso de la Laguna,2018,365,365,1.0
+Treinta y Tres Paso de la Laguna,2019,365,364,0.9972602739726028
+Treinta y Tres Paso de la Laguna,2020,366,364,0.994535519125683
+Treinta y Tres Paso de la Laguna,2021,365,365,1.0
+Treinta y Tres Paso de la Laguna,2022,365,365,1.0
+Treinta y Tres Paso de la Laguna,2023,365,365,1.0
+Treinta y Tres Paso de la Laguna,2024,366,366,1.0
+Treinta y Tres Paso de la Laguna,2025,365,365,1.0
+Treinta y Tres Paso de la Laguna,2026,253,247,0.9762845849802372

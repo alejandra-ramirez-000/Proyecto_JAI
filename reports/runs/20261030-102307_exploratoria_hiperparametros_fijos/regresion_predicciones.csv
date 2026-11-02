@@ -1,0 +1,666 @@
+DepartamentoCodigo,Departamento,AnioEjercicio,fold,y_true,y_pred,modelo,conjunto,rol,familia,conjunto_variables,ventana
+2,Canelones,2017,2017,1.0879586108197528,1.151682073761876,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2017,2017,1.0223468546716954,1.077062373754554,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2017,2017,0.7697684851002138,0.7091844891329615,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2017,2017,0.7557956357659154,0.7274238839673588,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2017,2017,0.7658781525042876,0.7172738797294718,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2018,2018,1.0935251771646342,1.1509862529687658,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2018,2018,1.0546628542109475,1.0730228738121474,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2018,2018,0.7183329590755384,0.7156139298860459,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7308267053418838,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7212665846182666,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2019,2019,1.0901486346786926,1.1514083207795085,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2019,2019,1.0429318376704715,1.074489250879707,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2019,2019,0.702946677429244,0.7175372150918327,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7336735107109046,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7235307676883329,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2020,2020,1.1300690072839898,1.1464182742038462,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2020,2020,1.0801942673305966,1.0698314471721915,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2020,2020,0.7277006928060551,0.7144429631697313,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7268372324328212,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7238484413741306,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2021,2021,1.1280436839584898,1.1466714396195339,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2021,2021,1.0892427338827255,1.0687003888531752,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2021,2021,0.7224019562636321,0.7151053052375341,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7275102560822051,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.723838333592929,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2022,2022,1.1493570586514892,1.144007267782909,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2022,2022,1.090715052670121,1.068516349004751,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2022,2022,0.6935787656682096,0.718708204061962,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7317365073321701,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.723105234168876,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2023,2023,1.2104996788242965,1.136364440261308,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2023,2023,1.0839920536778134,1.0693567238787893,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2023,2023,0.7014881073318919,0.7177195363540017,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2023,2023,0.7232591792655054,0.73149094102991,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7188875634690935,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2024,2024,1.2286430036132505,1.1340965246626888,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2024,2024,1.0861074527364782,1.0690922989964562,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2024,2024,0.6952520170606759,0.7184990476379037,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7326288447972193,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7243625197466762,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2025,2025,1.183170345920165,1.1397806068743244,R1_promedio_departamental,completo,baseline,,,
+4,Colonia,2025,2025,1.0886527378572783,1.068774138356356,R1_promedio_departamental,completo,baseline,,,
+15,Salto,2025,2025,0.7117747374284445,0.7164337075919326,R1_promedio_departamental,completo,baseline,,,
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7330588258103128,R1_promedio_departamental,completo,baseline,,,
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7279558659522853,R1_promedio_departamental,completo,baseline,,,
+2,Canelones,2018,2018,1.0935251771646342,1.1599902018471961,R1_promedio_departamental,con_rezago,baseline,,,
+4,Colonia,2018,2018,1.0546628542109475,1.0802623051179263,R1_promedio_departamental,con_rezago,baseline,,,
+15,Salto,2018,2018,0.7183329590755384,0.7078775648554504,R1_promedio_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7272597152813078,R1_promedio_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7148935034916922,R1_promedio_departamental,con_rezago,baseline,,,
+2,Canelones,2019,2019,1.0901486346786926,1.1604725650594736,R1_promedio_departamental,con_rezago,baseline,,,
+4,Colonia,2019,2019,1.0429318376704715,1.0819381646237087,R1_promedio_departamental,con_rezago,baseline,,,
+15,Salto,2019,2019,0.702946677429244,0.7100756050906354,R1_promedio_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7305132071316173,R1_promedio_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7174811412860536,R1_promedio_departamental,con_rezago,baseline,,,
+2,Canelones,2020,2020,1.1300690072839898,1.154769654687288,R1_promedio_departamental,con_rezago,baseline,,,
+4,Colonia,2020,2020,1.0801942673305966,1.076614960386548,R1_promedio_departamental,con_rezago,baseline,,,
+15,Salto,2020,2020,0.7277006928060551,0.7065393171796623,R1_promedio_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7227003176709506,R1_promedio_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7178441969269654,R1_promedio_departamental,con_rezago,baseline,,,
+2,Canelones,2021,2021,1.1280436839584898,1.1550589865909313,R1_promedio_departamental,con_rezago,baseline,,,
+4,Colonia,2021,2021,1.0892427338827255,1.0753223223076724,R1_promedio_departamental,con_rezago,baseline,,,
+15,Salto,2021,2021,0.7224019562636321,0.7072962795428657,R1_promedio_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7234694875559607,R1_promedio_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7178326451770207,R1_promedio_departamental,con_rezago,baseline,,,
+2,Canelones,2022,2022,1.1493570586514892,1.1520142187776456,R1_promedio_departamental,con_rezago,baseline,,,
+4,Colonia,2022,2022,1.090715052670121,1.0751119910523301,R1_promedio_departamental,con_rezago,baseline,,,
+15,Salto,2022,2022,0.6935787656682096,0.7114138781993545,R1_promedio_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7282994889844921,R1_promedio_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7169948172638171,R1_promedio_departamental,con_rezago,baseline,,,
+2,Canelones,2023,2023,1.2104996788242965,1.1432795587529587,R1_promedio_departamental,con_rezago,baseline,,,
+4,Colonia,2023,2023,1.0839920536778134,1.0760724194798026,R1_promedio_departamental,con_rezago,baseline,,,
+15,Salto,2023,2023,0.7014881073318919,0.7102839722474,R1_promedio_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7280188417819092,R1_promedio_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7121746221783515,R1_promedio_departamental,con_rezago,baseline,,,
+2,Canelones,2024,2024,1.2286430036132505,1.1406876552116796,R1_promedio_departamental,con_rezago,baseline,,,
+4,Colonia,2024,2024,1.0861074527364782,1.075770219614279,R1_promedio_departamental,con_rezago,baseline,,,
+15,Salto,2024,2024,0.6952520170606759,0.7111748422861451,R1_promedio_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7293193032302627,R1_promedio_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7184317150670173,R1_promedio_departamental,con_rezago,baseline,,,
+2,Canelones,2025,2025,1.183170345920165,1.1471837491678347,R1_promedio_departamental,con_rezago,baseline,,,
+4,Colonia,2025,2025,1.0886527378572783,1.0754066074541648,R1_promedio_departamental,con_rezago,baseline,,,
+15,Salto,2025,2025,0.7117747374284445,0.7088144536621782,R1_promedio_departamental,con_rezago,baseline,,,
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7298107101023695,R1_promedio_departamental,con_rezago,baseline,,,
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7225383964448564,R1_promedio_departamental,con_rezago,baseline,,,
+2,Canelones,2018,2018,1.0935251771646342,1.0879586108197528,R2_persistencia,con_rezago,baseline,,,
+4,Colonia,2018,2018,1.0546628542109475,1.0223468546716954,R2_persistencia,con_rezago,baseline,,,
+15,Salto,2018,2018,0.7183329590755384,0.7697684851002138,R2_persistencia,con_rezago,baseline,,,
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7557956357659154,R2_persistencia,con_rezago,baseline,,,
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7658781525042876,R2_persistencia,con_rezago,baseline,,,
+2,Canelones,2019,2019,1.0901486346786926,1.0935251771646342,R2_persistencia,con_rezago,baseline,,,
+4,Colonia,2019,2019,1.0429318376704715,1.0546628542109475,R2_persistencia,con_rezago,baseline,,,
+15,Salto,2019,2019,0.702946677429244,0.7183329590755384,R2_persistencia,con_rezago,baseline,,,
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7285730647697157,R2_persistencia,con_rezago,baseline,,,
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7339365133939285,R2_persistencia,con_rezago,baseline,,,
+2,Canelones,2020,2020,1.1300690072839898,1.0901486346786926,R2_persistencia,con_rezago,baseline,,,
+4,Colonia,2020,2020,1.0801942673305966,1.0429318376704715,R2_persistencia,con_rezago,baseline,,,
+15,Salto,2020,2020,0.7277006928060551,0.702946677429244,R2_persistencia,con_rezago,baseline,,,
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7057986218175486,R2_persistencia,con_rezago,baseline,,,
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7158230488333991,R2_persistencia,con_rezago,baseline,,,
+2,Canelones,2021,2021,1.1280436839584898,1.1300690072839898,R2_persistencia,con_rezago,baseline,,,
+4,Colonia,2021,2021,1.0892427338827255,1.0801942673305966,R2_persistencia,con_rezago,baseline,,,
+15,Salto,2021,2021,0.7224019562636321,0.7277006928060551,R2_persistencia,con_rezago,baseline,,,
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7604888480422161,R2_persistencia,con_rezago,baseline,,,
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7132816593470166,R2_persistencia,con_rezago,baseline,,,
+2,Canelones,2022,2022,1.1493570586514892,1.1280436839584898,R2_persistencia,con_rezago,baseline,,,
+4,Colonia,2022,2022,1.090715052670121,1.0892427338827255,R2_persistencia,con_rezago,baseline,,,
+15,Salto,2022,2022,0.6935787656682096,0.7224019562636321,R2_persistencia,con_rezago,baseline,,,
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7551046588471447,R2_persistencia,con_rezago,baseline,,,
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7133625215966296,R2_persistencia,con_rezago,baseline,,,
+2,Canelones,2023,2023,1.2104996788242965,1.1493570586514892,R2_persistencia,con_rezago,baseline,,,
+4,Colonia,2023,2023,1.0839920536778134,1.090715052670121,R2_persistencia,con_rezago,baseline,,,
+15,Salto,2023,2023,0.7014881073318919,0.6935787656682096,R2_persistencia,con_rezago,baseline,,,
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7212946488474249,R2_persistencia,con_rezago,baseline,,,
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7192273169890547,R2_persistencia,con_rezago,baseline,,,
+2,Canelones,2024,2024,1.2286430036132505,1.2104996788242965,R2_persistencia,con_rezago,baseline,,,
+4,Colonia,2024,2024,1.0861074527364782,1.0839920536778134,R2_persistencia,con_rezago,baseline,,,
+15,Salto,2024,2024,0.6952520170606759,0.7014881073318919,R2_persistencia,con_rezago,baseline,,,
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7232591792655054,R2_persistencia,con_rezago,baseline,,,
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7529686825873138,R2_persistencia,con_rezago,baseline,,,
+2,Canelones,2025,2025,1.183170345920165,1.2286430036132505,R2_persistencia,con_rezago,baseline,,,
+4,Colonia,2025,2025,1.0886527378572783,1.0861074527364782,R2_persistencia,con_rezago,baseline,,,
+15,Salto,2025,2025,0.7117747374284445,0.6952520170606759,R2_persistencia,con_rezago,baseline,,,
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7141559491270311,R2_persistencia,con_rezago,baseline,,,
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7091690323666524,R2_persistencia,con_rezago,baseline,,,
+2,Canelones,2017,2017,1.0879586108197528,1.0612951611296737,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2017,2017,1.0223468546716954,1.0430081802427187,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2017,2017,0.7697684851002138,0.7277142040681945,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2017,2017,0.7557956357659154,0.7572875517484294,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2017,2017,0.7658781525042876,0.7446160799516537,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2018,2018,1.0935251771646342,1.0915578772542394,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2018,2018,1.0546628542109475,1.0124054753641636,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2018,2018,0.7183329590755384,0.6758766001609288,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7288612004503515,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7175164120581643,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2019,2019,1.0901486346786926,1.1105750641667975,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2019,2019,1.0429318376704715,1.063182708184952,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2019,2019,0.702946677429244,0.6856979610905981,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7217959276302119,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7225047463900454,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2020,2020,1.1300690072839898,1.1265494427962834,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2020,2020,1.0801942673305966,1.0772504527729,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2020,2020,0.7277006928060551,0.7244411572178324,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7147752658666917,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7538089154611465,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2021,2021,1.1280436839584898,1.1478565131189136,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2021,2021,1.0892427338827255,1.0900366070744836,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2021,2021,0.7224019562636321,0.7585484398990969,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7678221627311521,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7735002418956045,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2022,2022,1.1493570586514892,1.1416839386747202,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2022,2022,1.090715052670121,1.104151304436681,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2022,2022,0.6935787656682096,0.755761825482731,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7883428062360487,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7625859269815607,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2023,2023,1.2104996788242965,1.0823881173455137,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2023,2023,1.0839920536778134,1.0280850803535255,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2023,2023,0.7014881073318919,0.6878966737133542,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7237561807618629,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7436618946728712,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2024,2024,1.2286430036132505,1.111286486326279,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2024,2024,1.0861074527364782,1.0347991674275006,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2024,2024,0.6952520170606759,0.6961111319240374,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2024,2024,0.7141559491270311,0.6653584056649922,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.6882915101999368,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2025,2025,1.183170345920165,1.180458821512321,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+4,Colonia,2025,2025,1.0886527378572783,1.0360205192935368,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+15,Salto,2025,2025,0.7117747374284445,0.7482270321935294,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7804447127511945,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7648490519551472,ridge_A_ejercicio_fijo,completo,principal,ridge,A,ejercicio
+2,Canelones,2018,2018,1.0935251771646342,1.0910001527513717,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+4,Colonia,2018,2018,1.0546628542109475,1.0150783188530532,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+15,Salto,2018,2018,0.7183329590755384,0.6715220674395161,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7309032071769306,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.715255504591956,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+2,Canelones,2019,2019,1.0901486346786926,1.108368917581358,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+4,Colonia,2019,2019,1.0429318376704715,1.065815591293155,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+15,Salto,2019,2019,0.702946677429244,0.6811334686351659,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7217478532029091,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7202933053420463,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+2,Canelones,2020,2020,1.1300690072839898,1.1249061523860484,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+4,Colonia,2020,2020,1.0801942673305966,1.0819489163791933,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+15,Salto,2020,2020,0.7277006928060551,0.7169815860867115,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+18,Tacuarembó,2020,2020,0.7604888480422161,0.71205932978799,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7542575590241762,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+2,Canelones,2021,2021,1.1280436839584898,1.1456245696272793,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+4,Colonia,2021,2021,1.0892427338827255,1.092820226112673,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+15,Salto,2021,2021,0.7224019562636321,0.7538963372990886,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7676587566970363,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7732885467833637,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+2,Canelones,2022,2022,1.1493570586514892,1.1256145046586532,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+4,Colonia,2022,2022,1.090715052670121,1.1045175812827734,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+15,Salto,2022,2022,0.6935787656682096,0.7521015081736084,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7850758568013423,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7577445608103114,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+2,Canelones,2023,2023,1.2104996788242965,1.0748890559544488,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+4,Colonia,2023,2023,1.0839920536778134,1.029798187717038,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+15,Salto,2023,2023,0.7014881073318919,0.6791539730413712,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7206320914549913,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7398455478666276,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+2,Canelones,2024,2024,1.2286430036132505,1.10834052056841,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+4,Colonia,2024,2024,1.0861074527364782,1.0344463080547779,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+15,Salto,2024,2024,0.6952520170606759,0.6887960494535473,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+18,Tacuarembó,2024,2024,0.7141559491270311,0.6575346042154314,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.6809188329374487,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+2,Canelones,2025,2025,1.183170345920165,1.17964476384223,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+4,Colonia,2025,2025,1.0886527378572783,1.0351952092113883,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+15,Salto,2025,2025,0.7117747374284445,0.741994784408725,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7805640295434668,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7623050964893926,ridge_A_ejercicio_fijo,con_rezago,principal,ridge,A,ejercicio
+2,Canelones,2018,2018,1.0935251771646342,1.096619321859706,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+4,Colonia,2018,2018,1.0546628542109475,1.0213120103454643,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+15,Salto,2018,2018,0.7183329590755384,0.7477719386378328,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7508472647461574,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7536162613728513,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+2,Canelones,2019,2019,1.0901486346786926,1.1039034106982901,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+4,Colonia,2019,2019,1.0429318376704715,1.0638579435991313,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+15,Salto,2019,2019,0.702946677429244,0.7027104263027505,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7237522287048692,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7229314563264533,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+2,Canelones,2020,2020,1.1300690072839898,1.1000082666113287,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+4,Colonia,2020,2020,1.0801942673305966,1.0536239380225818,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+15,Salto,2020,2020,0.7277006928060551,0.6978433592812362,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+18,Tacuarembó,2020,2020,0.7604888480422161,0.6949067926395683,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7119456760810956,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+2,Canelones,2021,2021,1.1280436839584898,1.1417866990194612,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+4,Colonia,2021,2021,1.0892427338827255,1.088385407015547,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+15,Salto,2021,2021,0.7224019562636321,0.7313740460704117,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7616401790482249,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7169766905490088,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+2,Canelones,2022,2022,1.1493570586514892,1.155253623472857,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+4,Colonia,2022,2022,1.090715052670121,1.103905047179717,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+15,Salto,2022,2022,0.6935787656682096,0.7299435679333692,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7702231338538776,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7208897596756008,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+2,Canelones,2023,2023,1.2104996788242965,1.128034979002451,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+4,Colonia,2023,2023,1.0839920536778134,1.0734998798565847,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+15,Salto,2023,2023,0.7014881073318919,0.6790998930059937,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7143658063627575,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7086578211326102,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+2,Canelones,2024,2024,1.2286430036132505,1.18807173361827,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+4,Colonia,2024,2024,1.0861074527364782,1.0759340415376684,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+15,Salto,2024,2024,0.6952520170606759,0.6912381939929579,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7006321426633859,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7288593372554599,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+2,Canelones,2025,2025,1.183170345920165,1.2343192187796193,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+4,Colonia,2025,2025,1.0886527378572783,1.0799808379918094,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+15,Salto,2025,2025,0.7117747374284445,0.7027389276493681,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7300954686793422,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7198133080193326,ridge_C-A_ejercicio_fijo,con_rezago,principal,ridge,C-A,ejercicio
+2,Canelones,2017,2017,1.0879586108197528,1.1086363652365245,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2017,2017,1.0223468546716954,1.0281686222234723,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2017,2017,0.7697684851002138,0.7300592671962458,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2017,2017,0.7557956357659154,0.7445092792113344,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2017,2017,0.7658781525042876,0.7408373086753293,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2018,2018,1.0935251771646342,1.1302455635712492,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2018,2018,1.0546628542109475,1.0639432786951422,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2018,2018,0.7183329590755384,0.7326210255304267,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2018,2018,0.7285730647697157,0.720464405948128,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7400988645858304,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2019,2019,1.0901486346786926,1.1001097496397112,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2019,2019,1.0429318376704715,1.0404078649393573,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2019,2019,0.702946677429244,0.7476626014957515,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2019,2019,0.7057986218175486,0.752895596132748,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7290757360586243,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2020,2020,1.1300690072839898,1.0948591139639687,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2020,2020,1.0801942673305966,1.0809277465408562,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2020,2020,0.7277006928060551,0.7080516692479434,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7362444959277192,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7412756341615051,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2021,2021,1.1280436839584898,1.121246723851781,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2021,2021,1.0892427338827255,1.0604053314427817,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2021,2021,0.7224019562636321,0.7342386595171402,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7479087610205476,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7535926396684522,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2022,2022,1.1493570586514892,1.1267504177550767,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2022,2022,1.090715052670121,1.0428389707194845,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2022,2022,0.6935787656682096,0.7623830783228742,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7877754120125438,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7651873419724232,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2023,2023,1.2104996788242965,1.0689337132283183,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2023,2023,1.0839920536778134,1.0092827070695682,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2023,2023,0.7014881073318919,0.70817339042306,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2023,2023,0.7232591792655054,0.719076130549316,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7272747149793582,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2024,2024,1.2286430036132505,1.1118373455952901,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2024,2024,1.0861074527364782,1.035653966095107,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2024,2024,0.6952520170606759,0.728832408464605,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2024,2024,0.7141559491270311,0.753270347368576,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7117241061904651,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2025,2025,1.183170345920165,1.1224959925656441,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+4,Colonia,2025,2025,1.0886527378572783,1.0553469114317575,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+15,Salto,2025,2025,0.7117747374284445,0.7525020635887589,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7441898521136985,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.754883162511802,ridge_B_ejercicio_fijo,completo,principal,ridge,B,ejercicio
+2,Canelones,2018,2018,1.0935251771646342,1.1312830180646358,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+4,Colonia,2018,2018,1.0546628542109475,1.0628733043474599,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+15,Salto,2018,2018,0.7183329590755384,0.7279581616419283,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7213059649408067,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7375158255920239,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+2,Canelones,2019,2019,1.0901486346786926,1.10475145366,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+4,Colonia,2019,2019,1.0429318376704715,1.042361952444264,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+15,Salto,2019,2019,0.702946677429244,0.7423996103538524,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7517452141231425,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7275228008202913,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+2,Canelones,2020,2020,1.1300690072839898,1.0973736482192022,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+4,Colonia,2020,2020,1.0801942673305966,1.0771926024122702,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+15,Salto,2020,2020,0.7277006928060551,0.7050436704486254,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7341023222021315,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7380044267205931,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+2,Canelones,2021,2021,1.1280436839584898,1.1228591694513324,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+4,Colonia,2021,2021,1.0892427338827255,1.0592489665390248,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+15,Salto,2021,2021,0.7224019562636321,0.7305189578489528,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7466585903361562,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7500448199451156,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+2,Canelones,2022,2022,1.1493570586514892,1.1275423890253302,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+4,Colonia,2022,2022,1.090715052670121,1.041260906462013,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+15,Salto,2022,2022,0.6935787656682096,0.7583619641342245,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7876686900174135,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7628991434392997,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+2,Canelones,2023,2023,1.2104996788242965,1.0682308247087775,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+4,Colonia,2023,2023,1.0839920536778134,1.0075114018700568,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+15,Salto,2023,2023,0.7014881073318919,0.7031979686568948,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+18,Tacuarembó,2023,2023,0.7232591792655054,0.717848780967109,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7227102877608934,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+2,Canelones,2024,2024,1.2286430036132505,1.1116247538640747,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+4,Colonia,2024,2024,1.0861074527364782,1.0355830538839046,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+15,Salto,2024,2024,0.6952520170606759,0.7241732782037349,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7509397333452388,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7089317466488798,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+2,Canelones,2025,2025,1.183170345920165,1.1230003189140048,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+4,Colonia,2025,2025,1.0886527378572783,1.0549632206862338,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+15,Salto,2025,2025,0.7117747374284445,0.7469157555955739,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7439491894266359,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7522570719527575,ridge_B_ejercicio_fijo,con_rezago,principal,ridge,B,ejercicio
+2,Canelones,2018,2018,1.0935251771646342,1.108452977821119,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+4,Colonia,2018,2018,1.0546628542109475,1.0311758524257733,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+15,Salto,2018,2018,0.7183329590755384,0.763140939336259,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7543298200740127,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7590587086059841,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+2,Canelones,2019,2019,1.0901486346786926,1.1043844947825294,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+4,Colonia,2019,2019,1.0429318376704715,1.0590083053892676,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+15,Salto,2019,2019,0.702946677429244,0.7179149335458632,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7322116490253594,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7275250282148016,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+2,Canelones,2020,2020,1.1300690072839898,1.0893915949321493,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+4,Colonia,2020,2020,1.0801942673305966,1.0520159216778928,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+15,Salto,2020,2020,0.7277006928060551,0.6886471896791213,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+18,Tacuarembó,2020,2020,0.7604888480422161,0.6942005369545277,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.705979294017543,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+2,Canelones,2021,2021,1.1280436839584898,1.1355361634283954,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+4,Colonia,2021,2021,1.0892427338827255,1.0793889089105222,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+15,Salto,2021,2021,0.7224019562636321,0.7170470113418657,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7541888200193958,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7079299444786326,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+2,Canelones,2022,2022,1.1493570586514892,1.1382071151456117,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+4,Colonia,2022,2022,1.090715052670121,1.0817352210470266,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+15,Salto,2022,2022,0.6935787656682096,0.7377168662085635,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7705990049678397,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.722893482875146,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+2,Canelones,2023,2023,1.2104996788242965,1.131767925804692,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+4,Colonia,2023,2023,1.0839920536778134,1.072889670302568,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+15,Salto,2023,2023,0.7014881073318919,0.684221015898405,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+18,Tacuarembó,2023,2023,0.7232591792655054,0.711549078102967,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7014760656317968,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+2,Canelones,2024,2024,1.2286430036132505,1.1960802954275094,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+4,Colonia,2024,2024,1.0861074527364782,1.0836241008073308,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+15,Salto,2024,2024,0.6952520170606759,0.7015836013525525,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7191553430948145,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7421062426834969,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+2,Canelones,2025,2025,1.183170345920165,1.2271082756899652,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+4,Colonia,2025,2025,1.0886527378572783,1.0895089037613008,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+15,Salto,2025,2025,0.7117747374284445,0.6984419356667844,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7151635328609367,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.712954547044169,ridge_C-B_ejercicio_fijo,con_rezago,principal,ridge,C-B,ejercicio
+2,Canelones,2017,2017,1.0879586108197528,1.1180162553710538,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2017,2017,1.0223468546716954,1.0515396252024145,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2017,2017,0.7697684851002138,0.7452249494905645,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2017,2017,0.7557956357659154,0.7944351381187189,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2017,2017,0.7658781525042876,0.7561814413703831,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2018,2018,1.0935251771646342,0.9620617562547038,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2018,2018,1.0546628542109475,0.9169297576234469,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2018,2018,0.7183329590755384,0.5756028025118687,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2018,2018,0.7285730647697157,0.5904716035350623,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.5824882689533464,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2019,2019,1.0901486346786926,1.1254455887341717,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2019,2019,1.0429318376704715,1.0613702404191276,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2019,2019,0.702946677429244,0.7312068435318883,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7493964679031988,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7374516212320675,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2020,2020,1.1300690072839898,1.136569340784616,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2020,2020,1.0801942673305966,1.0808203953055726,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2020,2020,0.7277006928060551,0.7244682414120915,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7362862974143574,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7471213701165718,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2021,2021,1.1280436839584898,1.1653427441341178,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2021,2021,1.0892427338827255,1.0883923099931871,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2021,2021,0.7224019562636321,0.7619920897192494,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7518561320120415,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7829434881934721,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2022,2022,1.1493570586514892,1.1052306681836541,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2022,2022,1.090715052670121,1.047013270793102,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2022,2022,0.6935787656682096,0.7252532650674951,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7517063698028112,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7284020203814453,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2023,2023,1.2104996788242965,1.0890399714161956,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2023,2023,1.0839920536778134,1.0669697785146224,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2023,2023,0.7014881073318919,0.7320523393732665,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7522980253041595,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7621945043202593,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2024,2024,1.2286430036132505,1.1090483861956013,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2024,2024,1.0861074527364782,1.0535822932746066,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2024,2024,0.6952520170606759,0.7219575908564762,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7266294893043207,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7467070652988491,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2025,2025,1.183170345920165,1.1547949356648213,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+4,Colonia,2025,2025,1.0886527378572783,1.049666926223064,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+15,Salto,2025,2025,0.7117747374284445,0.7358557344935306,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7515547425556973,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7548934137819419,ridge_A_jul_oct_fijo,completo,sensibilidad,ridge,A,jul_oct
+2,Canelones,2018,2018,1.0935251771646342,0.9577218239772184,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+4,Colonia,2018,2018,1.0546628542109475,0.9107099706670159,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+15,Salto,2018,2018,0.7183329590755384,0.5654113198405385,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2018,2018,0.7285730647697157,0.5907072499362825,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.5733621462603511,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+2,Canelones,2019,2019,1.0901486346786926,1.1281719984162601,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+4,Colonia,2019,2019,1.0429318376704715,1.0653731997629525,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+15,Salto,2019,2019,0.702946677429244,0.7275926622268615,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7548463556007987,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7365696260444186,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+2,Canelones,2020,2020,1.1300690072839898,1.1450298229053546,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+4,Colonia,2020,2020,1.0801942673305966,1.0874969801800085,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+15,Salto,2020,2020,0.7277006928060551,0.7255417801833307,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7478311832801081,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7538832333471612,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+2,Canelones,2021,2021,1.1280436839584898,1.1699869284261002,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+4,Colonia,2021,2021,1.0892427338827255,1.0931216040261336,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+15,Salto,2021,2021,0.7224019562636321,0.7609000945077601,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7570379888575979,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7848013418048103,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+2,Canelones,2022,2022,1.1493570586514892,1.108553587304543,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+4,Colonia,2022,2022,1.090715052670121,1.049704726662545,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+15,Salto,2022,2022,0.6935787656682096,0.7219381654960138,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7572088561340031,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7274099141620657,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+2,Canelones,2023,2023,1.2104996788242965,1.0897651724059318,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+4,Colonia,2023,2023,1.0839920536778134,1.0712531750762664,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+15,Salto,2023,2023,0.7014881073318919,0.7298138172166762,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7577620439573843,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7628487233480213,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+2,Canelones,2024,2024,1.2286430036132505,1.111303262992033,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+4,Colonia,2024,2024,1.0861074527364782,1.0564379919253748,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+15,Salto,2024,2024,0.6952520170606759,0.7189615768928557,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7311965013099806,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7467760685977484,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+2,Canelones,2025,2025,1.183170345920165,1.1590606584150893,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+4,Colonia,2025,2025,1.0886527378572783,1.0526177734441533,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+15,Salto,2025,2025,0.7117747374284445,0.7340116915033066,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7567104209211651,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7549802045439343,ridge_A_jul_oct_fijo,con_rezago,sensibilidad,ridge,A,jul_oct
+2,Canelones,2018,2018,1.0935251771646342,1.058473858801527,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+4,Colonia,2018,2018,1.0546628542109475,0.9814262829528994,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+15,Salto,2018,2018,0.7183329590755384,0.7038519770572895,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+18,Tacuarembó,2018,2018,0.7285730647697157,0.6956308622715188,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.6944754284164902,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+2,Canelones,2019,2019,1.0901486346786926,1.1048710403066444,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+4,Colonia,2019,2019,1.0429318376704715,1.0656622906433024,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+15,Salto,2019,2019,0.702946677429244,0.7063955757244497,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7333220355228417,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7242647883263229,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+2,Canelones,2020,2020,1.1300690072839898,1.107996109131345,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+4,Colonia,2020,2020,1.0801942673305966,1.0578652111197036,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+15,Salto,2020,2020,0.7277006928060551,0.7016185057723228,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7106539095626843,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.719253974354754,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+2,Canelones,2021,2021,1.1280436839584898,1.1418143367624984,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+4,Colonia,2021,2021,1.0892427338827255,1.0883356748628374,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+15,Salto,2021,2021,0.7224019562636321,0.7232802998945647,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+18,Tacuarembó,2021,2021,0.7551046588471447,0.739999071365619,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7135874557339005,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+2,Canelones,2022,2022,1.1493570586514892,1.1403312156074799,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+4,Colonia,2022,2022,1.090715052670121,1.0857626622728016,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+15,Salto,2022,2022,0.6935787656682096,0.7090767653359834,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7566945838888964,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7065030093362907,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+2,Canelones,2023,2023,1.2104996788242965,1.1434218731021952,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+4,Colonia,2023,2023,1.0839920536778134,1.0908764835345188,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+15,Salto,2023,2023,0.7014881073318919,0.7047711779489586,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7340779047259665,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7184417864735734,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+2,Canelones,2024,2024,1.2286430036132505,1.1860504819145095,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+4,Colonia,2024,2024,1.0861074527364782,1.0795396116766738,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+15,Salto,2024,2024,0.6952520170606759,0.695263144708069,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7276601397494277,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.756186106817019,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+2,Canelones,2025,2025,1.183170345920165,1.23080441024578,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+4,Colonia,2025,2025,1.0886527378572783,1.086354844738196,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+15,Salto,2025,2025,0.7117747374284445,0.7013567337872083,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7189271806069035,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7108272468824414,ridge_C-A_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-A,jul_oct
+2,Canelones,2017,2017,1.0879586108197528,1.101961863803655,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2017,2017,1.0223468546716954,1.0134799094848503,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2017,2017,0.7697684851002138,0.7402391227403546,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2017,2017,0.7557956357659154,0.7508326224934112,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2017,2017,0.7658781525042876,0.7460680528680086,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2018,2018,1.0935251771646342,1.1251386359394453,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2018,2018,1.0546628542109475,1.0512881767764755,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2018,2018,0.7183329590755384,0.7335689469093978,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7273277740453882,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7382274623356688,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2019,2019,1.0901486346786926,1.108992385643741,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2019,2019,1.0429318376704715,1.0511596992259955,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2019,2019,0.702946677429244,0.7394867401552947,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7398694819094441,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7274894056150601,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2020,2020,1.1300690072839898,1.0977904521842088,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2020,2020,1.0801942673305966,1.0972936669502915,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2020,2020,0.7277006928060551,0.7129845779872326,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7399043385613691,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.752398167473898,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2021,2021,1.1280436839584898,1.1493687477237151,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2021,2021,1.0892427338827255,1.0779321750406352,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2021,2021,0.7224019562636321,0.7386431709362375,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7532974197585801,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7541350650581613,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2022,2022,1.1493570586514892,1.1175396522483116,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2022,2022,1.090715052670121,1.0272964090952652,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2022,2022,0.6935787656682096,0.7607281665713339,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7830868388595176,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7574382870573274,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2023,2023,1.2104996788242965,1.0730375880064296,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2023,2023,1.0839920536778134,1.0161567930038444,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2023,2023,0.7014881073318919,0.721441738555711,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7281182263321833,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7263941158538177,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2024,2024,1.2286430036132505,1.1073535083964996,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2024,2024,1.0861074527364782,1.0450973997474078,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2024,2024,0.6952520170606759,0.7216154209174963,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7435351916422197,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7180934531807932,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2025,2025,1.183170345920165,1.1108074016882385,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+4,Colonia,2025,2025,1.0886527378572783,1.041213101122982,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+15,Salto,2025,2025,0.7117747374284445,0.7551660385525842,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7683400520343885,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7594467928694824,ridge_B_jul_oct_fijo,completo,sensibilidad,ridge,B,jul_oct
+2,Canelones,2018,2018,1.0935251771646342,1.1261682281089684,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+4,Colonia,2018,2018,1.0546628542109475,1.0501597861149652,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+15,Salto,2018,2018,0.7183329590755384,0.7299888589999083,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7267049474911564,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7359018539832973,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+2,Canelones,2019,2019,1.0901486346786926,1.112348611065534,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+4,Colonia,2019,2019,1.0429318376704715,1.0513403612714138,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+15,Salto,2019,2019,0.702946677429244,0.7363165343250113,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7400600831347701,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7260038405829058,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+2,Canelones,2020,2020,1.1300690072839898,1.0976300736664966,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+4,Colonia,2020,2020,1.0801942673305966,1.0939352895588517,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+15,Salto,2020,2020,0.7277006928060551,0.7099564422635166,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7385091188744208,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.749946591704108,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+2,Canelones,2021,2021,1.1280436839584898,1.1505702626179892,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+4,Colonia,2021,2021,1.0892427338827255,1.0741868076034007,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+15,Salto,2021,2021,0.7224019562636321,0.7375166201710492,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7537334552295772,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.753262291992813,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+2,Canelones,2022,2022,1.1493570586514892,1.1186936496269042,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+4,Colonia,2022,2022,1.090715052670121,1.0216931677562735,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+15,Salto,2022,2022,0.6935787656682096,0.7605767255499498,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7881150335136724,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7564678977092162,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+2,Canelones,2023,2023,1.2104996788242965,1.0709575844225268,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+4,Colonia,2023,2023,1.0839920536778134,1.0133805384245826,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+15,Salto,2023,2023,0.7014881073318919,0.7168734783177864,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2023,2023,0.7232591792655054,0.726802541348216,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7248845324708857,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+2,Canelones,2024,2024,1.2286430036132505,1.1071548666383109,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+4,Colonia,2024,2024,1.0861074527364782,1.0435040779416935,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+15,Salto,2024,2024,0.6952520170606759,0.7180255935509542,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7443828736859058,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7158156235437868,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+2,Canelones,2025,2025,1.183170345920165,1.1112435667707135,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+4,Colonia,2025,2025,1.0886527378572783,1.038204441019732,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+15,Salto,2025,2025,0.7117747374284445,0.754092576447864,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7696003458401357,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7603322788333798,ridge_B_jul_oct_fijo,con_rezago,sensibilidad,ridge,B,jul_oct
+2,Canelones,2018,2018,1.0935251771646342,1.1080404757966407,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+4,Colonia,2018,2018,1.0546628542109475,1.0305462607210345,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+15,Salto,2018,2018,0.7183329590755384,0.7641488421658693,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7526764750429176,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7561222054339966,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+2,Canelones,2019,2019,1.0901486346786926,1.1058679262219142,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+4,Colonia,2019,2019,1.0429318376704715,1.0598572521457987,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+15,Salto,2019,2019,0.702946677429244,0.7172993426527536,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7312470590040969,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7277986334780524,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+2,Canelones,2020,2020,1.1300690072839898,1.0860833568812696,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+4,Colonia,2020,2020,1.0801942673305966,1.047450322479311,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+15,Salto,2020,2020,0.7277006928060551,0.6901645524429073,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+18,Tacuarembó,2020,2020,0.7604888480422161,0.6953123793201625,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7019250706660218,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+2,Canelones,2021,2021,1.1280436839584898,1.145948425583759,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+4,Colonia,2021,2021,1.0892427338827255,1.0931709456521705,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+15,Salto,2021,2021,0.7224019562636321,0.7150713879856104,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7515696560171002,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7094656385072647,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+2,Canelones,2022,2022,1.1493570586514892,1.1336644804565754,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+4,Colonia,2022,2022,1.090715052670121,1.0754484470421595,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+15,Salto,2022,2022,0.6935787656682096,0.7384204582981087,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7696386174335372,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7206256646397191,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+2,Canelones,2023,2023,1.2104996788242965,1.1289344195253397,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+4,Colonia,2023,2023,1.0839920536778134,1.0736706223431305,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+15,Salto,2023,2023,0.7014881073318919,0.6901656818037889,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+18,Tacuarembó,2023,2023,0.7232591792655054,0.7158721469800478,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.7038542570472852,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+2,Canelones,2024,2024,1.2286430036132505,1.197823942985384,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+4,Colonia,2024,2024,1.0861074527364782,1.0826747200318818,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+15,Salto,2024,2024,0.6952520170606759,0.7004598896904894,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7189871493604204,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.741061883718766,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+2,Canelones,2025,2025,1.183170345920165,1.2226341879004412,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+4,Colonia,2025,2025,1.0886527378572783,1.0832940795412251,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+15,Salto,2025,2025,0.7117747374284445,0.7002031358780976,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7215661409502824,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.7151360696693674,ridge_C-B_jul_oct_fijo,con_rezago,sensibilidad,ridge,C-B,jul_oct
+2,Canelones,2018,2018,1.0935251771646342,1.1041762514946116,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+4,Colonia,2018,2018,1.0546628542109475,1.0321429406349223,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+15,Salto,2018,2018,0.7183329590755384,0.7614896619365464,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+18,Tacuarembó,2018,2018,0.7285730647697157,0.7522738170011609,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+19,Treinta y Tres,2018,2018,0.7339365133939285,0.7547623315580597,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+2,Canelones,2019,2019,1.0901486346786926,1.1099279030093017,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+4,Colonia,2019,2019,1.0429318376704715,1.0629873116994375,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+15,Salto,2019,2019,0.702946677429244,0.7168326898092984,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+18,Tacuarembó,2019,2019,0.7057986218175486,0.7306413348634806,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+19,Treinta y Tres,2019,2019,0.7158230488333991,0.7281264946157602,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+2,Canelones,2020,2020,1.1300690072839898,1.1005677424721803,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+4,Colonia,2020,2020,1.0801942673305966,1.0469039019594768,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+15,Salto,2020,2020,0.7277006928060551,0.6982800520302146,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+18,Tacuarembó,2020,2020,0.7604888480422161,0.7013789651692395,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+19,Treinta y Tres,2020,2020,0.7132816593470166,0.7106110033646829,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+2,Canelones,2021,2021,1.1280436839584898,1.1378496956038093,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+4,Colonia,2021,2021,1.0892427338827255,1.0800708630312392,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+15,Salto,2021,2021,0.7224019562636321,0.7224600175087368,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+18,Tacuarembó,2021,2021,0.7551046588471447,0.7529198872457777,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+19,Treinta y Tres,2021,2021,0.7133625215966296,0.7093488302164184,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+2,Canelones,2022,2022,1.1493570586514892,1.1334571247394973,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+4,Colonia,2022,2022,1.090715052670121,1.0881780450976266,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+15,Salto,2022,2022,0.6935787656682096,0.7213797316259056,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+18,Tacuarembó,2022,2022,0.7212946488474249,0.7523798982700985,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+19,Treinta y Tres,2022,2022,0.7192273169890547,0.7088098839049499,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+2,Canelones,2023,2023,1.2104996788242965,1.1446681803446759,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+4,Colonia,2023,2023,1.0839920536778134,1.0899135560743378,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+15,Salto,2023,2023,0.7014881073318919,0.6938433806170422,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+18,Tacuarembó,2023,2023,0.7232591792655054,0.721075714114517,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+19,Treinta y Tres,2023,2023,0.7529686825873138,0.709447170859171,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+2,Canelones,2024,2024,1.2286430036132505,1.1971159245268443,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+4,Colonia,2024,2024,1.0861074527364782,1.0835917158525914,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+15,Salto,2024,2024,0.6952520170606759,0.7025506380189175,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+18,Tacuarembó,2024,2024,0.7141559491270311,0.7246844803702336,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+19,Treinta y Tres,2024,2024,0.7091690323666524,0.7458003592430279,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+2,Canelones,2025,2025,1.183170345920165,1.2241468511501417,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+4,Colonia,2025,2025,1.0886527378572783,1.0869098125745298,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+15,Salto,2025,2025,0.7117747374284445,0.693354207178914,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+18,Tacuarembó,2025,2025,0.7107161010222837,0.7155929086934066,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima
+19,Treinta y Tres,2025,2025,0.6804222627217796,0.708806996825724,ridge_H_sin_clima_fijo,con_rezago,control,ridge,H,sin_clima

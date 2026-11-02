@@ -1,0 +1,8 @@
+conjunto,modelo,rol,MAE,mejor_baseline,MAE_mejor_baseline,skill_vs_mejor_baseline,c1_supera_baselines,mejora_suficiente,skill_minimo_sin_un_anio,c3_robusto_a_quitar_un_anio,c4_estabilidad_signos,c5_deptos_que_mejoran,c6_sensibilidad_que_supera,c6_sensibilidades_evaluadas,skill_vs_control_sin_clima,c4_signos_estables,valor_predictivo
+completo,ridge_A_ejercicio,principal,0.026863408892410068,R1_promedio_departamental,0.02626154204364537,-0.022918183850911156,False,False,-0.08871925637392164,False,1.0,2,0,4,,True,no
+con_rezago,ridge_A_ejercicio,principal,0.024627664841915073,R2_persistencia,0.019493989578528506,-0.2633465685772711,False,False,-0.4113504700917867,False,1.0,1,0,4,-0.30149494635924734,True,no
+con_rezago,ridge_C-A_ejercicio,principal,0.021038984536509327,R2_persistencia,0.019493989578528506,-0.07925493915737714,False,False,-0.14171168962889746,False,0.875,3,1,4,-0.11184443294007318,True,no
+completo,ridge_B_ejercicio,principal,0.02863175875092295,R1_promedio_departamental,0.02626154204364537,-0.0902542852715349,False,False,-0.14062445672956914,False,0.6666666666666666,1,1,4,,False,no
+con_rezago,ridge_B_ejercicio,principal,0.023871290385164494,R2_persistencia,0.019493989578528506,-0.22454617557902723,False,False,-0.39485688802278185,False,0.75,2,0,4,-0.2615229254902338,False,no
+con_rezago,ridge_C-B_ejercicio,principal,0.020987704980211,R2_persistencia,0.019493989578528506,-0.07662440752136912,False,False,-0.14718605948491703,False,0.625,2,0,4,-0.10913446901120594,False,no
+con_rezago,ridge_H_sin_clima,control,0.01892259736452114,R2_persistencia,0.019493989578528506,0.029311199316363834,True,False,-0.04098168332746277,False,,4,0,0,0.0,False,no aplica (control)
