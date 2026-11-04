@@ -16,3 +16,4 @@ pytest==9.2.0
 statsmodels==0.15.0
 ipykernel==7.4.0
 python-pptx==1.0.2   # solo para reports/banner/build_banner.py
+segno==1.6.6         # código QR del banner

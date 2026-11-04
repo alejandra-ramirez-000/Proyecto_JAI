@@ -127,6 +127,16 @@ python -m src.reporting.informe_cifras
 
 El comando escribe `reports/tables/informe_cifras.csv`, con la fuente de cada cifra. `tests/test_informe.py` verifica que se regeneran idénticas, que existen las corridas citadas y que existen las imágenes enlazadas.
 
+## Sitio del stand (español y portugués)
+
+La página final es `docs/index.html`, un único archivo sin dependencias externas, pensado para el celular y publicable con GitHub Pages. No editar a mano: se genera desde el molde `reports/sitio/plantilla.tpl`, que contiene los textos en los dos idiomas.
+
+```bash
+python reports/sitio/build_sitio.py
+```
+
+El QR y el cartel A4 para imprimir se generan con `python reports/sitio/build_cartel.py` (requiere `python-pptx` y `segno`).
+
 ## Reproducir todo desde cero
 
 ```bash
