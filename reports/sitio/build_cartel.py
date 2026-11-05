@@ -98,7 +98,7 @@ def build() -> Path:
              name="Dirección")
     rule(slide, 25.9, width=0.75)
     add_text(slide, 2, 26.15, 17, 1.2,
-             [("Sistema preditivo agroclimático de intensidade pecuária e risco de mortalidade", 15, True, False, BLACK)],
+             [("Análise de sistema preditivo agroclimático de intensidade pecuária e risco de mortalidade", 15, True, False, BLACK)],
              name="Título del trabajo")
     add_text(slide, 2, 27.35, 17, 0.8, [("Universidad Tecnológica del Uruguay (UTEC) · 41ª JAI–UFSM", 14, False, False, MUTED)],
              name="Institución")

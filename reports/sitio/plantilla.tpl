@@ -228,7 +228,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
       <li>Alvaro Martin Barreto Tacoronte</li>
       <li>Juan Pedro de León Sum</li>
     </ul>
-    <h1>[[es:Sistema predictivo agroclimático de intensidad ganadera y riesgo de mortalidad||pt:Sistema preditivo agroclimático de intensidade pecuária e risco de mortalidade]]</h1>
+    <h1>[[es:Análisis de sistema predictivo agroclimático de intensidad ganadera y riesgo de mortalidad||pt:Análise de sistema preditivo agroclimático de intensidade pecuária e risco de mortalidade]]</h1>
     <div class="cta">
       <a class="btn btn-main" href="#chill">[[es:Probar la calculadora||pt:Testar a calculadora]]</a>
       <a class="btn btn-ghost" href="#faq">[[es:Preguntas||pt:Perguntas]]</a>
